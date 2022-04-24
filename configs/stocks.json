@@ -1,0 +1,49 @@
+{
+  "layers": 28,
+  "d_model": 4096,
+  "n_heads": 16,
+  "n_vocab": 50400,
+  "norm": "layernorm",
+  "pe": "rotary",
+  "pe_rotary_dims": 64,
+
+  "seq": 2048,
+  "cores_per_replica": 8,
+  "per_replica_batch": 1,
+  "gradient_accumulation_steps": 32,
+
+  "warmup_steps": 160,
+  "anneal_steps": 1530,
+  "lr": 1.2e-4,
+  "end_lr": 1.2e-5,
+  "weight_decay": 0.1,
+  "total_steps": 1700,
+
+  "tpu_size": 8,
+
+  "bucket": "peckham_tpu_data",
+  "model_dir": "mesh_jax_stock_model",
+
+  "train_set": "stocks.train.index",
+  "val_set": {
+    "stocks": "stocks.val.index"
+  },
+
+  "eval_harness_tasks": [
+    "lambada",
+    "piqa",
+    "hellaswag",
+    "winogrande",
+    "mathqa",
+    "pubmedqa"
+  ],
+
+  "val_batches": 5777,
+  "val_every": 500,
+  "ckpt_every": 500,
+  "keep_every": 10000,
+
+  "name": "stocks",
+  "wandb_project": "mesh-transformer-jax",
+  "comment": ""
+}
