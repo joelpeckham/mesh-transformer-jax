@@ -278,7 +278,7 @@ def read_file_shards(
         return list(
             p.imap(
                 read_npz,
-                [ckpt_dir +'/'+ f"shard_{i}" +'/'+ fname for i in range(shards_in)],
+                [ckpt_dir / f"shard_{i}" / fname for i in range(shards_in)]
             )
         )
 
