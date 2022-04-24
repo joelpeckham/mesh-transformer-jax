@@ -274,10 +274,11 @@ def read_file_shards(
 ) -> List[List[np.ndarray]]:
     # read same file like "12.npz" across all shard directories
     with multiprocessing.pool.ThreadPool(shards_in) as p:
+        if DEBUG: print(f"Reading {fname} across {shards_in} shards with dir {ckpt_dir}")
         return list(
             p.imap(
                 read_npz,
-                [ckpt_dir / f"shard_{i}" / fname for i in range(shards_in)],
+                [ckpt_dir +'/'+ f"shard_{i}" +'/'+ fname for i in range(shards_in)],
             )
         )
 
