@@ -83,6 +83,7 @@ def read_shard(ckpt_dir):
     out = []
     for idx in range(16):
         file_path = ckpt_dir + f"{idx}.npz"
+        print(f"opening {file_path} in read_shard")
         with open(file_path, "rb") as f:
             buf = f.read()
             f_io = io.BytesIO(buf)
@@ -142,7 +143,9 @@ def read_ckpt(pytree, dir, shards_in, shards_out=None, load_opt=True):
     # TODO: figure out how to use a process pool here for more speed
     with multiprocessing.pool.ThreadPool(shards_in) as p:
         start = time.time()
-        shards = list((p.imap(read_shard, [f"{dir}shard_{i}/" for i in range(shards_in)])))
+        shardPaths = [f"{dir}shard_{i}/" for i in range(shards_in)]
+        print(shardPaths)
+        shards = list((p.imap(read_shard, shardPaths)))
         print(f"read from disk/gcs in {time.time() - start:.06}s")
 
     def _unshard(shards, old_flattened):
