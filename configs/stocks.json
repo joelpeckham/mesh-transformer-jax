@@ -21,7 +21,7 @@
 
   "tpu_size": 8,
 
-  "bucket": "peckham_tpu_data",
+  "bucket": "peckham_tpu_europe",
   "model_dir": "mesh_jax_stock_model",
 
   "train_set": "stocks.train.index",
