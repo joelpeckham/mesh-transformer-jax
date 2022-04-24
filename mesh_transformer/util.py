@@ -33,11 +33,9 @@ def global_norm(updates, use_psum=True):
         pre_sqrt = jax.lax.psum(pre_sqrt, "shard")
     return jnp.sqrt(pre_sqrt)
 
-if TYPE_CHECKING:
-    pass
-else:
-    class ClipByGlobalNormState(OptState):
-        """The `clip_by_global_norm` transformation is stateless."""
+
+class ClipByGlobalNormState(OptState):
+    """The `clip_by_global_norm` transformation is stateless."""
 
 
 def clip_by_global_norm(max_norm, use_psum=True) -> GradientTransformation:
