@@ -250,6 +250,7 @@ def reshard(x, old_shape, do_shard_ln, do_shard_bias):
 
 
 def read_npz(fpath: FluidPath):
+    print(f"Reading {fpath} in read_npz. fpath is of type: {type(fpath)}")
     # read npz file of ndarrays
     with fpath.open("rb") as f:
         buf = f.read()
