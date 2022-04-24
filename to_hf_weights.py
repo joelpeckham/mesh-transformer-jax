@@ -275,12 +275,9 @@ def read_file_shards(
     # read same file like "12.npz" across all shard directories
     with multiprocessing.pool.ThreadPool(shards_in) as p:
         if DEBUG: print(f"Reading {fname} across {shards_in} shards with dir {ckpt_dir}")
-        return list(
-            p.imap(
-                read_npz,
-                [ckpt_dir / f"shard_{i}" / fname for i in range(shards_in)]
-            )
-        )
+        shardPaths = [ckpt_dir / f"shard_{i}" / fname for i in range(shards_in)]
+        print(f"SharPaths: {shardPaths}")
+        return list(p.imap(read_npz, shardPaths))
 
 
 def lazy_read_ckpt_shards(
