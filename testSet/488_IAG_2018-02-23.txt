@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'IAG to expand in Austria this year' was published on 2018-02-23. The body of the article is as follows:\n    \nLONDON, Feb 23 (Reuters) - British Airways-owner IAG will expand in Austria this summer, with a decision due in the next couple of weeks about how it plans to go about it, said the group\u2019s chief executive Willie Walsh.\nIAG lost out on a bid for Austria-based airline Niki in January, with former motor racing champion Niki Lauda offering more to buy back the airline he founded, but Walsh said IAG would grow in that market despite not acquiring Niki.\n\u201cYou should expect to see a stronger IAG presence in Austria,\u201d he told reporters on a call on Friday, adding the group had not yet decided via which airline to expand.\n\u201cI expect to do something for this summer... We\u2019ll make a decision on that in the next couple of weeks,\u201d he said.\nReporting by Sarah Young\n \n\n    The day before the article was published, the stock price of Iamgold Corporation was 5.340000152587891 and the day after the article was published, the stock price of Iamgold Corporation was ",
- "expected": "5.429999828338623",
- "date": "2018-02-23",
- "ticker": "IAG",
- "company": "Iamgold Corporation",
- "url": "https://www.reuters.com/article/iag-results-austria/iag-to-expand-in-austria-this-year-idUSL8N1QD1MA"
-}

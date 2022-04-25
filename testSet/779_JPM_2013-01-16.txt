@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Dimon Says Whale Loss Is Very Close to Being a \u2018Non-Issue\u2019' was published on 2013-01-16. The body of the article is as follows:\n    \nJPMorgan Chase & Co. (JPM) \u2019s losses from a\nwrong-way bet on credit derivatives are close to being a \u201cnon-\nissue\u201d for the company, Chief Executive Officer  Jamie Dimon \nsaid.  \u201cWe\u2019re getting near the end of it,\u201d Dimon said today on a\nconference call with journalists. The bank racked up losses of\nmore than $6.2 billion in the first nine months of 2012.\nJPMorgan has stopped disclosing the precise impact of the\nposition, saying it had a \u201cmodest\u201d loss in the fourth quarter.  Dimon said the bank won\u2019t disclose future losses because\nthey\u2019re not material.  To contact the reporter on this story:\nDawn Kopecki in New York at \n dkopecki@bloomberg.net   To contact the editor responsible for this story:\nSteve Dickson at \n sdickson1@bloomberg.net\n\n    The day before the article was published, the stock price of JP Morgan Chase & Co. was 36.267555236816406 and the day after the article was published, the stock price of JP Morgan Chase & Co. was ",
- "expected": "36.337989807128906",
- "date": "2013-01-16",
- "ticker": "JPM",
- "company": "JP Morgan Chase & Co.",
- "url": "http://www.bloomberg.com/news/2013-01-16/dimon-says-whale-loss-is-very-close-to-being-a-non-issue-.html"
-}

@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Schlumberger Declares Quarterly Dividend' was published on 2015-10-16. The body of the article is as follows:\n    \nFriday, October 16, 2015 11:26AM IST (5:56AM GMT) Schlumberger Declares Quarterly Dividend Houston, United States The Board of Directors of Schlumberger Limited (NYSE:SLB) today declared a quarterly dividend of $0.50 per share of outstanding common stock. The dividend is payable on January 8, 2016 to stockholders of record at the close of business on December 2, 2015. About Schlumberger Schlumberger is the world\u2019s leading supplier of technology, integrated project management and information solutions to customers working in the oil and gas industry worldwide. Employing approximately 105,000 people representing over 140 nationalities and working in more than 85 countries, Schlumberger provides the industry\u2019s widest range of products and services from exploration through production. Schlumberger Limited has principal offices in Paris, Houston, London and The Hague, and reported revenues of $48.58 billion in 2014. For more information, visit www.slb.com .\n\n    The day before the article was published, the stock price of Schlumberger N.V. was 62.29072189331055 and the day after the article was published, the stock price of Schlumberger N.V. was ",
+ "expected": "60.638587951660156",
+ "date": "2015-10-16",
+ "ticker": "SLB",
+ "company": "Schlumberger N.V."
+}

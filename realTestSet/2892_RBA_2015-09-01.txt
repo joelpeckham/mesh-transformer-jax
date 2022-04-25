@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'RBA leaves rates unchanged' was published on 2015-09-01. The body of the article is as follows:\n    \nView Photo \n\nThe Reserve Bank has left the cash rate at a record low of two per cent for a fourth straight month. \nIn a statement accompanying the decision, RBA governor Glenn Stevens noted recent volatility in global financial markets, sparked by worries about slowing Chinese economic growth, but also said the US economy is strengthening. \nLow interest rates continue to help the local economy and the current cash rate of two per cent \"remains appropriate\", he said. \n\"Further information on economic and financial conditions to be received over the period ahead will inform the board's ongoing assessment of the outlook and hence whether the current stance of policy will most effectively foster sustainable growth,\" he said. @YahooNZBusiness on Twitter, become a fan on Facebook RBA leaves rates unchanged AAP \nThe Reserve Bank has left the cash rate at a record low of two per cent for a fourth straight month. In a statement \u2026\n\n    The day before the article was published, the stock price of Ritchie Bros. Auctioneers Incorporated was 24.247196197509766 and the day after the article was published, the stock price of Ritchie Bros. Auctioneers Incorporated was ",
+ "expected": "23.598548889160156",
+ "date": "2015-09-01",
+ "ticker": "RBA",
+ "company": "Ritchie Bros. Auctioneers Incorporated"
+}

@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Hastoe Capital Said to Sell 100 Million Pounds of 30-Year Bonds' was published on 2012-03-20. The body of the article is as follows:\n    \nHastoe Capital Plc plans to sell\n100 million pounds of 30-year bonds that may be priced to yield\n215 to 225 basis points more than U.K. government debt,\naccording to a banker involved in the transaction. RBC Capital\nMarkets and  Banco Santander SA (SAN)  are managing the sale.  To contact the reporter on this story:\nKatie Linsell in London at \n klinsell@bloomberg.net   To contact the editor responsible for this story:\nAndrew Reierson at \n areierson1@bloomberg.net\n\n    The day before the article was published, the stock price of Banco Santander, S.A. Sponsored ADR (Spain) was 4.748500347137451 and the day after the article was published, the stock price of Banco Santander, S.A. Sponsored ADR (Spain) was ",
- "expected": "4.547858238220215",
- "date": "2012-03-20",
- "ticker": "SAN",
- "company": "Banco Santander, S.A. Sponsored ADR (Spain)",
- "url": "http://www.bloomberg.com/news/2012-03-20/hastoe-capital-said-to-sell-100-million-pounds-of-30-year-bonds.html"
-}

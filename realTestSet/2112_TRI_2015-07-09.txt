@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Medical device makers beef up product guarantees to woo US hospitals' was published on 2015-07-09. The body of the article is as follows:\n    \nRSS Reuters , July 9, 2015 \nMedical device makers, facing sluggish sales and increasing pressure to prove the value of their products, are beefing up guarantees to compensate U.S. hospitals if a device does not perform as expected. Medtronic Plc, Johnson & Johnson and St Jude Medical Inc are among the first to provide the newer guarantees, some of which offer to share in the cost of follow-up treatment tied to their heart devices, company executives told Reuters. Orthopedic implant makers are exploring such agreements for hip and knee devices. Hospital officials, however, are seeking even more robust performance guarantees, including pledges to cover the cost of the surgery when a device needs to be replaced.\n\n    The day before the article was published, the stock price of Thomson Reuters Corp was 32.17418670654297 and the day after the article was published, the stock price of Thomson Reuters Corp was ",
+ "expected": "32.68665313720703",
+ "date": "2015-07-09",
+ "ticker": "TRI",
+ "company": "Thomson Reuters Corp"
+}

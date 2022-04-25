@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Q&A: Installing Microsoft Office on Multiple Machines' was published on 2013-04-11. The body of the article is as follows:\n    \nQ.\n\n    The day before the article was published, the stock price of Microsoft Corporation was 25.41065788269043 and the day after the article was published, the stock price of Microsoft Corporation was ",
- "expected": "24.16026496887207",
- "date": "2013-04-11",
- "ticker": "MSFT",
- "company": "Microsoft Corporation",
- "url": "https://gadgetwise.blogs.nytimes.com/2013/04/11/qa-installing-microsoft-office-on-multiple-machines/"
-}

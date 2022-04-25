@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Ford's March China vehicle sales down 11 pct y/y' was published on 2018-04-13. The body of the article is as follows:\n    \nBEIJING, April 13 (Reuters) - Ford Motor Co\u2019s sales in China fell 11 percent in March from a year earlier to 83,666 vehicles, as its business in the world\u2019s biggest auto market remains hampered by a dearth of fresh products.\nThe company, whose sales fell a sharp 30 percent in February, said on Friday its sales in the first three months of this year totaled 207,139 vehicles, down 19 percent from a year earlier.\nThe big decline in February volume was due in part to fewer working days in the month because of a late Chinese lunar new year holiday, but Ford\u2019s first-quarter numbers reveal the continued difficulty facing the Michigan-based automaker.\nCompany officials have said Ford\u2019s business in China this year will remain pressured by a dearth of new or significantly redesigned cars models in its product lineup \u2013 a situation they indicated should last through the end of 2018 or through early 2019. (Reporting by Norihiko Shirouzu; Editing by Sunil Nair)\n \n\n    The day before the article was published, the stock price of Forward Industries, Inc. was 1.5800000429153442 and the day after the article was published, the stock price of Forward Industries, Inc. was ",
- "expected": "1.5700000524520874",
- "date": "2018-04-13",
- "ticker": "FORD",
- "company": "Forward Industries, Inc.",
- "url": "https://www.reuters.com/article/china-autos-ford/fords-march-china-vehicle-sales-down-11-pct-y-y-idUSB9N1RH01E"
-}

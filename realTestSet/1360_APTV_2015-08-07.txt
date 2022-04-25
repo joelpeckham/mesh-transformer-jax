@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'PFRDA to invite bids for pension fund managers' was published on 2015-08-07. The body of the article is as follows:\n    \nPFRDA to invite bids for pension fund managers By PTI | 7 Aug, 2015, 04.31PM IST   NEW DELHI: Regulator PFRDA today said it will invite fresh bids for appointing Pension Fund Managers (PFMs) for the Rs 90,000 crore corpus. \"We are inviting bids from PFMs afresh to manage the pension fund of both government employees and non-government employees. The bids for appointment of PFMs should be in place in a months or so,\" Pension Fund Regulatory and Development Authority (PFRDA) Chairman Hemant Contractor said here. There are eight PFMs registered with PFRDA to manage the funds for the unorganised sector including SBI Pension Fund, UTI Retirement Solutions, HDFC Pension Management, Reliance Pension Fund and ICICI Pension Fund Management . The existing PFMs and other than those can apply if they meet eligibility criteria. \"There is some eligibility cap like Rs 25 crore etc those fund managers can apply,\" he said. PFRDA is currently framing the structure including process of selection and method, he said.  \n\n    The day before the article was published, the stock price of Aptiv PLC was 61.365257263183594 and the day after the article was published, the stock price of Aptiv PLC was ",
+ "expected": "64.57511901855469",
+ "date": "2015-08-07",
+ "ticker": "APTV",
+ "company": "Aptiv PLC"
+}

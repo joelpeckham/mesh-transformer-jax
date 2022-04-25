@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'BUZZ-TV broadcasters: Deutsche Bank changes ratings' was published on 2015-07-14. The body of the article is as follows:\n    \n16.88 0.00 \n** TF1 (Paris: FR 54900 - news ) down 3 pct, among top fallers on Stoxx 600 , with ITV (Other OTC: ITVPF - news ) down 1.3 pct, but Sky (Other OTC: BSYBF - news ) up 1.8 pct after Deutsche Bank (Xetra: 514000 - news ) analysts change ratings on the stocks \n** Outlook for cos changes due to their positioning in the market, as ad spend follows growth in the online video space, the analysts say \n** DB downgrades TF1 to \"sell\" from \"hold\", keeps PT of 12 euros. Broker says co's low margins come from the costs of defending its large market share, while it still lags in the online video space \n** DB upgrades Sky to \"buy\" from \"hold\", lifts PT to 1,500p from 1,000p, says a better outlook for pay-TV operators helped, rather than hindered, by online video growth \n** DB downgrades ITV to \"sell\" from \"hold\" -- hikes PT to 220p from 205p (shares currently trading at 273p) -- as it sees competition in the UK market heating up, adding that weakness in online video will hurt (venkateshasoumithri.mamidipudi.thomsonreuters.com@reuters.net)\n\n    The day before the article was published, the stock price of Deutsche Bank AG was 31.195913314819336 and the day after the article was published, the stock price of Deutsche Bank AG was ",
+ "expected": "31.47479248046875",
+ "date": "2015-07-14",
+ "ticker": "DB",
+ "company": "Deutsche Bank AG"
+}

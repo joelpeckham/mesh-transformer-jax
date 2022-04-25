@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Sensex Ends Flat; HDFC, Infosys Gain' was published on 2015-09-11. The body of the article is as follows:\n    \nNifty 7,789.30 1.20 [0.02%] Leading the set of gainers from the Nifty were heavyweight stocks like Infosys and HDFC. Cairn India lost a huge 4 per cent after crude oil prices continued to fall.\nTata Motors fell 4 per cent, after a good rally seen in the last few trading sessions. The company reported flat vehicle sales growth for the month of Aug 2015. \nShares in Amtek Auto surged 50 per cent after the promoters decided to infuse fresh capital into the company. \nWonder La also gained ground after the company inked a deal with the Government of Tamil Nadu for setting up an amusement park. \nInfosys saw good buying support after the company announced a partnership with the Association of Tennis Professionals. \nMid cap stocks also ended the day with gains with stocks like Crisil and Marico jumping a huge 3 per cent in trade. \nMeanwhile, markets in Europe were trading with losses, while most of Asia closed the day lower. \nGoodReturns.in\n\n    The day before the article was published, the stock price of Infosys Limited was 7.425124645233154 and the day after the article was published, the stock price of Infosys Limited was ",
+ "expected": "7.458876132965088",
+ "date": "2015-09-11",
+ "ticker": "INFY",
+ "company": "Infosys Limited"
+}

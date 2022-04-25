@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'State Street Revises Tier One Common Capital Ratio Higher' was published on 2012-09-11. The body of the article is as follows:\n    \nState Street Corp. (STT) , the third-\nbiggest custody bank, revised its estimated tier one common\ncapital ratio under the new Basel III rules to 11 percent from\n9.8 percent.  Joseph Hooley, State Street\u2019s chief executive officer,\nannounced the change during a presentation today at the Barclays\nCapital Global Financial Services Conference in New York.  To contact the reporter on this story:\nChristopher Condon in Boston at \n ccondon4@bloomberg.net   To contact the editor responsible for this story:\nChristian Baumgaertel at \n cbaumgaertel@bloomberg.net\n\n    The day before the article was published, the stock price of State Street Corporation was 34.84537124633789 and the day after the article was published, the stock price of State Street Corporation was ",
- "expected": "35.072792053222656",
- "date": "2012-09-11",
- "ticker": "STT",
- "company": "State Street Corporation",
- "url": "http://www.bloomberg.com/news/2012-09-11/state-street-revises-tier-one-common-capital-ratio-higher.html"
-}

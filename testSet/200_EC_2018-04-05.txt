@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'BRIEF-CNP Assurances Says To Pursue Negotiations With Caixa Seguridade' was published on 2018-04-05. The body of the article is as follows:\n    \nApril 4 (Reuters) - CNP Assurances SA:\n* SAYS FOLLOWING THE CHANGE IN THE TOP MANAGEMENT OF CAIXA ECON\u00d4MICA FEDERAL, CNP ASSURANCES AND CAIXA SEGURIDADE HAVE AGREED TO PURSUE AND FINALIZE THEIR NEGOTIATIONS WITH A VIEW TO ENTERING INTO A BINDING AGREEMENT. THE CURRENT AGREEMENTS REMAIN IN FORCE. Further company coverage:\n \n\n    The day before the article was published, the stock price of Ecopetrol S.A. was 15.776741027832031 and the day after the article was published, the stock price of Ecopetrol S.A. was ",
- "expected": "15.457374572753906",
- "date": "2018-04-05",
- "ticker": "EC",
- "company": "Ecopetrol S.A.",
- "url": "https://www.reuters.com/article/brief-cnp-assurances-says-to-pursue-nego/brief-cnp-assurances-says-to-pursue-negotiations-with-caixa-seguridade-idUSFWN1RH0J3"
-}

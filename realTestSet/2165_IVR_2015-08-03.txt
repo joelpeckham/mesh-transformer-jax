@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Reuters: Risk Panel Keeps GE Capital Designated as Systemically Risky' was published on 2015-08-03. The body of the article is as follows:\n    \n  Reuters: Risk Panel Keeps GE Capital Designated as Systemically Risky August 03, 2015, 07:35 AM Related: AIG , Ge Capital , Reuters , Systemic Risk \nReuters reported General Electric Co.'s GE Capital unit for now will remain designated as \"systemically important\" - a tag that carries greater regulatory scrutiny. Reuters cited an announcement made by a U.S. regulatory panel.The Financial Stability Oversight Council (FSOC) said that General Electric, which in April announced it plans to shed most of its finance unit, did not contest the FSOC's decision in its annual review, according to Reuters. \nThe FSOC also said it is planning to keep AIG designated as such as well.To view the Reuters article, click here . Today's Other News\n\n    The day before the article was published, the stock price of INVESCO MORTGAGE CAPITAL INC was 5.571320056915283 and the day after the article was published, the stock price of INVESCO MORTGAGE CAPITAL INC was ",
+ "expected": "5.505593299865723",
+ "date": "2015-08-03",
+ "ticker": "IVR",
+ "company": "INVESCO MORTGAGE CAPITAL INC"
+}

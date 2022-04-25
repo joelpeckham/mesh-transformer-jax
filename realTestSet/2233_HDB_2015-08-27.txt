@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'HDFC Raises Rs 2,000-Crore Via Bonds' was published on 2015-08-27. The body of the article is as follows:\n    \nHDFC Raises Rs 2,000-Crore Via Bonds Published: Thursday, August 27, 2015, 14:50 [IST] Facebook Twitter Google+ Comments Mail \nCountry's largest mortgage lender HDFC has raised Rs 2,000 crore through sale of bonds in order to boost lending operations and meet its future capital needs. \nThe bonds, which has a tenure of five years, attracted a a coupon rate of 8.5 per cent. HDFC Bank is the lead arranger of the issue. \nAccording to sources, HDFC has successfully garnered Rs 2,000 crore by selling the bonds. \nThe proceeds from the issue would be utilised to boost HDFC's lending operations and meet its future capital needs. \nEarlier, HDFC had announced plans to raise up to Rs 5,000 crore through non-convertible debentures (NCDs). \nThe company has been exploring various fund raising options in order to augment its long-term resources and future capital needs. \nDuring April-June quarter, HDFC reported 18 per cent rise, year-on-year, in its consolidated net profit at Rs 2,204 crore. \nWhile, on standalone basis, its net profit showed a minor increase of 1.21 per cent at Rs 1,361 crore. \nPTI\n\n    The day before the article was published, the stock price of HDFC Bank Limited was 28.002962112426758 and the day after the article was published, the stock price of HDFC Bank Limited was ",
+ "expected": "28.382104873657227",
+ "date": "2015-08-27",
+ "ticker": "HDB",
+ "company": "HDFC Bank Limited"
+}

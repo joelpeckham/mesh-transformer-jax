@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Hooked on F-A-N-G stocks' was published on 2015-09-18. The body of the article is as follows:\n    \nIs it best to hold on to Facebook, Amazon, Netflix and/or Google? Ken Sena, Evercore ISI and Rob Sanderson, MKM Partners, discuss. Share this\n\n    The day before the article was published, the stock price of Netflix, Inc. was 104.20999908447266 and the day after the article was published, the stock price of Netflix, Inc. was ",
+ "expected": "100.30000305175781",
+ "date": "2015-09-18",
+ "ticker": "NFLX",
+ "company": "Netflix, Inc."
+}

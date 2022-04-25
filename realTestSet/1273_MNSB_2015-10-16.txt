@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'The 10 Best TVs for Under $1,000' was published on 2015-10-16. The body of the article is as follows:\n    \nThe 10 Best TVs for Under $1,000 Written by: MainStreet Team 10/16/15 - 10:16 AM EDT \nNEW YORK (MainStreet) -- There was a time when the TV was a large, clunky piece of furniture, with a price tag to match its size. Now, like most electronics, television sets are thinner, lighter and better than ever, with a cost to satisfy almost every budget-friendly diet. \nIt's very possible to get a TV set with an amazing picture for less than $1,000 - sometimes for much less. \nOne of the biggest considerations is whether or not you'll want a 4K, or ultra-high definition, TV. While 4K TVs offer incredible resolution, about four times the resolution of standard 1080 HD TVs, the available content in that format is currently lacking. There are some TV shows and movies on Netflix and Amazon Video you can stream in 4K, but for the majority of programming, a TV with a resolution of 1080p should be your go-to choice. There's no word on when - or even if - 4K content will catch on and become widely available, so a 1080p TV should hold you in good stead for a few years. More Headlines\n\n    The day before the article was published, the stock price of MainStreet Bancshares, Inc. was 10.285714149475098 and the day after the article was published, the stock price of MainStreet Bancshares, Inc. was ",
+ "expected": "10.285714149475098",
+ "date": "2015-10-16",
+ "ticker": "MNSB",
+ "company": "MainStreet Bancshares, Inc."
+}

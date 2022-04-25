@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'SBA Halts Funding New Loans, Hits Cap - - Reuters' was published on 2015-07-27. The body of the article is as follows:\n    \n  SBA Halts Funding New Loans, Hits Cap - - Reuters July 27, 2015, 07:15 AM Related: Small Business Administration , Small Business Lending \nReuters reported the U.S. Small Business Administration hit the $18.75 billion cap for its main loan guarantee program on Thursday, July 23, 2015 forcing it to halt the funding of new loans with more than two months left in the fiscal year.According to the Reuters report, SBA spokesman Miguel Ayala said the agency's lending capacity for fiscal 2015 was exceeded by stronger-than-anticipated demand for the government-guaranteed 7(a) program loans made by banks to small businesses. Reuters also reported that as the agency neared the cap, lenders submitted a $3 billion in loan applications in July so far, which is more than five times the agency's recent monthly volume, Ayala said.To real the full Reuters report, click here . Today's Other News\n\n    The day before the article was published, the stock price of Thomson Reuters Corp was 32.08023452758789 and the day after the article was published, the stock price of Thomson Reuters Corp was ",
+ "expected": "32.1656494140625",
+ "date": "2015-07-27",
+ "ticker": "TRI",
+ "company": "Thomson Reuters Corp"
+}

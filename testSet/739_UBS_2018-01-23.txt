@@ -1,8 +1,0 @@
-{
- "context": "The following article called '\u2018The more impactful you are, the better your return is\u2019, says UBS chair' was published on 2018-01-23. The body of the article is as follows:\n    \n\u2018The more impactful you are, the better your return is\u2019, says UBS chair 1 Hour Ago Axel Weber explains how impact investing is low risk, in comparison to the risks seen in markets.\n\n    The day before the article was published, the stock price of UBS AG was 15.041757583618164 and the day after the article was published, the stock price of UBS AG was ",
- "expected": "15.316323280334473",
- "date": "2018-01-23",
- "ticker": "UBS",
- "company": "UBS AG",
- "url": "https://www.cnbc.com/video/2018/01/23/ubs-chairman-axel-weber-on-impact-investing.html"
-}

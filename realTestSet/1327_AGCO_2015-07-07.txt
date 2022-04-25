@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'AGCO Announces 2015 Second Quarter Earnings Release and Conference Call' was published on 2015-07-07. The body of the article is as follows:\n    \nClose \nDULUTH, Ga.--(BUSINESS WIRE)--Jul. 7, 2015-- AGCO, Your Agriculture Company, (NYSE: AGCO),   AGCO's   \"Investors\"   (NYSE: AGCO)   \n  \n  \nSource: AGCO\n\n    The day before the article was published, the stock price of AGCO Corporation was 50.13724899291992 and the day after the article was published, the stock price of AGCO Corporation was ",
+ "expected": "49.29121398925781",
+ "date": "2015-07-07",
+ "ticker": "AGCO",
+ "company": "AGCO Corporation"
+}

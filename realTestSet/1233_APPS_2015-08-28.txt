@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'India's forex reserves inching towards a new high' was published on 2015-08-28. The body of the article is as follows:\n    \nIndia's forex reserves inching towards a new high By Atmadip Ray , ET Bureau | 28 Aug, 2015, 05.50PM IST ET SPECIAL: Love visual aspect of news? Enjoy this exclusive slideshows treat! KOLKATA: India's foreign exchange reserves rose by $921 million to $355.354 billion in the week to August 21, Reserve Bank of India said Friday. The forex reserves is now just a tad less than the all time high of $355.459 billion, enough to pay for nine months of imports. \"This should provide a buffer and smooth out normal import and debt servicing requirements over the year,\" RBI said in its annual report released Thursday. Buoyant capital inflows in excess of the external financing requirement raised international reserves to a high level. However, the fall in merchandise exports through the first four months of 2015-16 rendered the economy vulnerable to external shocks. Imports have remained subdued, primarily on account of softening of crude and gold prices. India's reserves in terms of gold remained unchanged at $18.250 billion, RBI said.  \n\n    The day before the article was published, the stock price of Digital Turbine, Inc. was 2.3499999046325684 and the day after the article was published, the stock price of Digital Turbine, Inc. was ",
+ "expected": "2.609999895095825",
+ "date": "2015-08-28",
+ "ticker": "APPS",
+ "company": "Digital Turbine, Inc."
+}

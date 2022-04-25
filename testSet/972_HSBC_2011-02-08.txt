@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Suzlon Energy Gains to Two-Week High as HSBC Holdings Raises to `Neutral'' was published on 2011-02-08. The body of the article is as follows:\n    \nSuzlon Energy Ltd . rose 2 percent to\n50.5 rupees as of 9:16 a.m. in Mumbai, set for its highest close\nsince Jan. 25. The world\u2019s third-biggest maker of wind turbines\nwas raised to \u201cneutral\u201d from \u2018\u2018underweight\u201d by Shishir Singh,\nan analyst at HSBC Holdings Plc.  To contact the editor responsible for this story:\nMargo Towie at \n mtowie@bloomberg.net\n\n    The day before the article was published, the stock price of HSBC Holdings, plc. was 32.728248596191406 and the day after the article was published, the stock price of HSBC Holdings, plc. was ",
- "expected": "33.57468032836914",
- "date": "2011-02-08",
- "ticker": "HSBC",
- "company": "HSBC Holdings, plc.",
- "url": "http://www.bloomberg.com/news/2011-02-08/suzlon-energy-gains-to-two-week-high-as-hsbc-holdings-raises-to-neutral-.html"
-}

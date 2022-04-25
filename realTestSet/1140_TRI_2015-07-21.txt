@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'China Jan-June FDI rises 8.3 percent to $68.4 billion' was published on 2015-07-21. The body of the article is as follows:\n    \nBEIJING (Reuters) - China drew $68.4 billion (\u00a343.95 billion) in foreign direct investment for the January-June period, up 8.3 percent from a year earlier, the Commerce Ministry reported on Tuesday. \nThat shows FDI growth slowed from the previous year-to-date rate of 10.5 percent reported last month. \nThe figures do not match year-to-date figures released on the central government's website on July 17, which quoted Vice Commerce Minister Wang Shouwen as saying that January-June FDI rose 8.0 percent. \nThe ministry said on Tuesday that FDI in June rose 0.7 percent compared with the same period last year to $14.6 billion. \nIt also said year-to-date manufacturing FDI fell 8.4 percent year-on-year to $20.9 billion. \nInvestment into China's fast-growing services sector jumped 23.0 percent in the first half of 2015 from a year earlier, according to the data released on Friday. \nFDI inflows into China rose an annual 1.7 percent in 2014 to $119.6 billion in dollar-denominated terms. \n(Reporting by Shao Xiaoyi and Pete Sweeney in SHANGHAI; Editing by Edmund Klamann)\n\n    The day before the article was published, the stock price of Thomson Reuters Corp was 32.81476974487305 and the day after the article was published, the stock price of Thomson Reuters Corp was ",
+ "expected": "32.30229949951172",
+ "date": "2015-07-21",
+ "ticker": "TRI",
+ "company": "Thomson Reuters Corp"
+}

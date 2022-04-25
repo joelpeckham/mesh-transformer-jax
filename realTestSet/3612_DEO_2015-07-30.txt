@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'City Snapshot: United Spirits acquisition pushes Diageo\u2019s annual revenues up 5%' was published on 2015-07-30. The body of the article is as follows:\n    \n30 Jul 2015 | By Alec Mattinson \nDiageo\u2019s reported net revenues were up 5% in the year to 30 June largely thanks to the full consolidation of United Spirits last year, plus a new CFO for Britvic, recovery for the FTSE and all the latest news from the City. Available to members only \nLearn more about our membership packages. \nIf you need to talk to our Customer Services team, please call 0800 652 6512 and we'll be happy to help. You're not logged in...already a member? \nPlease log in using your email address and password. Please do not complete the following form field for security reasons. Email Address Remember my password on this computer. Sign in Now\n\n    The day before the article was published, the stock price of Diageo plc was 96.73802947998047 and the day after the article was published, the stock price of Diageo plc was ",
+ "expected": "94.81322479248047",
+ "date": "2015-07-30",
+ "ticker": "DEO",
+ "company": "Diageo plc"
+}

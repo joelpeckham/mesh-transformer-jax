@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'GE Capital CEO Sees Asset Sale Pace Speeding Up in Q3, Reuters' was published on 2015-07-01. The body of the article is as follows:\n    \n  GE Capital CEO Sees Asset Sale Pace Speeding Up in Q3, Reuters July 01, 2015, 07:11 AM Related: Ge Capital , General Electric Capital , General Electric Company \nReuters reported GE Capital Chief Executive Keith Sherin told Reuters in an interview Tuesday that he expects the pace of GE Capital asset sales will accelerate in the third quarter. Reuters notes that a hefty portion of the businesses that have yet to be sold are part of GE's North American commercial lending and leasing portfolio. Sherin also reaffirmed GE's earlier goal to close deals for $100 billion in assets this year. To read the full Reuters report, click here . Most Popular\n\n    The day before the article was published, the stock price of Thomson Reuters Corp was 32.51583480834961 and the day after the article was published, the stock price of Thomson Reuters Corp was ",
+ "expected": "32.76352310180664",
+ "date": "2015-07-01",
+ "ticker": "TRI",
+ "company": "Thomson Reuters Corp"
+}

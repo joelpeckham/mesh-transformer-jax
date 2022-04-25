@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Rayonier eases interest burden of joint venture with Phaunos' was published on 2015-08-10. The body of the article is as follows:\n    \nEnd date Rayonier eases interest burden of joint venture with Phaunos \nRayonier, a major US timberland investor, has agreed to inject about $160 million from an existing term loan facility to pay off the debts of the Matariki Forestry Group, its New Zealand joint venture with the Phaunos Timber Fund.  \n\n    The day before the article was published, the stock price of Rayonier Advanced Materials Inc. was 11.732336044311523 and the day after the article was published, the stock price of Rayonier Advanced Materials Inc. was ",
+ "expected": "12.524199485778809",
+ "date": "2015-08-10",
+ "ticker": "RYAM",
+ "company": "Rayonier Advanced Materials Inc."
+}

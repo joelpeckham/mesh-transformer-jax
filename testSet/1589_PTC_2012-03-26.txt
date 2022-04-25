@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Cabral dos Santos May Join Portugal Telecom Board, Jornal Says' was published on 2012-03-26. The body of the article is as follows:\n    \nCaixa Geral de Depositos SA ,\n Portugal \u2019s state-owned bank, may appoint Jose Pedro Cabral dos\nSantos to the board of  Portugal Telecom SGPS SA (PTC) ,  Jornal de\nNegocios  reported, without saying how it obtained the\ninformation.  Cabral dos Santos would be one of Caixa Geral\u2019s\nrepresentatives on the board of Portugal Telecom after the\nnomination of former Finance Minister Fernando Teixeira dos Santos was rejected by the government, according to the\nPortuguese newspaper.  To contact the reporter on this story:\nHenrique Almeida in Lisbon at \n halmeida5@bloomberg.net   To contact the editor responsible for this story:\nJerrold Colten at \n jcolten@bloomberg.net\n\n    The day before the article was published, the stock price of PTC Inc. was 27.65999984741211 and the day after the article was published, the stock price of PTC Inc. was ",
- "expected": "28.5",
- "date": "2012-03-26",
- "ticker": "PTC",
- "company": "PTC Inc.",
- "url": "http://www.bloomberg.com/news/2012-03-26/cabral-dos-santos-may-join-portugal-telecom-board-jornal-says.html"
-}

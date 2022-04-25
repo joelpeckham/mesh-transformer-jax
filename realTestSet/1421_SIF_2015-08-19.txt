@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'IFC to consider more Masala-style green bonds' was published on 2015-08-19. The body of the article is as follows:\n    \nEnd date IFC to consider more Masala-style green bonds \nThe IFC has said it will consider investing in more green bonds, following the model of its recent \u2018Masala\u2019 bond with Indian lender Yes Bank. To access this article please sign-in below or register for a free one-month trial. Login\n\n    The day before the article was published, the stock price of SIFCO Industries, Inc. was 13.34000015258789 and the day after the article was published, the stock price of SIFCO Industries, Inc. was ",
+ "expected": "13.350000381469727",
+ "date": "2015-08-19",
+ "ticker": "SIF",
+ "company": "SIFCO Industries, Inc."
+}

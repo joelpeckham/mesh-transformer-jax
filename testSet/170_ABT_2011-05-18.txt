@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Drug Study a Setback for Abbott' was published on 2011-05-18. The body of the article is as follows:\n    \nA study has suggested that an anticholesterol drug, TriLipix, does not protect against heart attacks or strokes better than a generic medicine, according to a report released on Tuesday. As a result, uses of the drug, made by Abbott Laboratories, may be limited in the United States or be subject to more testing.\n\n    The day before the article was published, the stock price of Abbott Laboratories was 20.536527633666992 and the day after the article was published, the stock price of Abbott Laboratories was ",
- "expected": "20.505817413330078",
- "date": "2011-05-18",
- "ticker": "ABT",
- "company": "Abbott Laboratories",
- "url": "https://www.nytimes.com/2011/05/18/business/18drug.html"
-}

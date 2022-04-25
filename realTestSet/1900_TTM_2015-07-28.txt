@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Sensex Ends Lower For 4th Straight Day; ICICI Bank, HDFC Drop' was published on 2015-07-28. The body of the article is as follows:\n    \nNifty 8,337.00 -24.00 [-0.29%] Leading the set of losers apart from HDFC and ICICI Bank were Tata Motors and Hero Motor Corp.\nSeveral shares reacted to their results. Punjab National Bank which saw its asset quality numbers improving marginally closed the day higher by 4 per cent. R ead PNB results here . Union Bank of India which also reported numbers gained, while Syndicate Bank plunged a huge 7 per cent following weak numbers. \nShares in Havells fell after HSBC cut target price on the stock. Sun TV which on Sunday was allowed to bid in the FM auction and saw a huge rally on Monday, gave up gains and ended the day lower by 5 per cent. \nOther Mid cap stocks that fell were Power Finance Corporation and TVS Motors , which fell sharply for the second straight day. \nMeanwhile, European markets were trading with marginal gains, while most of Asia closed with sharp losses. \nGoodReturns.in\n\n    The day before the article was published, the stock price of Tata Motors Limited was 28.708005905151367 and the day after the article was published, the stock price of Tata Motors Limited was ",
+ "expected": "29.19780158996582",
+ "date": "2015-07-28",
+ "ticker": "TTM",
+ "company": "Tata Motors Limited"
+}

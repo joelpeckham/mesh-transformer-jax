@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'No-Action Letter: Biomet, Inc.' was published on 2015-08-11. The body of the article is as follows:\n    \nSecurities Exchange Act of 1934 Rule 12h-3 Response of the Office of Chief Counsel Division   \nBiomet, Inc. Incoming letter dated July 24, 2015 \nBased on the facts presented, the Division will not object if the Registrants stop filing periodic and current reports   Exchange Act of 1934, including their annual reports on Form 10-K for the year ended May 31, 2015. We assume that, consistent with the representations made in your letter, the Registrants will file certifications on Form 15 making appropriate claims under Exchange Act Rule 12h-3 on or before the due date of their Forms 10-K for the year ended May 31, 2015. \nThis position is based on the representations made to the Division in your letter. Any different facts or conditions might require the Division to reach a different conclusion. Further, this response expresses the Division's position on enforcement action only and does not express any legal conclusion on the question presented. \nSincerely,\n\n    The day before the article was published, the stock price of ABIOMED, Inc. was 95.56999969482422 and the day after the article was published, the stock price of ABIOMED, Inc. was ",
+ "expected": "100.6500015258789",
+ "date": "2015-08-11",
+ "ticker": "ABMD",
+ "company": "ABIOMED, Inc."
+}

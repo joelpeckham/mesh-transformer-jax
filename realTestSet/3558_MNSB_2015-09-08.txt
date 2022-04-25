@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Top 10 End-Of-Summer Car Deals Of 2015' was published on 2015-09-08. The body of the article is as follows:\n    \nTop 10 End-Of-Summer Car Deals Of 2015 09/08/2015 - 4:58 PM EDT NEW YORK ( MainStreet ) \u2013 There's a sweet time of year when automakers push out a new model year of cars regardless of how many of last year's models are sitting on lots -- sending the value of those older models plummeting. \nThat time is now. \nAs the folks at automotive retail data site TrueCar have pointed out in years past, September is the month where model year market share tends to stop tilting in favor of the current year's models and starts leaning toward next year's vehicles. Automakers consider these \u201cend of summer\u201d deals and, with a few weeks left to go in Post-Labor Day summer, there are still a lot of deals to be had. \nWhat's always most helpful to automobile bargain hunters is the fact that automakers always redesign or refresh a few models as the model year changes. As the folks at automotive pricing site Edmunds.com note, that provides dealers added urgency to those newly obsolete vehicles before the all-new models fill their lots. More Headlines\n\n    The day before the article was published, the stock price of MainStreet Bancshares, Inc. was 10.085714340209961 and the day after the article was published, the stock price of MainStreet Bancshares, Inc. was ",
+ "expected": "10.123809814453125",
+ "date": "2015-09-08",
+ "ticker": "MNSB",
+ "company": "MainStreet Bancshares, Inc."
+}

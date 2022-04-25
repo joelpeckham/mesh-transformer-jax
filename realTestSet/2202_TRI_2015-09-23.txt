@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Abu Dhabi-backed fund raises $992m to invest in Japan' was published on 2015-09-23. The body of the article is as follows:\n    \nBy Reuters Wednesday, 23 September 2015 10:14 AM \nThe Carlyle Group, the US private equity firm in which Abu Dhabi\u2019s Mubadala Development Company owns a 7.5 percent stake, has raised 119.5 billion yen ($992 million) for its third fund dedicated to investments in Japan. \nCarlyle said it has already used money from the new fund, Carlyle Japan Partners III, to invest in several firms including Oyatsu Company Ltd, which makes noodle snacks sold under the \"Baby Star\" brand. Carlyle's investments in Japan are now focused on small and medium sized companies. \nCarlyle Group was founded in 1987. Abu Dhabi wealth fund Mubadala bought its 7.5 percent stake the company in 2007.\n\n    The day before the article was published, the stock price of Thomson Reuters Corp was 34.08259582519531 and the day after the article was published, the stock price of Thomson Reuters Corp was ",
+ "expected": "34.29787826538086",
+ "date": "2015-09-23",
+ "ticker": "TRI",
+ "company": "Thomson Reuters Corp"
+}

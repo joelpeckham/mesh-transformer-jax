@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'AIA Is an Insurer to Back in China - WSJ' was published on 2018-02-27. The body of the article is as follows:\n    \nWhile China is busy clearing up a mess in its domestic insurance sector, a Hong Kong-based insurer with American roots has become a good way to bet on the country.\n\nAIA Group, spun out of AIG following the global financial crisis, showed a 53% surge last year in the value of its new business in mainland China, helping its after-tax operating profit jump by 18% to $4.7 billion. That China pace made even AIG\u2019s 17% growth in its home Hong Kong market look pedestrian. Put together, Hong Kong and China now account for some two-thirds...  \n\n    The day before the article was published, the stock price of American International Group, Inc. was 52.43873977661133 and the day after the article was published, the stock price of American International Group, Inc. was ",
- "expected": "50.954715728759766",
- "date": "2018-02-27",
- "ticker": "AIG",
- "company": "American International Group, Inc.",
- "url": "https://www.wsj.com/articles/aia-is-an-insurer-to-back-in-china-1519723353"
-}

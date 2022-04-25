@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Decision in test case against CBA pending' was published on 2015-07-30. The body of the article is as follows:\n    \nFri, Jul 31, 2015, 4:29 AM AEST - Australia Markets open in 5 hrs 31 mins Decision in test case against CBA pending AAP \u2013 56 minutes ago Print \nWhether banks will be forced to disclose their financing of fossil fuel projects will depend on an upcoming federal court decision. \nThe Federal Court in Melbourne is scheduled to decide on Friday whether shareholders have the right to request the Commonwealth Bank to reveal its funding of carbon pollution. \nEnvironment group the Australasian Centre for Corporate Responsibility (ACCR), a minor shareholder in CBA, took the bank to court last year after it refused shareholders a vote on a resolution calling for it to reveal the level of its carbon pollution financing. \nIf the test case is successful, it will give shareholders more power to pressure banks to disclose their lending and investments in fossil fuel projects. @y7finance on Twitter, become a fan on Facebook Many property investors still keen to buy AAP \nA Mortgage Choice survey shows that 54 per cent of potential investors would still go ahead with their plans despite \u2026\n\n    The day before the article was published, the stock price of FVCBankcorp, Inc. was 6.5279998779296875 and the day after the article was published, the stock price of FVCBankcorp, Inc. was ",
+ "expected": "6.5279998779296875",
+ "date": "2015-07-30",
+ "ticker": "FVCB",
+ "company": "FVCBankcorp, Inc."
+}

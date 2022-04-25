@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Bloomberg: GE Raises Low End of Industrial Forecast Amid Finance Exit' was published on 2015-07-17. The body of the article is as follows:\n    \n  Bloomberg: GE Raises Low End of Industrial Forecast Amid Finance Exit July 17, 2015, 07:11 AM Related: General Electric Capital , General Electric Company , Jeff Immelt \nBloomberg reported General Electric Co. is getting more bullish about profit prospects from industrial operations as Chief Executive Officer Jeffrey Immelt accelerates efforts to shrink the GE Capital finance unit.According to the Bloomberg report, GE boosted the low end of its 2015 forecast for earnings from manufacturing. The new projection is $1.13 to $1.20 a share, up from a range starting at $1.10. Additionally Bloomberg reported that second-quarter adjusted profit of 31 cents a share beat analysts\u2019 28-cent average estimate.To read the full Bloomberg article, click here . To read the full General Electric earnings release, click here . Today's Other News\n\n    The day before the article was published, the stock price of General Electric Company was 184.39076232910156 and the day after the article was published, the stock price of General Electric Company was ",
+ "expected": "185.0726776123047",
+ "date": "2015-07-17",
+ "ticker": "GE",
+ "company": "General Electric Company"
+}

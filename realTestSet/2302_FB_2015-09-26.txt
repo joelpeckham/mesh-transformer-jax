@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Silicon Valley Woos Narendra Modi' was published on 2015-09-26. The body of the article is as follows:\n    \nSilicon Valley Woos Narendra Modi Indian prime minister to meet with top executives from Google, Facebook and Apple By Sean McLain in New Delhi and Sean McLain Corinne Abrams in Mumbai Sept. 24, 2015 1:53 p.m. ET \nThe heads of America\u2019s largest technology companies will meet Indian Prime Minister Narendra Modi this weekend to discuss how they might contribute to\u2014and benefit from\u2014the continuing Internet revolution in India. \nIn a weekend trip to Silicon Valley, Mr. Modi will be meeting with Google Inc. Chief Executive Sundar Pichai, Facebook Inc. founder Mark Zuckerberg and Apple Inc. Chief Executive Tim Cook, among others. His summit with the... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of Facebook, Inc. was 92.7699966430664 and the day after the article was published, the stock price of Facebook, Inc. was ",
+ "expected": "86.66999816894531",
+ "date": "2015-09-26",
+ "ticker": "FB",
+ "company": "Facebook, Inc."
+}

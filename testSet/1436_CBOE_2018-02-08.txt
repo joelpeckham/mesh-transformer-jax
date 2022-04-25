@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Bitcoin creeps back above $8K, but one trader doesn't believe in comeback' was published on 2018-02-08. The body of the article is as follows:\n    \nBitcoin creeps back above $8K, but one trader doesn't believe in comeback 11 Hours Ago Is a bitcoin comeback ahead? Trading CBOE bitcoin futures now, with CNBC's Jackie DeAngelis and the Futures Now traders.\n\n    The day before the article was published, the stock price of CBOE Holdings, Inc. was 113.29997253417969 and the day after the article was published, the stock price of CBOE Holdings, Inc. was ",
- "expected": "105.92266082763672",
- "date": "2018-02-08",
- "ticker": "CBOE",
- "company": "CBOE Holdings, Inc.",
- "url": "https://www.cnbc.com/video/2018/02/08/bitcoin-creeps-back-above-8k-but-one-trader-doesnt-believe-in-comeback.html"
-}

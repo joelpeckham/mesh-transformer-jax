@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Duke Energy Completes 12.5-Megawatt Solar Farm in North Carolina' was published on 2013-01-10. The body of the article is as follows:\n    \nDuke Energy Corp. (DUK) , the largest U.S.\nutility owner by market value, completed a 12.5-megawatt solar\nfarm in eastern North Carolina.  The Washington White Post plant in Beaufort County, about\n110 miles (175 kilometers) east of Raleigh, is selling\nelectricity to North Carolina Eastern Municipal Power Agency\nunder a 15-year agreement, Duke said today in a statement.  The solar farm is the largest that the Charlotte, North\nCarolina-based company operates in the eastern U.S. It went into\noperation last month and has enough capacity to power about\n3,000 homes.  To contact the reporter on this story:\nJustin Doom in  New York  at \n jdoom1@bloomberg.net   To contact the editor responsible for this story:\nReed Landberg at \n landberg@bloomberg.net\n\n    The day before the article was published, the stock price of Duke Energy Corporation (Holding Company) was 44.29131317138672 and the day after the article was published, the stock price of Duke Energy Corporation (Holding Company) was ",
- "expected": "44.75457763671875",
- "date": "2013-01-10",
- "ticker": "DUK",
- "company": "Duke Energy Corporation (Holding Company)",
- "url": "http://www.bloomberg.com/news/2013-01-10/duke-energy-completes-12-5-megawatt-solar-farm-in-north-carolina.html"
-}

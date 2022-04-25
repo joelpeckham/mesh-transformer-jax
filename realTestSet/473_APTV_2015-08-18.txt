@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Andhra Bank's ED Satish Kalra gets additional charge as CMD' was published on 2015-08-18. The body of the article is as follows:\n    \nAndhra Bank's ED Satish Kalra gets additional charge as CMD By PTI | 18 Aug, 2015, 10.51PM IST ET SPECIAL: Love visual aspect of news? Enjoy this exclusive slideshows treat! CHENNAI: Andhra Bank's Executive Director Satish Kumar Kalra has been given the additional charge as the Managing Director and CEO of the bank for three months. Kalra, who served the bank as its Executive Director, was entrusted additional charge of Managing Director and CEO, after the position fell vacant following superannuation of C V R Rajendran who had served the bank as its Chairman and Managing Director. In a BSE filing today, Andhra Bank said, \"The Ministry of Finance, Department of Financial Services, New Delhi, in its order dated August 18, 2015, entrusted the additional charge of the Managing Director and Chief Executive Officer of the bank to Satish Kumar Kalra for a further period of three months or till the appointment of a regular MD and CEO.\" Shares of the bank ended 1.25 per cent down at Rs 78.70 apiece on the BSE today.  \n\n    The day before the article was published, the stock price of Aptiv PLC was 61.838077545166016 and the day after the article was published, the stock price of Aptiv PLC was ",
+ "expected": "61.26521301269531",
+ "date": "2015-08-18",
+ "ticker": "APTV",
+ "company": "Aptiv PLC"
+}

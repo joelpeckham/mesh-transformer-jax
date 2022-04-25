@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Amazing Online Stores Merchandise WebRing' was published on 2015-08-21. The body of the article is as follows:\n    \nSite gives an extensive list of books about American highway automobiles, both modern, classic, vintage, and antique, and selected other American highway motor vehicles, automotive history & collectibles, and some auto industry and repair & how-to titles, that are currently available. Site gives an extensive list of books about Gems, Minerals, Gemstones & Precious Stones, Gemology, and Collecting & Rockhounding, that are currently available. Oval track slot car racing facility in Charlestown, NH. We sell Parma, Champion, Sprints Plus, and Boss Bodies. This is the homepage for the \"Amazing Online Stores Merchandise WebRing\" and gives the information about this ring. South Side Control Supply Co. is one of the largest and most respected HVAC/R controls distributor in the United States.\n\n    The day before the article was published, the stock price of Black Stone Minerals, L.P. was 8.677862167358398 and the day after the article was published, the stock price of Black Stone Minerals, L.P. was ",
+ "expected": "8.598697662353516",
+ "date": "2015-08-21",
+ "ticker": "BSM",
+ "company": "Black Stone Minerals, L.P."
+}

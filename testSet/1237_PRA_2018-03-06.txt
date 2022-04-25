@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'British government orders investigation into oversight of Cooperative Bank' was published on 2018-03-06. The body of the article is as follows:\n    \nLONDON, March 6 (Reuters) - The British government on Tuesday asked the Prudential Regulation Authority (PRA) to investigate its oversight of Cooperative Bank, in an independent review aimed at shedding light on how the troubled lender was supervised during 2008 and 2013.\nIt said the investigation would focus on the Cooperative Bank\u2019s failed bid for 632 branches of Lloyds Banking Group in 2013.\nThe PRA said it supported the call to launch an independent review of its supervision during a disruptive period for the bank, which was later found to suffer from significant funding problems and poor corporate governance.\n\u201cSince it was established in 2013, the PRA has been committed to learning the lessons of the past and the findings of this review will help the PRA meet its objectives in the future\u201d, the regulator said in a statement. (Reporting by Emma Rumney, editing by Sinead Cruise)\n \n\n    The day before the article was published, the stock price of ProAssurance Corporation was 43.67173385620117 and the day after the article was published, the stock price of ProAssurance Corporation was ",
- "expected": "44.88609313964844",
- "date": "2018-03-06",
- "ticker": "PRA",
- "company": "ProAssurance Corporation",
- "url": "https://www.reuters.com/article/co-operative-grp-investigation-governmen/british-government-orders-investigation-into-oversight-of-cooperative-bank-idUSL5N1QO2HA"
-}

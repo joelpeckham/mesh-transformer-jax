@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Millennials Want to Be the Boss' was published on 2015-08-18. The body of the article is as follows:\n    \nMillennials Want to Be the Boss 08/18/2015 - 3:56 PM EDT NEW YORK ( MainStreet ) \u2014 Despite being laid off as a 22-year-old when the financial crisis hit, Matt Brunmeier has worked his way into a good place as a software developer for Servicepower in Southern California. \nThe now 29-year-old Brunmeier, however, hopes more still lies ahead. \n\u201cI don't want to be embroiled in the gritty details of software development day in and day out,\" he said. \"I want to personally contribute to the strategic direction of the platforms I work with. I want to be a 'big picture' guy.\u201d \nBrunmeier is not alone when it comes to being a Millennial wanting more. While Gen X-ers have been shown to have a lukewarm relationship with leadership positions, a recent survey shows more than nine out of ten Millennials aspire to be a leader \u2014 including 52% of women. More Headlines\n\n    The day before the article was published, the stock price of MainStreet Bancshares, Inc. was 10.0 and the day after the article was published, the stock price of MainStreet Bancshares, Inc. was ",
+ "expected": "10.095237731933594",
+ "date": "2015-08-18",
+ "ticker": "MNSB",
+ "company": "MainStreet Bancshares, Inc."
+}

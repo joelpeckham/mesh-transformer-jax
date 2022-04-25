@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Larry Ellison to Step Down as Oracle\u2019s Chief' was published on 2014-09-18. The body of the article is as follows:\n    \nSAN FRANCISCO \u2014 Silicon Valley just got a little less colorful.\n\n    The day before the article was published, the stock price of Oracle Corporation was 36.71240997314453 and the day after the article was published, the stock price of Oracle Corporation was ",
- "expected": "35.516624450683594",
- "date": "2014-09-18",
- "ticker": "ORCL",
- "company": "Oracle Corporation",
- "url": "https://www.nytimes.com/2014/09/19/technology/larry-ellison-steps-down-as-chief-of-oracle.html"
-}

@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'TimesCast Media + Tech: Apple\u2019s Smaller Tablets' was published on 2012-10-24. The body of the article is as follows:\n    \nApple reveals the iPad Mini. David Pogue reviews the Microsoft Surface in 60 seconds. The Mr. GIF artist collective.\n\n    The day before the article was published, the stock price of Microsoft Corporation was 23.155696868896484 and the day after the article was published, the stock price of Microsoft Corporation was ",
- "expected": "23.015357971191406",
- "date": "2012-10-24",
- "ticker": "MSFT",
- "company": "Microsoft Corporation",
- "url": "https://bits.blogs.nytimes.com/2012/10/24/timescast-media-tech-apples-smaller-tablets/"
-}

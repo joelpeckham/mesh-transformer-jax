@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'MASTEC INC Files SEC form 8-K, Change in Directors or Principal Officers' was published on 2015-08-29. The body of the article is as follows:\n    \nShow all filings for MASTEC INC \nForm 8-K for MASTEC INC \n28-Aug-2015 \nChange in Directors or Principal Officers Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. \nOn August 25, 2015, Daniel A. Restrepo notified MasTec, Inc. (\"MasTec\") of his decision not to stand for re-election to the Board of Directors (the \"Board\") at MasTec's 2015 Annual Meeting of Shareholders. Mr. Restrepo will continue to serve as a member of the Board until the 2015 Annual Meeting of Shareholders.\n\n    The day before the article was published, the stock price of MasTec, Inc. was 15.869999885559082 and the day after the article was published, the stock price of MasTec, Inc. was ",
+ "expected": "15.6899995803833",
+ "date": "2015-08-29",
+ "ticker": "MTZ",
+ "company": "MasTec, Inc."
+}

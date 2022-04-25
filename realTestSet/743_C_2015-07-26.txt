@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'A Book BofA and Citi Can't Pick Up' was published on 2015-07-26. The body of the article is as follows:\n    \nHeard on the Street A Book BofA and Citi Can\u2019t Pick Up It has been nearly seven years since shares of Bank of America or Citigroup traded above book value By July 26, 2015 2:18 p.m. ET \nBank of America and Citigroup should be getting the seven-year itch. \nIn about two months, the two banks will face a dubious milestone: It will have been seven years since shares in either traded above book value. That is something for BofA\u2019s newly named finance chief, Paul Donofrio, to contemplate as he takes the reins from Bruce Thompson , who the bank just said would depart after four years in the role. \nThat neither banks\u2019... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of Citigroup, Inc. was 50.77703094482422 and the day after the article was published, the stock price of Citigroup, Inc. was ",
+ "expected": "50.4915657043457",
+ "date": "2015-07-26",
+ "ticker": "C",
+ "company": "Citigroup, Inc."
+}

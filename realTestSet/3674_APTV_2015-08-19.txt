@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Corporation Bank cuts base rate by 0.10 per cent' was published on 2015-08-19. The body of the article is as follows:\n    \nCorporation Bank cuts base rate by 0.10 per cent By PTI | 19 Aug, 2015, 05.06PM IST ET SPECIAL: Love visual aspect of news? Enjoy this exclusive slideshows treat! NEW DELHI: State-run Corporation Bank today cut base rate or minimum lending rate by 0.10 per cent, a move which will lead to lower EMIs for its customers. \"The bank has revised the base rate for lending from 10 per cent per annum to 9.90 per cent per annum with effect from August 24,\" Corporation Bank said in a filing to the BSE. Meanwhile, yesterday, United Bank of India had announced a cut in deposit rates for various maturities by 0.25-0.50 per cent. Earlier this month, Punjab National Bank had also cut interest rates on fixed deposits of select maturities by up to 0.50 per cent. Shares of Corporation Bank today closed at Rs 53.05 a piece on BSE , down 2.05 per cent.  \n\n    The day before the article was published, the stock price of Aptiv PLC was 61.9415168762207 and the day after the article was published, the stock price of Aptiv PLC was ",
+ "expected": "59.36359786987305",
+ "date": "2015-08-19",
+ "ticker": "APTV",
+ "company": "Aptiv PLC"
+}

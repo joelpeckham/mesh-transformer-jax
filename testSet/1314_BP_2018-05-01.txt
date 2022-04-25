@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'BP says still sees oil at $50-$60/bbl in 2018 as shale output surges' was published on 2018-05-01. The body of the article is as follows:\n    \nLONDON (Reuters) - BP expects benchmark oil prices to weaken in the second half of the year as U.S. shale production surges by up to 1.5 million barrels per day, Chief Financial Officer Brian Gilvary said on Tuesday.\nThe London-based oil and gas producer still sees oil prices averaging $50 to $60 per barrel this year despite Brent crude reaching around $75, its highest since late 2014.\n\u201cWe\u2019re still planning for $50-$60 a barrel, that\u2019s a good place to sit,\u201d Gilvary told Reuters in a phone interview.\n\u201cWhat we\u2019re seeing now is strong demand, OPEC compliance, you\u2019re seeing geopolitics playing to the front end of the market.\u201d\n\u201cThat will start to get dampened as you see Lower 48 (U.S. states) production ramp up. You will see at least 1 million to 1.5 million barrels per day coming out of the Lower 48 this year.\u201d\nReporting by Ron Bousso; editing by Jason Neely\n \n\n    The day before the article was published, the stock price of BP p.l.c. was 35.47642517089844 and the day after the article was published, the stock price of BP p.l.c. was ",
- "expected": "35.56394577026367",
- "date": "2018-05-01",
- "ticker": "BP",
- "company": "BP p.l.c.",
- "url": "https://www.reuters.com/article/us-bp-oil/bp-says-still-sees-oil-at-50-60-bbl-in-2018-as-shale-output-surges-idUSKBN1I23CP"
-}

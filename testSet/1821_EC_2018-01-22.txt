@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'BRIEF-European Commission Approves Bristol-Myers Squibb's Yervoy' was published on 2018-01-22. The body of the article is as follows:\n    \n 15 PM / Updated 6 minutes ago BRIEF-European Commission Approves Bristol-Myers Squibb's Yervoy Reuters Staff 1 Min Read \nJan 22 (Reuters) - Bristol-Myers Squibb Co: \n* EUROPEAN COMMISSION APPROVES BRISTOL-MYERS SQUIBB\u2019S YERVOY (IPILIMUMAB) FOR TREATMENT OF PEDIATRIC PATIENTS 12 YEARS AND OLDER WITH UNRESECTABLE OR METASTATIC MELANOMA \n* BRISTOL-MYERS SAYS EC EXPANDED INDICATION OF YERVOY TO INCLUDE TREATMENT OF ADVANCED MELANOMA IN PEDIATRIC PATIENTS 12 YRS OF AGE & OLDER Source text for Eikon: Further company coverage:\n\n    The day before the article was published, the stock price of Ecopetrol S.A. was 13.844569206237793 and the day after the article was published, the stock price of Ecopetrol S.A. was ",
- "expected": "15.130022048950195",
- "date": "2018-01-22",
- "ticker": "EC",
- "company": "Ecopetrol S.A.",
- "url": "https://www.reuters.com/article/brief-european-commission-approves-brist/brief-european-commission-approves-bristol-myers-squibbs-yervoy-idUSFWN1PH0MS"
-}

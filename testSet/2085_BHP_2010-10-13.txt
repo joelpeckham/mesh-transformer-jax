@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'JPMorgan's Petno Takes Commercial Banking Post, Will Be Succeeded by Stein' was published on 2010-10-13. The body of the article is as follows:\n    \nJPMorgan Chase & Co ., the second-\nbiggest U.S. bank by assets, named  Douglas Petno  chief operating\nofficer for commercial banking.  Petno was previously head of investment banking for natural\nresources companies, JPMorgan said in an internal memorandum on\nSept. 30. Its contents were confirmed by spokeswoman  Tasha Pelio.   A veteran investment banker, Petno advised Exxon Mobil\nCorp. on its $31 billion purchase of XTO Energy Inc., and has\nbeen part of the JPMorgan team counseling BHP Billiton Ltd. this\nyear on its $40 billion hostile pursuit of Potash Corp. of\nSaskatchewan.  Petno is being replaced by  Eric Stein , previously head of\ninvestment banking in North America for clients in \u201cdiversified\nindustries\u201d such as General Electric Co., JPMorgan said in the\nmemo.  Kelly Coffey , the former head of corporate derivatives\nmarketing for North America, takes Stein\u2019s role.  To contact the reporter on this story:\n Zachary R. Mider  in New York at \n zmider1@bloomberg.net ;  To contact the editor responsible for this story:\nJennifer Sondag at   jsondag@bloomberg.net .\n\n    The day before the article was published, the stock price of BHP Billiton Limited was 51.50849151611328 and the day after the article was published, the stock price of BHP Billiton Limited was ",
- "expected": "53.11993408203125",
- "date": "2010-10-13",
- "ticker": "BHP",
- "company": "BHP Billiton Limited",
- "url": "http://www.bloomberg.com/news/2010-10-13/jpmorgan-s-petno-takes-commercial-bank-post-succeeded-by-stein.html"
-}

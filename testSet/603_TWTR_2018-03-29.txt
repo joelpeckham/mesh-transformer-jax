@@ -1,8 +1,0 @@
-{
- "context": "The following article called '\"Fast Money\" final trades: TWTR, PFE and more' was published on 2018-03-29. The body of the article is as follows:\n    \n\"Fast Money\" final trades: TWTR, PFE and more 20 Hours Ago The \u201cFast Money\u201d traders share their final trades for the day including Microsoft, Altria, Twitter and Pfizer.\n\n    The day before the article was published, the stock price of Twitter, Inc. was 28.450000762939453 and the day after the article was published, the stock price of Twitter, Inc. was ",
- "expected": "28.040000915527344",
- "date": "2018-03-29",
- "ticker": "TWTR",
- "company": "Twitter, Inc.",
- "url": "https://www.cnbc.com/video/2018/03/28/fast-money-final-trades-twtr-pfe-and-more.html"
-}

@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Sale of Handset Unit Bolsters Nokia\u2019s Profit' was published on 2014-07-24. The body of the article is as follows:\n    \nLONDON \u2014 The Finnish telecom company Nokia reported a jump in profit in the second quarter as it benefited from the recent sale of its handset unit to Microsoft for $7.3 billion.\n\n    The day before the article was published, the stock price of Microsoft Corporation was 39.03725051879883 and the day after the article was published, the stock price of Microsoft Corporation was ",
- "expected": "38.71533966064453",
- "date": "2014-07-24",
- "ticker": "MSFT",
- "company": "Microsoft Corporation",
- "url": "https://www.nytimes.com/2014/07/25/business/international/sale-of-handset-unit-bolsters-nokias-profit.html"
-}

@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Martin Sorrell dominated WPP as founder CEO: Investment manager' was published on 2018-04-16. The body of the article is as follows:\n    \nMartin Sorrell dominated WPP as founder CEO: Investment manager 4 Hours Ago Sorrell belongs to the \u201cold-style school\u201d of advertising when it comes to pressure from digitization, Saker Nusseibeh, CEO of Hermes Investment Management, said.\n\n    The day before the article was published, the stock price of WPP plc American Depositary Shares was 68.27041625976562 and the day after the article was published, the stock price of WPP plc American Depositary Shares was ",
- "expected": "63.723350524902344",
- "date": "2018-04-16",
- "ticker": "WPP",
- "company": "WPP plc American Depositary Shares",
- "url": "https://www.cnbc.com/video/2018/04/16/martin-sorrell-dominated-wpp-as-founder-ceo-investment-manager.html"
-}

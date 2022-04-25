@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'BRIEF-UK'S CMA says Refresco offers to sell specialist factory to address CMA's concerns' was published on 2018-01-17. The body of the article is as follows:\n    \nJan 17 (Reuters) - UK\u2018S CMA:\n* REFRESCO OFFERED TO ADDRESS CMA\u2019S CONCERNS ABOUT ITS MERGER WITH COTT BY SELLING ONLY UK-BASED COTT FACILITY TO USE THIS PRODUCTION PROCESS\u200d\u200b\n* THE FACTORY, LOCATED IN NELSON, LANCASHIRE, WOULD BE SOLD TO A PURCHASER APPROVED BY THE CMA. Source text ( bit.ly/2mFTTSL )\n \n\n    The day before the article was published, the stock price of Comerica Incorporated was 79.76895904541016 and the day after the article was published, the stock price of Comerica Incorporated was ",
- "expected": "79.78595733642578",
- "date": "2018-01-17",
- "ticker": "CMA",
- "company": "Comerica Incorporated",
- "url": "https://www.reuters.com/article/brief-uks-cma-says-refresco-offers-to-se/brief-uks-cma-says-refresco-offers-to-sell-specialist-factory-to-address-cmas-concerns-idUSFWN1PB1DZ"
-}

@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Sensex Lower As Asian Markets Fall; Nifty Dips Below 8000 Points' was published on 2015-08-31. The body of the article is as follows:\n    \nNifty 8,035.55 33.60 [0.42%] The Sensex was trading with losses of 144 points, while the Nifty drifted lower by 40 points in early trade and was below the 8000 points mark at 7960 points. HDFC , which saw a surge in its share price towards the end of the week saw some selling pressure and was down more than one per cent.\nMetal stocks resumed their downward slide with Vedanta and Tata Steel among the losers in trade. Select banking stocks were also trading lower with State Bank of India seeing a cut of almost 1.5 per cent, while ICICI Bank and Canara Bank were among the other losers in trade. \nMid cap stocks also declined with stocks like Emami, Wockhardt and Voltas among the losers. \nSun Pharma , Lupin and HCL Tech were among the early gainers from the Nifty. Meanwhile, the Rupee was trading at 66.26 to the dollar against Friday's close of 66.17. \nAsian markets were weak with the Shanghai Composite dropping by more than 2 per cent, while the Japanese Nikkei and The Hang Sang also fell in trade. \nGoodReturns.in\n\n    The day before the article was published, the stock price of HDFC Bank Limited was 28.382104873657227 and the day after the article was published, the stock price of HDFC Bank Limited was ",
+ "expected": "27.157188415527344",
+ "date": "2015-08-31",
+ "ticker": "HDB",
+ "company": "HDFC Bank Limited"
+}

@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'China Stocks Take GM, Ford on Rough Ride' was published on 2015-07-13. The body of the article is as follows:\n    \nChina Stocks Take GM, Ford on Rough Ride American auto makers are exposed to bad news overseas By Charley Grant Updated July 10, 2015 5:30 p.m. ET \nAthens\u2019 problems don\u2019t necessarily register in Detroit. But global economic uncertainty still adds to pressure on America\u2019s auto makers to deliver at home. \nNew passenger car sales in China fell 3.4% from a year earlier in June, according to data out Friday from the China Association of Automobile Manufacturers. Excluding holiday weeks, the... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of Ashford Hospitality Trust Inc was 609.20361328125 and the day after the article was published, the stock price of Ashford Hospitality Trust Inc was ",
+ "expected": "630.494873046875",
+ "date": "2015-07-13",
+ "ticker": "AHT",
+ "company": "Ashford Hospitality Trust Inc"
+}

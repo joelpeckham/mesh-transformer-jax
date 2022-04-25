@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'The Man Who Took KKR's Stock for a Ride' was published on 2015-09-18. The body of the article is as follows:\n    \nMarkets The Man Who Took KKR\u2019s Stock for a Ride KKR is considering replacing its market-making firm after it failed to adequately explain its floor trader\u2019s decisions that for a brief time on Aug. 24 cut the private-equity firm\u2019s market value in half. By andrew.ackerman@wsj.com Sept. 18, 2015 5:33 a.m. ET \nIn the five years since KKR & Co. listed on the New York Stock Exchange, the private-equity firm\u2019s executives have barely thought about the person on the trading floor who sometimes facilitates the buying and selling of its shares. \nNow, this role has become a focal point at the company. \nKKR is considering replacing its market-making firm, IMC Financial Markets. KKR says IMC failed to adequately explain its floor trader\u2019s... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of KKR & Co. L.P. was 16.349632263183594 and the day after the article was published, the stock price of KKR & Co. L.P. was ",
+ "expected": "15.828728675842285",
+ "date": "2015-09-18",
+ "ticker": "KKR",
+ "company": "KKR & Co. L.P."
+}

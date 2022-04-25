@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Houston Help Needed (FP or IM) at Locumtenens.com (Texas)' was published on 2015-07-18. The body of the article is as follows:\n    \nSource: LocumTenens.com Physician help needed in the Kingwood, TX area for the following assignment. Locums, Inc. will cover the medical malpractice and hourly compensation. Clinic Setting Dates of Coverage: June 29 and 30 July 1, 2, 6, 8, 13, 15 August 5, 10, 12 Office Hours: (9a-5P) Paper and EMR (Nable) Patient Volume: 4 patients per hour All adult setting Great location, complete support staff Patient Services Diabetes, colds, flu, HBP, infections, asthma, physicals, immunizations, adhd, sick visits, et al. For more information on this assignment contact Michelle Gray at 855-LOCUM4U (562-8648), through this website or Sign up or sign in for contact information Locums, Inc. Experience and Knowledge creates perfect assignments\n\n    The day before the article was published, the stock price of Alcoa Inc. was 24.646114349365234 and the day after the article was published, the stock price of Alcoa Inc. was ",
+ "expected": "24.035247802734375",
+ "date": "2015-07-18",
+ "ticker": "AA",
+ "company": "Alcoa Inc."
+}

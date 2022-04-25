@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'China weighs on U.S. stocks, Netflix DVD business still thriving' was published on 2015-07-27. The body of the article is as follows:\n    \nQuotes you view appear here for quick access. Tip : Use comma (,) to separate multiple quotes. Learn more...\n\n    The day before the article was published, the stock price of Netflix, Inc. was 109.33999633789062 and the day after the article was published, the stock price of Netflix, Inc. was ",
+ "expected": "106.9000015258789",
+ "date": "2015-07-27",
+ "ticker": "NFLX",
+ "company": "Netflix, Inc."
+}

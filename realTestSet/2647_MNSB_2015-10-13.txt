@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Debt Ceiling Alert: This Time It's Really Scary' was published on 2015-10-13. The body of the article is as follows:\n    \nDebt Ceiling Alert: This Time It's Really Scary Written by: Eric Reed 10/13/15 - 11:04 AM EDT NEW YORK (MainStreet) -- This time around, the approaching debt ceiling deadline is frightening. \nIt\u2019s old news that crisis government is the order of the day in Washington , and that's especially the case in a Congress deeply divided across party lines on virtually major issue. But now that another crisis looms at the beginning of next month, when America will default on its bills unless Congress raises the debt ceiling by November 5, it's time for panic mode. \nIt\u2019s not the first time that the far-right caucus has dredged up this particular brand of madness, threatening arbitrary economic calamity unless an unwilling country meets its demands. I t's not even the first time this year . We\u2019ve seen three debt ceiling crises since the Tea Party arrived in 2010, but this time might frighteningly be different. \nThis time, the insurgents actually have a pretty good argument for going over the cliff. More Headlines\n\n    The day before the article was published, the stock price of MainStreet Bancshares, Inc. was 11.047618865966797 and the day after the article was published, the stock price of MainStreet Bancshares, Inc. was ",
+ "expected": "10.285714149475098",
+ "date": "2015-10-13",
+ "ticker": "MNSB",
+ "company": "MainStreet Bancshares, Inc."
+}

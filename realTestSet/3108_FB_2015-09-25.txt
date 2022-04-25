@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Facebook\u2019s Free Internet Access Program in Developing Countries Provokes Backlash' was published on 2015-09-25. The body of the article is as follows:\n    \nFacebook\u2019s Free Internet Access Program in Developing Countries Provokes Backlash In India and Indonesia, users criticize Internet.org initiative, saying it violates the principles of net neutrality By Newley Purnell in Singapore and Newley Purnell Resty Woro Yuniar in Jakarta Sept. 24, 2015 2:33 p.m. ET \nWhen Muhammad Maiyagy Gery heard about a new mobile app from Facebook Inc. that provides free Internet access in his native Indonesia, he was excited. \nBut after testing it, the 24-year-old student from a mining town on the eastern edge of Borneo soon deleted the app, called Internet.org, frustrated that he was unable to access Google.com and... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of Facebook, Inc. was 94.41000366210938 and the day after the article was published, the stock price of Facebook, Inc. was ",
+ "expected": "89.20999908447266",
+ "date": "2015-09-25",
+ "ticker": "FB",
+ "company": "Facebook, Inc."
+}

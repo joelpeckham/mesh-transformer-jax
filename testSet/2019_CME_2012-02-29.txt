@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Egypt Dollar Bonds Gain a 2nd Day Before Presidential Vote Date' was published on 2012-02-29. The body of the article is as follows:\n    \nEgypt government\u2019s dollar bonds\nrose, sending the yield down for the second day, before the\nannouncement of a timetable for presidential elections.  The yield on the 5.75 percent notes due April 2020 declined\nthree basis points, or 0.03 percentage point, to 6.93 percent,\nthe lowest level since Jan. 27, at 4:31 p.m. in Cairo, according\nto data compiled by Bloomberg.  The Supreme Committee for Presidential Elections is due to\nprovide an election schedule today, after last year\u2019s ouster of\n Hosni Mubarak .  The pound was little changed at 6.0312 a dollar. Five-year\ncredit default swaps rose five basis points to 614, according to\ndata provider CMA, which is owned by  CME Group Inc. (CME)  and compiles\nprices quoted by dealers in the privately negotiated market.  To contact the reporter on this story:\nAlaa Shahine in Dubai at \n asalha@bloomberg.net   To contact the editor responsible for this story:\nClaudia Maedler at \n cmaedler@bloomberg.net\n\n    The day before the article was published, the stock price of CME Group Inc. was 37.6138801574707 and the day after the article was published, the stock price of CME Group Inc. was ",
- "expected": "37.45090866088867",
- "date": "2012-02-29",
- "ticker": "CME",
- "company": "CME Group Inc.",
- "url": "http://www.bloomberg.com/news/2012-02-29/egypt-dollar-bonds-gain-a-2nd-day-before-presidential-vote-date.html"
-}

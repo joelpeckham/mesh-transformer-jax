@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'SSE sees 33% of profits coming in first half of 2015-16' was published on 2015-09-30. The body of the article is as follows:\n    \n1,488.00 +51.0000 \nLONDON (ShareCast) - (ShareCast News) - Energy group SSE (LSE: SSE.L - news ) said it expected to earn more than a third of its full-year adjusted pre-tax profits in the first half of the 2015/16 year. In a statement, SSE added that it was still targeting adjusted earnings per share for 2015/16 of at least 115 pence. \nThe company said there had been high output of renewable energy, benefiting its wholesale operations, and a \"relatively good performance in energy supply\". \n\"SSE continues to manage a wide range of issues across its wholesale and retail businesses and, therefore, relatively good performance in these segments in the first six months does not change its outlook for the financial year as a whole. \" \"We are satisfied with the start we have made to the financial year, and are pleased to have made good progress in both the investment programme and the operational performance in each of the businesses,\" said finance director Gregor Alexander.\n\n    The day before the article was published, the stock price of Credit Suisse Group was 18.9645938873291 and the day after the article was published, the stock price of Credit Suisse Group was ",
+ "expected": "19.075448989868164",
+ "date": "2015-09-30",
+ "ticker": "CS",
+ "company": "Credit Suisse Group"
+}

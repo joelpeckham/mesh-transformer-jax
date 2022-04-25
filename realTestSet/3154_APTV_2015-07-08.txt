@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'HDFC Bank steps up Haryana play, opens 300th branch' was published on 2015-07-08. The body of the article is as follows:\n    \nHDFC Bank steps up Haryana play, opens 300th branch By PTI | 8 Jul, 2015, 10.24PM IST   KARNAL, (HARYANA): HDFC Bank scaled up its Haryana presence today, by opening its new branch at Ramnagar here, its 300th one in the state. The new branch, inaugurated by Haryana Chief Minister Manohar Lal Khattar , will give local customers the access to the full range of HDFC Bank's products and services, said a release here. Govind Pandey, Branch Banking Head, HDFC Bank, said, \"Our extensive 300-branch network in Haryana reiterates our commitment to take formal banking services to every part of the state. Our objective is to empower more people in Haryana... We are expanding into deeper geographies with increased intensity.\" At the national level, HDFC Bank has 56 per cent of its branches in semi-urban and rural areas and is deepening its reach in the hinterland as part of its efforts for inclusive growth. In Haryana, 67 per cent of its branches are located in semi-urban and rural areas. As of March 31, 2015, the bank had a distribution network of 4,014 branches and 11,766 ATMs in 2,464 cities/towns, it said.  \n\n    The day before the article was published, the stock price of Aptiv PLC was 66.65550231933594 and the day after the article was published, the stock price of Aptiv PLC was ",
+ "expected": "61.81733322143555",
+ "date": "2015-07-08",
+ "ticker": "APTV",
+ "company": "Aptiv PLC"
+}

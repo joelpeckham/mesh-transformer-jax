@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'CMA appoints three-barrister inaugural panel' was published on 2015-07-14. The body of the article is as follows:\n    \n \n\n    The day before the article was published, the stock price of Comerica Incorporated was 40.56929397583008 and the day after the article was published, the stock price of Comerica Incorporated was ",
+ "expected": "40.789119720458984",
+ "date": "2015-07-14",
+ "ticker": "CMA",
+ "company": "Comerica Incorporated"
+}

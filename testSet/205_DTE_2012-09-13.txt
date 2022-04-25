@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Drillisch Reaches Four-Month High on Buybacks: Frankfurt Mover' was published on 2012-09-13. The body of the article is as follows:\n    \nDrillisch AG (DRI) , a German provider of\ntelephone services, rose to the highest price in four months in\n Frankfurt  after announcing a plan to repurchase stock.  The supervisory board approved a proposal to buy back 3.79\nmillion shares, the Maintal, Germany-based company said in a\nstatement today. Together with 1.53 million treasury shares,\nDrillisch will hold about 10 percent of its own capital.  The stock advanced as much as 3 percent to 9.22 euros, the\nhighest intraday price since May 25, and was up 2.2 percent as\nof 3:37 p.m. on the Frankfurt exchange. That increased\nDrillisch\u2019s market value to 487 million euros ($628 million).  The phone company competes with  Deutsche Telekom AG (DTE) ,\n Germany \u2019s former phone monopoly, as well as operators including\n United Internet AG (UTDI)  and Versatel AG.  To contact the reporter on this story:\nKenneth Wong in Berlin at \n kwong11@bloomberg.net   To contact the editor responsible for this story:\nKenneth Wong at \n kwong11@bloomberg.net\n\n    The day before the article was published, the stock price of DTE Energy Company was 36.270381927490234 and the day after the article was published, the stock price of DTE Energy Company was ",
- "expected": "36.38793182373047",
- "date": "2012-09-13",
- "ticker": "DTE",
- "company": "DTE Energy Company",
- "url": "http://www.bloomberg.com/news/2012-09-13/drillisch-reaches-four-month-high-on-buybacks-frankfurt-mover.html"
-}

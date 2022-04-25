@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Houghton Mifflin reports 2Q loss' was published on 2015-08-06. The body of the article is as follows:\n    \nHoughton Mifflin reports 2Q loss Houghton Mifflin reports 2nd-quarter loss of $7.7 million 5 hours ago Content preferences Done \nBOSTON (AP) _ Houghton Mifflin Harcourt Co. (HMHC) on Thursday reported a second-quarter loss of $7.7 million, after reporting a profit in the same period a year earlier. \nOn a per-share basis, the Boston-based company said it had a loss of 6 cents. Losses, adjusted to extinguish debt, came to 5 cents per share. \nThe results missed Wall Street expectations. The average estimate of four analysts surveyed by Zacks Investment Research was for earnings of 20 cents per share. \nThe book publisher posted revenue of $379.9 million in the period. \nHoughton Mifflin shares have risen 26 percent since the beginning of the year. The stock has climbed 49 percent in the last 12 months.\n\n    The day before the article was published, the stock price of Houghton Mifflin Harcourt Company was 26.09000015258789 and the day after the article was published, the stock price of Houghton Mifflin Harcourt Company was ",
+ "expected": "24.209999084472656",
+ "date": "2015-08-06",
+ "ticker": "HMHC",
+ "company": "Houghton Mifflin Harcourt Company"
+}

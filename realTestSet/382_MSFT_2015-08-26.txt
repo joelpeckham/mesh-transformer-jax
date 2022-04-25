@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Financial Analyst II at Kaztronix (Bridgewater, NJ)' was published on 2015-08-26. The body of the article is as follows:\n    \nSource: Kaztronix This role involves the processing of chargebacks submitted by our wholesale partners. Works closely with the Membership team and ensures chargebacks are paid in compliance with contract eligibility. Skills: Excellent analytical skills, judgment and problem solving ability. -Professional manner and tact - good oral and written communication skills. -Two to three years of experience in the pharmaceutical industry, and/or finance experience preferred. -Organized, accurate with detail oriented discipline, and dedicated to superior quality work. -Strong sense of commitment and teamwork. -Ability to multi-task and meet established deadlines. -Microsoft office with excellent Excel skills. -CARS/IS experience a plus. Education: Bachelor s Degree with a Finance or Business concentration, or equivalent business experience.\n\n    The day before the article was published, the stock price of Microsoft Corporation was 36.37797164916992 and the day after the article was published, the stock price of Microsoft Corporation was ",
+ "expected": "39.46116256713867",
+ "date": "2015-08-26",
+ "ticker": "MSFT",
+ "company": "Microsoft Corporation"
+}

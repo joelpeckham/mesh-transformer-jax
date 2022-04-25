@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'RBI sets rupee reference rate at 63.75 against dollar' was published on 2015-08-10. The body of the article is as follows:\n    \nRBI sets rupee reference rate at 63.75 against dollar By PTI | 10 Aug, 2015, 02.11PM IST   MUMBAI: The Reserve Bank of India today fixed the reference rate of rupee at 63.75 against the US dollar and 69.87 for the euro as against 63.80 and 69.65 respectively, last Friday. According to an RBI statement, the exchange rates for the pound and the yen against the rupee were quoted at 98.75 and 51.22 per 100 yen, respectively, based on reference rates for the dollar and cross-currency quotes at noon. The SDR-rupee rate will be based on this rate, the statement added.  \n\n    The day before the article was published, the stock price of Aptiv PLC was 62.80877685546875 and the day after the article was published, the stock price of Aptiv PLC was ",
+ "expected": "61.83012771606445",
+ "date": "2015-08-10",
+ "ticker": "APTV",
+ "company": "Aptiv PLC"
+}

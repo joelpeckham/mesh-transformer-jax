@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Bahrain's Arcapita buys part of Abu Dhabi property project for $200m' was published on 2015-07-14. The body of the article is as follows:\n    \nBahrain's Arcapita buys part of Abu Dhabi property project for $200m Article By Reuters Tuesday, 14 July 2015 11:18 AM \nArcapita, the Bahrain-based investment management firm, has acquired phase one of Saadiyat Beach Residences, a residential real estate complex in Abu Dhabi, the company said in a statement on Tuesday. \nThe size of the purchase was not disclosed in the statement but a source close to the deal said it was around $200 million. \nArcapita bought the asset from Mubadala Development, an Abu Dhabi state-owned fund with a mandate to develop the emirate's economy, the statement said. \nPhase one includes three low-rise buildings in a gated community and is under a three-year master lease to Tourism Development & Investment Co, an Abu Dhabi state-owned investment fund. It features 285 one- to three-bedroom apartments.\n\n    The day before the article was published, the stock price of Thomson Reuters Corp was 32.86601638793945 and the day after the article was published, the stock price of Thomson Reuters Corp was ",
+ "expected": "32.703739166259766",
+ "date": "2015-07-14",
+ "ticker": "TRI",
+ "company": "Thomson Reuters Corp"
+}

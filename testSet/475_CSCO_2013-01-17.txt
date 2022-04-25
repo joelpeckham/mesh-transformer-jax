@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Cisco Acquires Stake in Russian Software Developer Parallels' was published on 2013-01-17. The body of the article is as follows:\n    \nCisco Systems Inc. (CSCO)  acquired a stake\nin Russian software developer  Parallels  to cooperate in\nproviding cloud services.  Cisco bought a stake of about 1 percent and will get a seat\non Parallels board of directors, the Russian company said by e-\nmail. The two companies have worked together to provide cloud\nservices for companies including Sprint Nextel Corp. and America\nMovil SAB, Parallels said.  To contact the reporter on this story:\nIlya Khrennikov in Moscow at \n ikhrennikov@bloomberg.net   To contact the editor responsible for this story:\nKenneth Wong at \n kwong11@bloomberg.net\n\n    The day before the article was published, the stock price of Cisco Systems, Inc. was 15.995739936828613 and the day after the article was published, the stock price of Cisco Systems, Inc. was ",
- "expected": "15.988136291503906",
- "date": "2013-01-17",
- "ticker": "CSCO",
- "company": "Cisco Systems, Inc.",
- "url": "http://www.bloomberg.com/news/2013-01-17/cisco-acquires-stake-in-russian-software-developer-parallels.html"
-}

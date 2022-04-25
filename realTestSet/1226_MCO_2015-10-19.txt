@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Moody's: No Illinois pension payment could hurt credit' was published on 2015-10-19. The body of the article is as follows:\n    \nMoody's: Illinois' inability to make pension payment amid budget feud could hurt credit rating \nTHE ASSOCIATED PRESS Published: 10/19/15 11:39 am EDT - Updated: 10/19/15 11:39 am EDT \nCHICAGO \u2014 A major credit rating agency says Illinois' inability to make a November payment to its pension funds could hurt the state's already dismal credit rating. \nIllinois Comptroller Leslie Munger said last week that the state doesn't have enough money to make a scheduled $560 million payment because of Illinois' budget impasse. \nMoody's Investors Service warned Monday that the missed payment is a \"credit negative.\" \nIllinois has the worst-funded pensions and the lowest credit rating of any state. Though Moody's statement doesn't indicate a change in Illinois' rating, it could be a factor in future action. \nThe lower a state's credit rating, the tougher \u2014 and more expensive \u2014 it is to borrow money. \nGOP Gov. Bruce Rauner and the Democrat-controlled Legislature haven't agreed on a budget for the July 1 fiscal year. \n   \n\n    The day before the article was published, the stock price of Moody's Corporation was 93.9688720703125 and the day after the article was published, the stock price of Moody's Corporation was ",
+ "expected": "93.5671157836914",
+ "date": "2015-10-19",
+ "ticker": "MCO",
+ "company": "Moody's Corporation"
+}

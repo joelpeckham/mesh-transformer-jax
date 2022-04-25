@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Coty Inc. Reports Fiscal 2015 Fourth Quarter and Full Year Results' was published on 2015-08-13. The body of the article is as follows:\n    \nCoty Inc. Reports Fiscal 2015 Fourth Quarter and Full Year Results \ndistributed by noodls on 13/08/2015 11:11\n\n    The day before the article was published, the stock price of Coty Inc. was 24.738990783691406 and the day after the article was published, the stock price of Coty Inc. was ",
+ "expected": "25.505626678466797",
+ "date": "2015-08-13",
+ "ticker": "COTY",
+ "company": "Coty Inc."
+}

@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'City snapshot: Diageo sells wine portfolio to Treasury Wine Estates' was published on 2015-10-14. The body of the article is as follows:\n    \n14 Oct 2015 | By Alec Mattinson \nDiageo has agreed sale of its major wine interests to Australia\u2019s Treasury Wine Estates for $552m, plus SABMiller shares soar on ABInBev deal agreement and all the rest of the news from the City. Available to members only \nLearn more about our membership packages. \nIf you need to talk to our Customer Services team, please call 0800 652 6512 and we'll be happy to help. You're not logged in...already a member? \nPlease log in using your email address and password. Please do not complete the following form field for security reasons. Email Address Remember my password on this computer. Sign in Now\n\n    The day before the article was published, the stock price of Diageo plc was 96.53884887695312 and the day after the article was published, the stock price of Diageo plc was ",
+ "expected": "97.87322235107422",
+ "date": "2015-10-14",
+ "ticker": "DEO",
+ "company": "Diageo plc"
+}

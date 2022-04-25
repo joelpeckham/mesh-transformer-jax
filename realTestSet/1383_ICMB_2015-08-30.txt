@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Bahrain's Investcorp says 2014-15 net income rises 13%' was published on 2015-08-30. The body of the article is as follows:\n    \nBy Reuters Sunday, 30 August 2015 11:27 AM \nBahrain-based alternative investment fund Investcorp posted a 13 percent increase in full-year net profit on Sunday. \nThe firm's net income for the 12 months to June 30 was $116.7 million, up from $103.1 million a year earlier, Investcorp said in a bourse statement. \nFully diluted annual earnings per share jumped 70 percent over the same time period to $129 per ordinary share, while return on equity was 16 percent. Investcorp did not provide a comparative figure for the latter. \nInvestcorp said its board had proposed paying a dividend of $15 per ordinary share for the year to June 30. \nThe payout for ordinary shareholders is in line with the figure for the previous financial year, the company said. \nInvestcorp's acquisitions this year include United States school provider Nobel Learning, a portfolio of residential properties for around $300 million and a majority stake in a Turkish vehicle tracking system.\n\n    The day before the article was published, the stock price of Investcorp Credit Management BDC, Inc. was 4.781104564666748 and the day after the article was published, the stock price of Investcorp Credit Management BDC, Inc. was ",
+ "expected": "4.8667097091674805",
+ "date": "2015-08-30",
+ "ticker": "ICMB",
+ "company": "Investcorp Credit Management BDC, Inc."
+}

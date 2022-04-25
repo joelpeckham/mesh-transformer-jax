@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Uber Launches Car Leasing Unit, Makes Entry Into Financial Services, Reuters' was published on 2015-07-30. The body of the article is as follows:\n    \n  Uber Launches Car Leasing Unit, Makes Entry Into Financial Services, Reuters July 30, 2015, 07:23 AM Related: Car Leasing \nReuters reported Uber Technologies has launched its own auto leasing subsidiary in an effort to sign up more drivers, injecting the fast-growing ride services company directly into the financial services sector for the first time.According to the Reuters report, Uber announced this move as a pilot project on Wednesday, following the end of its partnership with Banco Santander's U.S. lending unit earlier this year. Uber announced the initiative, but disclosed few financial details, though it said it would offer both new and used cars.To read the full Reuters report, click here . To read the Uber press release on the Uber website, click here . Today's Other News\n\n    The day before the article was published, the stock price of Thomson Reuters Corp was 33.489505767822266 and the day after the article was published, the stock price of Thomson Reuters Corp was ",
+ "expected": "34.54861068725586",
+ "date": "2015-07-30",
+ "ticker": "TRI",
+ "company": "Thomson Reuters Corp"
+}

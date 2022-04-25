@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'US proposes bundling some Medicare knee, hip replacement payments' was published on 2015-07-10. The body of the article is as follows:\n    \nRSS Reuters , July 10, 2015 \nThe U.S. agency that runs federally funded health insurance programs has proposed restructuring payments for hip and knee replacement surgeries, some of the most common surgeries received by patients covered by the plans. The Centers for Medicare and Medicaid Services (CMS) invited providers on Thursday to comment on a proposal that would hold hospitals in 75 geographic areas accountable for the quality of care they deliver to Medicare fee-for-service beneficiaries for hip and knee replacements from surgery through recovery. The targeted areas include over 800 hospitals, ranging from major cities like New York and Los Angeles, to smaller areas such as Lubbock, Texas, and Flint, Michigan, said CMS Chief Medical Officer Patrick Conway.\n\n    The day before the article was published, the stock price of Thomson Reuters Corp was 32.02044677734375 and the day after the article was published, the stock price of Thomson Reuters Corp was ",
+ "expected": "32.86601638793945",
+ "date": "2015-07-10",
+ "ticker": "TRI",
+ "company": "Thomson Reuters Corp"
+}

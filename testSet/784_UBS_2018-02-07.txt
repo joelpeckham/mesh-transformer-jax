@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Art Cashin: Market to return to normal by Friday' was published on 2018-02-07. The body of the article is as follows:\n    \nArt Cashin: Market to return to normal by Friday 1 Hour Ago CNBC's Bob Pisani and Art Cashin of UBS discuss the aftermath of the sell-off earlier in the week.\n\n    The day before the article was published, the stock price of UBS AG was 14.255163192749023 and the day after the article was published, the stock price of UBS AG was ",
- "expected": "13.728294372558594",
- "date": "2018-02-07",
- "ticker": "UBS",
- "company": "UBS AG",
- "url": "https://www.cnbc.com/video/2018/02/07/art-cashin-market-to-return-to-normal-by-friday.html"
-}

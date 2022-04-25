@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Tax Reforms Attract Major Firms for U.K. Return, Telegraph Says' was published on 2012-07-22. The body of the article is as follows:\n    \nAs many as 15 major companies may\nfollow WPP Plc\u2019s return to the U.K. after changes to rules on\ntaxing foreign profits, the Sunday Telegraph reported, citing\nbriefings by Commercial Secretary to the Treasury James Sassoon.  The firms, which weren\u2019t identified, have appointed\naccountant PricewaterhouseCoopers LLP to investigate the\ntransfer, the newspaper said.  To contact the reporter on this story:\nSofia Horta e Costa in London at \n shortaecosta@bloomberg.net   To contact the editor responsible for this story:\n Mike Harrison  at \n mharrison5@bloomberg.net\n\n    The day before the article was published, the stock price of WPP plc American Depositary Shares was 44.20315170288086 and the day after the article was published, the stock price of WPP plc American Depositary Shares was ",
- "expected": "42.71385192871094",
- "date": "2012-07-22",
- "ticker": "WPP",
- "company": "WPP plc American Depositary Shares",
- "url": "http://www.bloomberg.com/news/2012-07-22/tax-reforms-attract-major-firms-for-u-k-return-telegraph-says.html"
-}

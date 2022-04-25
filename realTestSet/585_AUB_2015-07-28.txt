@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Union Bank Q1 Net Profits Rise; Asset Quality Deteriorates' was published on 2015-07-28. The body of the article is as follows:\n    \nUnion Bank of India: Quotes , News BSE 159.75 NSE 159.30 5.2 (3.37%) The asset quality both at the gross and the net level of the bank worsened. The gross non performing assets were placed at 5.53 per cent of loans against 4.96 per cent in the previous quarter. The net non performing assets were placed at 3.08 per cent from 2.71 per cent in the previous quarter.\nCheck share price of Union Bank and financials \nAsset quality worries continue to weigh down public sector banks which have been grappling with non performing assets. Another PSU bank, Punjab National Bank which also reported numbers managed to see a slight improvement in asset quality. \nThe shares of Union Bank of India were trading flat at Rs 154, following the results. \nGoodReturns.in\n\n    The day before the article was published, the stock price of Atlantic Union Bankshares Corporation was 20.09763526916504 and the day after the article was published, the stock price of Atlantic Union Bankshares Corporation was ",
+ "expected": "20.2471866607666",
+ "date": "2015-07-28",
+ "ticker": "AUB",
+ "company": "Atlantic Union Bankshares Corporation"
+}

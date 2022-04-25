@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'UK fund to buy Anglo's Chile copper mines - paper' was published on 2015-08-08. The body of the article is as follows:\n    \n0.00 \n(Adds Anglo declined to comment) \nSANTIAGO, Aug 8 (Reuters) - A British investment fund will buy the Chilean copper assets being sold by global miner Anglo American Plc, a Chilean newspaper reported on Saturday, without naming its source or identifying the fund. \nThe Mantoverde and Mantos Blancos copper mines are expected to fetch between $500 million and $1 billion. Mining and trading company Glencore Plc (Xetra: A1JAGV - news ) , former Xstrata Chief Executive Officer Mick Davis' X2, and British investment firm Audley Capital (Other OTC: CGHC - news ) were among the first round of bidders, sources told Reuters in June. \n\"Anglo American (LSE: AAL.L - news ) is close to completing the sale of (the two mines) and the buyer will be an English investment fund,\" said El Mercurio, without giving further details or citing sources. \nAnglo said it would not comment on speculation surrounding its asset sales. (Reporting by Rosalba O'Brien and Olivia Kumwenda; Editing by Raissa Kasolowsky and Lisa Shumaker)\n\n    The day before the article was published, the stock price of AngloGold Ashanti Limited was 5.440274238586426 and the day after the article was published, the stock price of AngloGold Ashanti Limited was ",
+ "expected": "6.057408332824707",
+ "date": "2015-08-08",
+ "ticker": "AU",
+ "company": "AngloGold Ashanti Limited"
+}

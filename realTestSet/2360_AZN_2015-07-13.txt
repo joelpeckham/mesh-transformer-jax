@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'AstraZeneca lung cancer drug approved as first-line treatment' was published on 2015-07-13. The body of the article is as follows:\n    \n0.00 \n(Adds details) \nJuly 13 (Reuters) - The U.S. Food and Drug Administration approved AstraZeneca Plc (NYSE: AZN - news ) 's drug, Iressa, as a first-line treatment for a common form of lung cancer. \nThe FDA said on Tuesday the approval was based on results from a trial of 106 patients with previously untreated non-small cell lung cancer. ( http://1.usa.gov/1Sjw5eo ) \nThe drug was previously approved for use only in patients who did not respond to chemotherapy. \nLung cancer is the leading cause of cancer-related death in the United States. The National Cancer Institute estimates more than 158,000 will die from the disease this year. \nThe approval could breath new life into the drug, whose sales fell 5 percent to $144 million in the first quarter. \nDrugs like Iressa and Roche Holding AG (Other OTC: RHHBF - news ) 's Tarceva have been on the market for several years and provide a valuable treatment option for some lung cancer patients with a certain genetic mutation. (Reporting by Amrutha Penumudi in Bengaluru; Editing by Kirti Pandey and Saumyadeb Chakrabarty)\n\n    The day before the article was published, the stock price of Astrazeneca PLC was 26.29250144958496 and the day after the article was published, the stock price of Astrazeneca PLC was ",
+ "expected": "26.84248924255371",
+ "date": "2015-07-13",
+ "ticker": "AZN",
+ "company": "Astrazeneca PLC"
+}

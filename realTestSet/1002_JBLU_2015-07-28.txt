@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Stock Market Today - 07/27/15' was published on 2015-07-28. The body of the article is as follows:\n    \nby Investor's Business Daily Video 3:14 mins The market was sharply lower today weighed down by losses in China's Shanghai composite which was down 8.5%. The Nasdaq fell beneath the 50 day moving average. The S & P fell to the 200 day line. Allergan, the maker of botox rose 6% today. Equinix remains in buying range. The company helps businesses connect to their customers. Tableau Data is up 23% in 71 days. Tableau is a host business analytics platform. Earnings tomorrow Twitter, Buffalo Wild Wings, JetBlue Airways Share this\n\n    The day before the article was published, the stock price of JetBlue Airways Corporation was 22.350000381469727 and the day after the article was published, the stock price of JetBlue Airways Corporation was ",
+ "expected": "22.93000030517578",
+ "date": "2015-07-28",
+ "ticker": "JBLU",
+ "company": "JetBlue Airways Corporation"
+}

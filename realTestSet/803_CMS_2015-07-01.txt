@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'CMS proposes outpatient payment update' was published on 2015-07-01. The body of the article is as follows:\n    \nRSS MedPage Today , July 1, 2015 \nThe Centers for Medicare and Medicaid Services released a plan for reimbursing hospitals and ambulatory surgical centers starting in 2016 on Wednesday. Proposed changes include a reduction in outpatient payment rates as well as updating Medicare's conversion rate in the physician payment schedule.\n\n    The day before the article was published, the stock price of CMS Energy Corporation was 26.363414764404297 and the day after the article was published, the stock price of CMS Energy Corporation was ",
+ "expected": "27.116891860961914",
+ "date": "2015-07-01",
+ "ticker": "CMS",
+ "company": "CMS Energy Corporation"
+}

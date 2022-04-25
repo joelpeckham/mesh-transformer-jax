@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Virus Attacks Windows Computers at Companies' was published on 2005-08-17. The body of the article is as follows:\n    \nSAN FRANCISCO, Aug. 16 - A handful of digital worms that exploit vulnerabilities in some Microsoft Windows computers spread on Tuesday, hindering Internet access at some major companies.\n\n    The day before the article was published, the stock price of Microsoft Corporation was 19.213682174682617 and the day after the article was published, the stock price of Microsoft Corporation was ",
- "expected": "19.271163940429688",
- "date": "2005-08-17",
- "ticker": "MSFT",
- "company": "Microsoft Corporation",
- "url": "https://www.nytimes.com/2005/08/17/technology/virus-attacks-windows-computers-at-companies.html"
-}

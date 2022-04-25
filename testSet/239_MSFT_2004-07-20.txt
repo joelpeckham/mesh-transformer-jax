@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Microsoft to Bestow $75 Billion Windfall on Its Shareholders' was published on 2004-07-20. The body of the article is as follows:\n    \n Microsoft , the world's largest software company, announced today that it will bestow on its shareholders a windfall totaling $75 billion. \n\n    The day before the article was published, the stock price of Microsoft Corporation was 17.80148696899414 and the day after the article was published, the stock price of Microsoft Corporation was ",
- "expected": "18.381067276000977",
- "date": "2004-07-20",
- "ticker": "MSFT",
- "company": "Microsoft Corporation",
- "url": "https://www.nytimes.com/2004/07/20/technology/microsoft-to-bestow-75-billion-windfall-on-its-shareholders.html"
-}

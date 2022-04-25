@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'The 10 things in advertising you need to know today' was published on 2015-10-12. The body of the article is as follows:\n    \nThe 10 things in advertising you need to know today By Lara O'Reilly 27 minutes ago \ue071 . (Kim Kyung Hoon/Reuters) Apple Inc. CEO Tim Cook (R) and China Mobile's Chairman Xi Guohua (L) with iPhones pose with a customer at an event celebrating the launch of Apple's iPhone on China Mobile's network at a China Mobile shop in Beijing January 17, 2014. Good morning. Here's everything you need to know in the world of advertising today. \n1. Apple disabled its News app on iPhones in China. The New York Times reports that Apple News users in china trying to open the app see a message reading \"Can't refresh right now. News isn't supported in your current region.\"\n\n    The day before the article was published, the stock price of Apple Inc. was 25.699871063232422 and the day after the article was published, the stock price of Apple Inc. was ",
+ "expected": "25.62422752380371",
+ "date": "2015-10-12",
+ "ticker": "AAPL",
+ "company": "Apple Inc."
+}

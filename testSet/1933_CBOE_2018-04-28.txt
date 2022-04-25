@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Cboe, market makers targeted in VIX manipulation lawsuit' was published on 2018-04-28. The body of the article is as follows:\n    \nApril 27 (Reuters) - A trader has filed an antitrust lawsuit accusing several market makers including a Citigroup Inc unit and Citadel Securities LLC of conspiring to manipulate VIX, Wall Street\u2019s main gauge of future stock market volatility, causing losses for other investors.\nThe proposed class-action lawsuit was filed by William Siegel, a trader in VIX futures and options, in the federal court in Chicago.\nCboe Exchange Inc, which administers the VIX, was also named as a defendant, and accused of failing to stop the manipulation in an effort to boost transaction fees and revenue. (Reporting by Jonathan Stempel in New York Editing by James Dalgleish)\n \n\n    The day before the article was published, the stock price of CBOE Holdings, Inc. was 105.26660919189453 and the day after the article was published, the stock price of CBOE Holdings, Inc. was ",
- "expected": "105.85147094726562",
- "date": "2018-04-28",
- "ticker": "CBOE",
- "company": "CBOE Holdings, Inc.",
- "url": "https://www.reuters.com/article/cboe-lawsuit-volatility/cboe-market-makers-targeted-in-vix-manipulation-lawsuit-idUSL1N1S42GP"
-}

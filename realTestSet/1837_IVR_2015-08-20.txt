@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'GE CDF to Provide Growth Financing for Bush Hog\u2019s Dealer Network' was published on 2015-08-20. The body of the article is as follows:\n    \n  GE CDF to Provide Growth Financing for Bush Hog\u2019s Dealer Network August 20, 2015, 07:05 AM Related: Dealer Finance , Ge Capital , GE Capital Commercial Distribution Finance , Inventory Finance \nGE Capital Commercial Distribution Finance (CDF) announced that it has been selected by Bush Hog, Inc., a leading North American manufacturer of rotary cutters, to provide financing solutions to its U.S. dealer network. CDF will provide Bush Hog dealers with a supplemental inventory financing program sometimes referred to as a \u201crollover program\u201d. This \u201crollover program\u201d will allow Bush Hog dealers another source of capital to finance their Bush Hog inventory coming due with the supplier. Headquartered in Selma, AL, Bush Hog also manufactures zero-turning radius mowers, tractor loaders, backhoe attachments, landscape tools and replacement parts. Bush Hog is a subsidiary of Alamo Group. Today's Other News\n\n    The day before the article was published, the stock price of INVESCO MORTGAGE CAPITAL INC was 5.3393449783325195 and the day after the article was published, the stock price of INVESCO MORTGAGE CAPITAL INC was ",
+ "expected": "5.300679683685303",
+ "date": "2015-08-20",
+ "ticker": "IVR",
+ "company": "INVESCO MORTGAGE CAPITAL INC"
+}

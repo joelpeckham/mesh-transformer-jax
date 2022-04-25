@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'The 10 Highest-Paying Jobs in America' was published on 2015-08-20. The body of the article is as follows:\n    \nThe 10 Highest-Paying Jobs in America Written by: Laurie Kulikowski 08/20/15 - 4:00 AM EDT Tickers in this article: IBM \nNEW YORK (TheStreet) -- Looking to make a lot of money and willing to put in long hours and years of schooling (and likely high student debt) for it? These 10 professions are the highest-paying jobs in America. \nNot surprisingly, medical professions are some of the highest paying jobs, but a few others, such as a petroleum engineer and data scientist, are also extremely lucrative, according to job search portal CareerCast's in its 2015 list, released Thursday. The top 10 list was culled from the 200 jobs included in CareerCast's annual \"Jobs Rated\" report, which ranks jobs across North America based on analysis of specific careers factors. \nAnnual median wages are culled from the U.S. Bureau of Labor Services as well as CareerCast's own methodology. The growth outlook is tracked over a 10-year span from 2012 through 2022 by the BLS. More Headlines\n\n    The day before the article was published, the stock price of International Business Machines Corporation was 111.66597747802734 and the day after the article was published, the stock price of International Business Machines Corporation was ",
+ "expected": "107.9737548828125",
+ "date": "2015-08-20",
+ "ticker": "IBM",
+ "company": "International Business Machines Corporation"
+}

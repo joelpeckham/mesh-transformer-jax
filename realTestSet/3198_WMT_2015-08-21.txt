@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Wal-Mart Shuffles Merchandising Team' was published on 2015-08-21. The body of the article is as follows:\n    \nSarah.Nassauer@wsj.com Aug. 20, 2015 8:07 p.m. ET \nWal-Mart Stores Inc. is shuffling its merchandising team, those charged with stocking shelves of the world\u2019s largest retailer with a consistent stream of best-selling products. \nIn a staff memo Thursday, Wal-Mart U.S. CEO Greg Foran said a handful of executives would be given more responsibility. \u201cThese changes include both exporting talent internationally and expanding areas of responsibility for some of our most experienced Walmart... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of Wal-Mart Stores, Inc. was 59.58964920043945 and the day after the article was published, the stock price of Wal-Mart Stores, Inc. was ",
+ "expected": "55.68840789794922",
+ "date": "2015-08-21",
+ "ticker": "WMT",
+ "company": "Wal-Mart Stores, Inc."
+}

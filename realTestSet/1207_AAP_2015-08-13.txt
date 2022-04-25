@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Advance Auto Parts Reports Second Quarter Fiscal 2015 Comparable Cash EPS Growth of 9.1% to $2.27' was published on 2015-08-13. The body of the article is as follows:\n    \nAdvance Auto Parts Inc. 13/08/2015 | Press release Advance Auto Parts Reports Second Quarter Fiscal 2015 Comparable Cash EPS Growth of 9.1% to $2.27 \ndistributed by noodls on 13/08/2015 13:04\n\n    The day before the article was published, the stock price of Advance Auto Parts Inc was 166.78369140625 and the day after the article was published, the stock price of Advance Auto Parts Inc was ",
+ "expected": "181.35784912109375",
+ "date": "2015-08-13",
+ "ticker": "AAP",
+ "company": "Advance Auto Parts Inc"
+}

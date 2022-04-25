@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Case Study: Molson Coors' was published on 2015-10-07. The body of the article is as follows:\n    \nWhat is your annual revenue? Valid email address is required to fulfill your request. Complete and verifiable information is required in order to receive this offer. Verify Your Email Address \nWe require that you verify your email address prior to updating your account. Simply click on the button below and we'll send a quick note to your primary email address () confirming this request. \nAfter you've verified your email address, you can review and edit your account. Verify This Email Address Copyright \u00a9 2015 NetLine Corporation , All Rights Reserved. 750 University Avenue | Suite 200 | Los Gatos, CA 95032 By submitting a request, your information is subject to TradePub.com's Privacy Policy . Resources:\n\n    The day before the article was published, the stock price of Molson Coors Brewing Company Class B was 71.3209228515625 and the day after the article was published, the stock price of Molson Coors Brewing Company Class B was ",
+ "expected": "72.21034240722656",
+ "date": "2015-10-07",
+ "ticker": "TAP",
+ "company": "Molson Coors Brewing Company Class B"
+}

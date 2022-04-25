@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Financial analyst I at Xperttech (Waltham, MA)' was published on 2015-07-01. The body of the article is as follows:\n    \nSource: Dice -Assists in conducting or reporting on routine financial analysis projects -Actively participates in the budgeting and forecasting processes -Uses templates to collect and compile budget data Escalates non-standard issues or problems -Manages own time to produce timely deliverables Special assignments are clearly defined -Has knowledge of commonly used concepts, practices and procedures within functional area Relies on instructions and established guidelines to perform the functions of the job Works under immediate supervision Skills 0 - 3 years experience Strong communication and writing abilities Well developed analytical and research skills Previous experience preferred Strong knowledge of Microsoft Office applications SAP experience preferred Education BS Strong communication and writing abilities Well developed analytical and research skills Previous experience preferred Strong knowledge of Microsoft Office applications SAP experience preferred\n\n    The day before the article was published, the stock price of SAP AG ADS was 64.23856353759766 and the day after the article was published, the stock price of SAP AG ADS was ",
+ "expected": "63.991600036621094",
+ "date": "2015-07-01",
+ "ticker": "SAP",
+ "company": "SAP AG ADS"
+}

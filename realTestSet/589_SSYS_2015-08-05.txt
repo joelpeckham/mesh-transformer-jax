@@ -1,0 +1,7 @@
+{
+ "context": "The following article called '3D Systems Looks Flat' was published on 2015-08-05. The body of the article is as follows:\n    \nAhead of the Tape 3D Systems Looks Flat 3D Systems, like rival Stratasys, is set to report another weak quarter as the industry\u2019s growth cools considerably. By Spencer.Jakab@wsj.com Aug. 5, 2015 2:27 p.m. ET \n3D Systems Corp. and Stratasys Ltd. aren\u2019t quite made from the same mold, but they do look awfully similar these days. \nThe collective market value of the leading stocks in the once-hot three-dimensional printing sector has collapsed by nearly $14 billion since the beginning of 2014 to about $2.8 billion today. Both companies have decided to... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of Stratasys, Ltd. was 28.399999618530273 and the day after the article was published, the stock price of Stratasys, Ltd. was ",
+ "expected": "30.610000610351562",
+ "date": "2015-08-05",
+ "ticker": "SSYS",
+ "company": "Stratasys, Ltd."
+}

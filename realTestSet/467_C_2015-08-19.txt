@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Citigroup to pay $15 million to settle SEC charges over compliance failures' was published on 2015-08-19. The body of the article is as follows:\n    \nYou have successfully emailed the post. Citigroup to pay $15 million to settle SEC charges over compliance failures Aug. 19, 2015, 11:12 AM 5 \nThomson Reuters A Citigroup office is seen at Canary Wharf in London \nBy Sarah N. Lynch \nWASHINGTON (Reuters) - A unit of Citigroup Inc will pay $15 million to settle civil charges alleging it failed to enforce policies designed to prevent and detect insider trading, U.S. regulators said. \nWednesday's settlement with the Securities and Exchange Commission marks the second time this week that Citigroup has been dinged for regulatory failures. \nEarlier in the week, two units of the bank also agreed to pay another $180 million to settle charges it defrauded hedge fund investors during the financial crisis. \n\n(Reporting by Sarah N. Lynch; Editing by Emily Stephenson) Read the original article on Reuters . Copyright 2015. Follow Reuters on Twitter . More from Reuters:\n\n    The day before the article was published, the stock price of Citigroup, Inc. was 49.82453155517578 and the day after the article was published, the stock price of Citigroup, Inc. was ",
+ "expected": "47.90253448486328",
+ "date": "2015-08-19",
+ "ticker": "C",
+ "company": "Citigroup, Inc."
+}

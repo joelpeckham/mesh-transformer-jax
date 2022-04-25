@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Citigroup Profit Soars on Lower Litigation Costs' was published on 2015-07-17. The body of the article is as follows:\n    \nCitigroup Profit Soars on Lower Litigation Costs Earnings a year earlier were nearly wiped out by settlement over mortgage securities practices By Updated July 16, 2015 5:24 p.m. ET \nThe first half of 2015 has been relatively boring for Citigroup Inc. Shareholders will take it. \nThe New York bank turned in its second consecutive drama-free quarterly earnings report Thursday, beating expectations and sending shares 3.8% higher. \nThe results, which came in large part because of a sharp drop in legal costs, give Citigroup CEO Michael Corbat more momentum after a difficult 2014 in which his firm failed a... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of Citigroup, Inc. was 50.681880950927734 and the day after the article was published, the stock price of Citigroup, Inc. was ",
+ "expected": "50.90678405761719",
+ "date": "2015-07-17",
+ "ticker": "C",
+ "company": "Citigroup, Inc."
+}

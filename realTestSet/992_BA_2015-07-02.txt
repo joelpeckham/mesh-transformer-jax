@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Boeing raises jetliner list prices by 2.9 percent' was published on 2015-07-02. The body of the article is as follows:\n    \nYou have successfully emailed the post. Boeing raises jetliner list prices by 2.9 percent Jul. 1, 2015, 5:30 PM 1 \nThomson Reuters The Boeing logo is seen at their headquarters in Chicago \nSEATTLE (Reuters) - Boeing Co raised list prices for its jetliners by 2.9 percent on Wednesday, reflecting a range of costs that go into making the planes, the company said. \nThe price of the company's forthcoming 777X, due for delivery by 2020, rose to $400 million in the new price list, which Boeing posted on its website on Wednesday. \nAirlines typically receive steep discounts from list prices, but the figures are used for valuing orders. \nPrice increases are an annual exercise, and Boeing said the timing of the latest increase was not related to Dennis Muilenburg taking on the rule of chief executive on Wednesday. Former CEO Jim McNerney last week announced his plan to step down from the top job on July 1. \n(Reporting by Alwyn Scott; Editing by Alan Crosby) Read the original article on Reuters . Copyright 2015. Follow Reuters on Twitter . More from Reuters:\n\n    The day before the article was published, the stock price of Boeing Company (The) was 124.64060974121094 and the day after the article was published, the stock price of Boeing Company (The) was ",
+ "expected": "124.4546127319336",
+ "date": "2015-07-02",
+ "ticker": "BA",
+ "company": "Boeing Company (The)"
+}

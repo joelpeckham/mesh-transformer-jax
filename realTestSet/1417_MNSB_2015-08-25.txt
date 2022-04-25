@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Why Retirement Savers Should Be Hoping for a Lasting Market Crash' was published on 2015-08-25. The body of the article is as follows:\n    \nWhy Retirement Savers Should Be Hoping for a Lasting Market Crash Written by: Hal M. Bundrick, CFP 08/25/15 - 6:24 AM EDT NEW YORK (MainStreet) -- Good news, retirement savers: the market\u2019s crashing. Finally. Last week, the Dow dropped more than 1,000 points. It did so again yesterday morning, before recovering most of the loss by midday. The financial reporters were chasing their tails faster than ever. \u201cThe market is down! What does it mean?!\u201d And then, hours later: \u201cThe market is recovering! What does it mean?!\u201d\nBut counterintuitively , what working Americans saving for retirement really need is a market crash that lasts. \nA little behind saving for retirement? You need a grizzly bear market \nIf you\u2019ve been diligently saving for retirement, say in your 401(k) or IRA, you\u2019ve been buying into a rising market for the past six and half years. And that\u2019s fine, but you could really use a good, solid break in the market. A deep sustained bear market. More Headlines\n\n    The day before the article was published, the stock price of MainStreet Bancshares, Inc. was 9.428570747375488 and the day after the article was published, the stock price of MainStreet Bancshares, Inc. was ",
+ "expected": "9.885713577270508",
+ "date": "2015-08-25",
+ "ticker": "MNSB",
+ "company": "MainStreet Bancshares, Inc."
+}

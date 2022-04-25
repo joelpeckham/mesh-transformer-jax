@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'BA-owner IAG says considering offer for Norwegian' was published on 2018-04-12. The body of the article is as follows:\n    \nBA-owner IAG says considering offer for Norwegian 12:42pm EDT - 01:09 \nBritish Airways-owner IAG has said it is considering making an offer for Norwegian, a low-cost carrier worth about $1.2 billion, in a deal which would expand its budget offerings and give it control of a struggling rival. Sonia Legg reports   \nBritish Airways-owner IAG has said it is considering making an offer for Norwegian, a low-cost carrier worth about $1.2 billion, in a deal which would expand its budget offerings and give it control of a struggling rival. Sonia Legg reports  //reut.rs/2IMRMpI\n\n    The day before the article was published, the stock price of Iamgold Corporation was 5.429999828338623 and the day after the article was published, the stock price of Iamgold Corporation was ",
- "expected": "5.579999923706055",
- "date": "2018-04-12",
- "ticker": "IAG",
- "company": "Iamgold Corporation",
- "url": "https://www.reuters.com/video/2018/04/12/ba-owner-iag-says-considering-offer-for?videoId=417180167"
-}

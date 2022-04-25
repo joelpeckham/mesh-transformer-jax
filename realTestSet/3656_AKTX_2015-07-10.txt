@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'IBD Market Wrap - 07/09/15' was published on 2015-07-10. The body of the article is as follows:\n    \nby Investor's Business Daily Video 1:42 mins Stocks gave back most of their intraday gains, but still closed the session in positive territory as concerns over China's stock market and Greece's bailout began to ease. Preliminary volume was mixed. The market uptrend is under pressure. The S&P 500 gained 0.2% while the Nasdaq rose 0.3%. Walgreens Boots Alliance gapped up 5% in big volume after reporting view-topping Q3 earnings and guidance. NetEase gained 7% in fast turnover to retake its 50-day line. Coty dropped 5% in huge volume after P&G announced that it's spinning off more than 40 of its beauty brands into a separate company that will merge with Coty. Share this\n\n    The day before the article was published, the stock price of Akari Therapeutics Plc was 5.099999904632568 and the day after the article was published, the stock price of Akari Therapeutics Plc was ",
+ "expected": "6.5",
+ "date": "2015-07-10",
+ "ticker": "AKTX",
+ "company": "Akari Therapeutics Plc"
+}

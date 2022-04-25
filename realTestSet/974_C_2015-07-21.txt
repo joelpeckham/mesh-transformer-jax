@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Citi Ordered to Pay $700 Million to Card Customers' was published on 2015-07-21. The body of the article is as follows:\n    \nCitibank Ordered to Pay $700 Million in Consumer Relief for Deceptive Marketing Consumer Financial Protection Bureau action tied to Citi\u2019s credit card add-on products By christina.rexrode@wsj.com July 21, 2015 11:48 a.m. ET \nCitigroup Inc. has been ordered to pay an estimated $700 million to customers the Consumer Financial Protection Bureau says were harmed by illegal marketing and billing practices. Citi and its subsidiaries will also have to pay $70 million in civil penalties to regulators. \nThe enforcement action announced Tuesday morning is tied to the lender\u2019s marketing and billing tactics ranging from 2000 to 2013 of credit card add-on products, including credit-monitoring and debt-protection services. The action also states some... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of Citigroup, Inc. was 50.90678405761719 and the day after the article was published, the stock price of Citigroup, Inc. was ",
+ "expected": "52.19567108154297",
+ "date": "2015-07-21",
+ "ticker": "C",
+ "company": "Citigroup, Inc."
+}

@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'United Airlines Flight Diverted Because of Dog Onboard' was published on 2018-03-17. The body of the article is as follows:\n    \nIn another dog-related incident, United Airlines had to divert a flight because of a dog taken onboard.\nThe flight, originally set to go from Newark, N.J., to St. Louis, was diverted to Ohio to reunite the dog with his family, the Washington Post reported. The dog, whose itinerary had him going to Akron, Ohio, was mistakenly taken on the flight, leading what would normally be a two-hour trip into a four-hour one. About an hour and a half was also spent on the ground in Akron after the flight diverted to close to Columbus, Ohio.\nPassengers were compensated for the delay though United Airlines did not say how much they received, according to the Post. \nThe news comes after a dog died on a United Airlines flight after a flight attendant allegedly told a family to place the dog in an overhead compartment. The dog was suffocated to death while in the overhead compartment.\n\n    The day before the article was published, the stock price of Post Holdings, Inc. was 76.80999755859375 and the day after the article was published, the stock price of Post Holdings, Inc. was ",
- "expected": "75.20999908447266",
- "date": "2018-03-17",
- "ticker": "POST",
- "company": "Post Holdings, Inc.",
- "url": "http://fortune.com/2018/03/17/united-flight-diverted-dog/"
-}

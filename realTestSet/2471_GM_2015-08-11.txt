@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'GM ignition switch deaths, injuries total 398' was published on 2015-08-11. The body of the article is as follows:\n    \nGM ignition switch deaths, injuries total 398 GM ignition switch deaths, injuries total 398; 298 have accepted compensation so far 12 minutes ago Content preferences Done \nDETROIT (AP) -- A fund set up by General Motors will make 398 compensation offers to people killed or injured in accidents involving faulty ignition switches. \nThe fund says the switches were responsible for 124 deaths and 274 injuries. Victims' families are being offered at least $1 million each. \nThe fund, administered by attorney Kenneth Feinberg, finished processing the 4,342 claims it received by the Jan. 31 deadline. Of those, 91 percent were deemed ineligible. \nFund spokeswoman Camille Biros said Tuesday that 298 of the 396 offers made so far have been accepted. Five have been rejected. The fund plans to make two more offers, bringing the total to 398. \nGM recalled 2.6 million small cars last year but acknowledged it knew about the ignition switch problems for more than a decade. Investing Education\n\n    The day before the article was published, the stock price of General Motors Company was 26.035598754882812 and the day after the article was published, the stock price of General Motors Company was ",
+ "expected": "25.16339874267578",
+ "date": "2015-08-11",
+ "ticker": "GM",
+ "company": "General Motors Company"
+}

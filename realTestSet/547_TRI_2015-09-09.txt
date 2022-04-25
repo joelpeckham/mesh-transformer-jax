@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Qatar's regulator set to grant licences to GCC banks' was published on 2015-09-09. The body of the article is as follows:\n    \nQatar's regulator set to grant licences to GCC banks Article By Reuters Wednesday, 9 September 2015 7:52 PM \nQatar's central bank is to grant licences to Gulf Cooperation Council banks to open branches in the state, the government said on Wednesday. \nQatar already has a relatively large number of banks - around 18 - servicing a small population. \nLicences for new banks will be given according to criteria set out by the central bank, according to a statement from Qatar's committee for economic and investment affairs. \nUsually in the GCC, whose six members are Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and the United Arab Emirates, banking licences are given to lenders on a reciprocal basis, so when two countries agree to ease rules on applications from each other.\n\n    The day before the article was published, the stock price of Thomson Reuters Corp was 34.005096435546875 and the day after the article was published, the stock price of Thomson Reuters Corp was ",
+ "expected": "34.27204513549805",
+ "date": "2015-09-09",
+ "ticker": "TRI",
+ "company": "Thomson Reuters Corp"
+}

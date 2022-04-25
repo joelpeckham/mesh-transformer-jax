@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'JP Morgan to sell stake in Indian wind developer for $225m, say reports' was published on 2015-08-19. The body of the article is as follows:\n    \nEnd date JP Morgan to sell stake in Indian wind developer for $225m, say reports \nJP Morgan Asset Management reportedly plans to sell its stake in Indian wind developer Leap Green Energy for up to $225 million. To access this article please sign-in below or register for a free one-month trial. Login\n\n    The day before the article was published, the stock price of JP Morgan Chase & Co. was 57.063682556152344 and the day after the article was published, the stock price of JP Morgan Chase & Co. was ",
+ "expected": "55.16461181640625",
+ "date": "2015-08-19",
+ "ticker": "JPM",
+ "company": "JP Morgan Chase & Co."
+}

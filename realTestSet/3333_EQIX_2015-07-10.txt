@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'MEDIA ALERT: Equinix Sets Conference Call for Second Quarter 2015 Financial Results' was published on 2015-07-10. The body of the article is as follows:\n    \nMEDIA ALERT: Equinix Sets Conference Call for Second Quarter 2015 Financial Results \ndistributed by noodls on 09/07/2015 21:25\n\n    The day before the article was published, the stock price of Equinix, Inc. was 217.85301208496094 and the day after the article was published, the stock price of Equinix, Inc. was ",
+ "expected": "220.61990356445312",
+ "date": "2015-07-10",
+ "ticker": "EQIX",
+ "company": "Equinix, Inc."
+}

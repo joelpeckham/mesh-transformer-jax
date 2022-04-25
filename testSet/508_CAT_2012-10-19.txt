@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Caterpillar CEO Oberhelman Says U.S., China \u2018Need Each Other\u2019' was published on 2012-10-19. The body of the article is as follows:\n    \nCaterpillar Inc. (CAT)  Chairman and Chief\nExecutive Officer  Doug Oberhelman  said the U.S. and China \u201cneed\neach other\u201d as the global economy slows.  Caterpillar, the world\u2019s largest maker of construction and\nmining equipment, sees China as a \u201chuge opportunity\u201d as its\npopulation grows and rapidly moves into the middle class,\nOberhelman said today at an Economic Club of Chicago event.  Oberhelman, who supports former Massachusetts Governor Mitt Romney in the U.S. presidential election, said he worries about\nthe current political debate regarding trade with China and\nother countries and Caterpillar needs open foreign markets.  The Peoria, Illinois-based company, which is a net exporter\nto the Asian country from the U.S., is working to be the market\nleader in China by 2015. Almost two-thirds of its 2011 sales\ncame from outside  North America .  \u201cChina and the U.S. need each other desperately,\u201d\nOberhelman said.  To contact the reporter on this story:\nShruti Singh in Chicago at \n ssingh28@bloomberg.net   To contact the editors responsible for this story:\nSteven Frank at \n sfrank9@bloomberg.net ;\n\n    The day before the article was published, the stock price of Caterpillar, Inc. was 66.80878448486328 and the day after the article was published, the stock price of Caterpillar, Inc. was ",
- "expected": "65.62104034423828",
- "date": "2012-10-19",
- "ticker": "CAT",
- "company": "Caterpillar, Inc.",
- "url": "http://www.bloomberg.com/news/2012-10-19/caterpillar-ceo-oberhelman-says-u-s-china-need-each-other-.html"
-}

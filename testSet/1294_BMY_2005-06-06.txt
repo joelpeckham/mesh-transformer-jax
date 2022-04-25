@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Bristol-Myers Seen Settling Case by U.S.' was published on 2005-06-06. The body of the article is as follows:\n    \nThe drug maker Bristol-Myers Squibb is expected to agree to pay nearly $300 million to end a Justice Department criminal investigation of its accounting practices, according to people briefed on the prospective settlement.\n\n    The day before the article was published, the stock price of Bristol-Myers Squibb Company was 13.645247459411621 and the day after the article was published, the stock price of Bristol-Myers Squibb Company was ",
- "expected": "13.645247459411621",
- "date": "2005-06-06",
- "ticker": "BMY",
- "company": "Bristol-Myers Squibb Company",
- "url": "https://www.nytimes.com/2005/06/06/business/bristolmyers-seen-settling-case-by-us.html"
-}

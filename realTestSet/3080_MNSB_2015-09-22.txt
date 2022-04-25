@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Are Airfares Getting Cheaper? The Deals Are For Reasons You Didn't Expect' was published on 2015-09-22. The body of the article is as follows:\n    \nAre Airfares Getting Cheaper? The Deals Are For Reasons You Didn't Expect Written by: Eric Reed 09/22/15 - 11:18 AM EDT NEW YORK (MainStreet) -- Don\u2019t believe the hype. Airfare may be going down, but prices in the skies haven\u2019t caught up with those at the pump by a long shot. \nIt\u2019s become an article of faith among many members of the media that airfares are falling thanks to inexpensive oil prices. Headlines like \u201cYour Florida Vacation Just Got Cheaper\u201d proclaim a new era in dirt-cheap travel and, taken at their word, suggest that the savvy shopper should buy tickets for their next vacation now, now, now while the deals last. \nAnd yes, it is both true that oil prices have plummeted over the past few years and that airfares have also ticked somewhat (but noticeably) down. Unfortunately, the rest of this narrative falls apart upon closer examination. \nThe nose dive in oil has been a huge boon to drivers out there and, according to some economists, to the entire economy. More Headlines\n\n    The day before the article was published, the stock price of MainStreet Bancshares, Inc. was 10.190476417541504 and the day after the article was published, the stock price of MainStreet Bancshares, Inc. was ",
+ "expected": "9.809523582458496",
+ "date": "2015-09-22",
+ "ticker": "MNSB",
+ "company": "MainStreet Bancshares, Inc."
+}

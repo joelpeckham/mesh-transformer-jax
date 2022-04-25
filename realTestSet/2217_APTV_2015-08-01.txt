@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Himachal Pradesh hikes VAT on diesel by 4.50 per cent' was published on 2015-08-01. The body of the article is as follows:\n    \nHimachal Pradesh hikes VAT on diesel by 4.50 per cent By PTI | 1 Aug, 2015, 11.07PM IST   SHIMLA: While diesel prices across the country were cut by Rs 3.60 per litre yesterday, consumers in Himachal Pradesh will get benefit of only Rs 1.60 a litre as the state government has hiked VAT on the fuel by 4.50 per cent, pushing up the price by Rs 2 per litre. The decision of the government to hike Value Added Tax (VAT) on diesel from 11.5 per cent to 16 per cent to bring uniformity in prices of diesel in the region was taken by the Cabinet on July 2, but it will become effective from midnight tonight. However, the VAT in the state is still lower as compared to Punjab and Haryana where the rates are marginally up at 17.29 per cent and 17.22 per cent, respectively. Besides, Chandigarh had also increased VAT on diesel to 16.40 per cent on July 18 last in order to comply with the uniform tax structure in the region. The hike in VAT on diesel would generate additional revenue of Rs 75 crore annually but its impact on consumers would be insignificant, said Excise and Taxation Commissioner J C Chauhan.  \n\n    The day before the article was published, the stock price of Aptiv PLC was 61.928382873535156 and the day after the article was published, the stock price of Aptiv PLC was ",
+ "expected": "61.722171783447266",
+ "date": "2015-08-01",
+ "ticker": "APTV",
+ "company": "Aptiv PLC"
+}

@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Intel Sharply Rebuts A.M.D.'s Antitrust Suit' was published on 2005-09-02. The body of the article is as follows:\n    \nSAN FRANCISCO, Sept. 1 - In a sharp rebuttal to an antitrust lawsuit, the Intel Corporation on Thursday denied any wrongdoing and characterized Advanced Micro Devices, its rival and accuser, as a victim of its own mistakes.\n\n    The day before the article was published, the stock price of Intel Corporation was 15.897988319396973 and the day after the article was published, the stock price of Intel Corporation was ",
- "expected": "16.174907684326172",
- "date": "2005-09-02",
- "ticker": "INTC",
- "company": "Intel Corporation",
- "url": "https://www.nytimes.com/2005/09/02/technology/intel-sharply-rebuts-amds-antitrust-suit.html"
-}

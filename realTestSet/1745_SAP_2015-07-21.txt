@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Financial Analyst II at Kaztronix (Bridgewater, NJ)' was published on 2015-07-21. The body of the article is as follows:\n    \nSource: Kaztronix Location: Bridgewater, NJ Duties: Assist the Finance Team to close the books and present monthly results to business partners on a timely basis. Assist with providing monthly commentary to explain variances between actual results and / or budget / forecasts. This includes: Consolidate monthly actuals data in central tool (TM1) - From local SAP data Provide support for the monthly Performance reports and analysis - US OPEX reporting to Sales Force and Field Medical teams Sales Force and Field Medical Teams support - Develop expense budgets/forecasts Identify risks and opportunities that affect the achievement of these forecasts and allocating sales force spend to product brands Experience: 3 to 9 years. Skills: Preferred Qualifications: MBA or CPA Pharmaceutical industry experience Experience with TM1 and SAP Strong Excel skills Strong analytical capabilities Education: Bachelor's degree from an accredited four-year college or university with an area of specialization in Accounting or Finance 3-5 years of diversified financial/controlling experience\n\n    The day before the article was published, the stock price of SAP AG ADS was 68.10769653320312 and the day after the article was published, the stock price of SAP AG ADS was ",
+ "expected": "66.36978912353516",
+ "date": "2015-07-21",
+ "ticker": "SAP",
+ "company": "SAP AG ADS"
+}

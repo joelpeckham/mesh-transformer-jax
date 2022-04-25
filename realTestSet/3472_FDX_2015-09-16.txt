@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Even If the Fed Raises Rates, Bank Stocks Could Suffer' was published on 2015-09-16. The body of the article is as follows:\n    \nWSJ PRO Even If the Fed Raises Rates, Bank Stocks Could Suffer If the Fed signals that it will hold off on future rate rises, falling expectations for bank interest income will sink shares. By john.carney@wsj.com Sept. 15, 2015 2:16 p.m. ET \nThe market is transfixed by the U.S. Federal Reserve and the question of whether it will raise its target rate this week. But, for banks, what the Fed projects about where rates will be at the end of next year may be far more important. \nInterest rates are one of the most important drivers of bank earnings. Higher rates push net interest income higher. And that tends to push up the valuations of bank shares. \nThat is because... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of FedEx Corporation was 143.3911590576172 and the day after the article was published, the stock price of FedEx Corporation was ",
+ "expected": "139.19180297851562",
+ "date": "2015-09-16",
+ "ticker": "FDX",
+ "company": "FedEx Corporation"
+}

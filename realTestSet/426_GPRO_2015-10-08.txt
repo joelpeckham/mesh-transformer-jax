@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'No meetings between Wolf, GOP day after tax proposal defeat' was published on 2015-10-08. The body of the article is as follows:\n    \nNo meetings planned between Wolf, GOP leaders, 1 day after governor's tax plan voted down \nTHE ASSOCIATED PRESS Published: 10/8/15 2:29 pm EDT - Updated: 10/8/15 2:29 pm EDT \nHARRISBURG, Pennsylvania \u2014 Republican leaders and Democratic Gov. Tom Wolf aren't rushing to restart meetings, one day after the governor's tax plan was soundly defeated in the Pennsylvania House of Representatives. \nWolf spokesman Jeff Sheridan says the governor hopes to resume talks to resolve the state's 3-month-old budget impasse, but none were scheduled for Thursday or Friday. \nWolf's proposal to raise the personal income tax rate and institute a new levy on natural gas drilling in the Marcellus Shale formation was soundly defeated in a test vote on Wednesday. \nNine Democrats joined all Republicans in the GOP-controlled chamber to vote down the proposal. \nIn the wake of the vote, the administration is distributing a memo about the state's structural deficit, warning it could result in deep cuts to education and human services. \n   \n\n    The day before the article was published, the stock price of GoPro, Inc. was 29.329999923706055 and the day after the article was published, the stock price of GoPro, Inc. was ",
+ "expected": "29.079999923706055",
+ "date": "2015-10-08",
+ "ticker": "GPRO",
+ "company": "GoPro, Inc."
+}

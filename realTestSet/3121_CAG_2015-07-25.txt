@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Self-assessment necessary in the tax regime - GRA' was published on 2015-07-25. The body of the article is as follows:\n    \n  25 July 2015 11:00 CET Self-assessment necessary in the tax regime - GRA By GNA \nTakoradi, July 24, GNA - The Ghana Revenue Authority (GRA) is committed to promoting the culture of self-assessment by companies to help ensure voluntary compliance and grow the government purse. \nMr Kingsley Nketia-Dardom, an official of the Internal Revenue Service of the GRA, said Ghana had signed on to an international convention concerning self-assessment, and is working to reach the stated goal by the end of 2015. \nThe Revenue Officer was speaking at a Tax Education Seminar organized for Medium Tax Payers at Takoradi on the theme: 'Tax Education, A Tool for Voluntary Compliance'. \nMr Nketia-Dardom said widening the scope of self-assessment practice was key to roping in more revenue for government. \nHe urged companies to properly self-assess themselves in order not to incur the wrath of the law. \nMrs Rebecca Adwoa Howard, an official at the Medium Tax Office, urged companies to ensure proper record keeping. \nGNA\n\n    The day before the article was published, the stock price of ConAgra Foods, Inc. was 28.599254608154297 and the day after the article was published, the stock price of ConAgra Foods, Inc. was ",
+ "expected": "28.942298889160156",
+ "date": "2015-07-25",
+ "ticker": "CAG",
+ "company": "ConAgra Foods, Inc."
+}

@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'KKR's Henry McVey on where to invest globally in 2018' was published on 2018-01-18. The body of the article is as follows:\n    \nKKR's Henry McVey on where to invest globally in 2018 1 Hour Ago Henry McVey, KKR head of global macro asset allocation, discusses his global market and central bank outlook and where to invest.\n\n    The day before the article was published, the stock price of KKR & Co. L.P. was 21.25273323059082 and the day after the article was published, the stock price of KKR & Co. L.P. was ",
- "expected": "21.17832374572754",
- "date": "2018-01-18",
- "ticker": "KKR",
- "company": "KKR & Co. L.P.",
- "url": "https://www.cnbc.com/video/2018/01/18/kkrs-henry-mcvey-on-where-to-invest-globally-in-2018.html"
-}

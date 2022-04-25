@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Trump fumed at former adviser Flynn over delayed return call to Russia's Putin' was published on 2018-04-20. The body of the article is as follows:\n    \nPresident Donald Trump fumed at former national security adviser Michael Flynn over a delayed return call to Russian President Vladimir Putin . That's what two people familiar with the call told The Associated Press on condition of anonymity because they were not authorized to speak publicly about the matter.\nTrump's displeasure with Flynn was revealed late Thursday in memos written by former FBI Director James Comey detailing his conversations with Trump. The identity of the foreign leader, with whom Trump spoke on Jan. 28, 2017, was blacked out in the copies of the memos sent to Capitol Hill on Thursday and obtained by the AP.\nComey recounts how Trump at a private White House dinner pointed his fingers at his head and complained that Flynn \"has serious judgment issues\" over failing to promptly alert him to Putin's call shortly after his inauguration.\n\n\n    The day before the article was published, the stock price of Ampco-Pittsburgh Corporation was 11.25 and the day after the article was published, the stock price of Ampco-Pittsburgh Corporation was ",
- "expected": "10.800000190734863",
- "date": "2018-04-20",
- "ticker": "AP",
- "company": "Ampco-Pittsburgh Corporation",
- "url": "https://www.cnbc.com/2018/04/20/trump-fumed-at-former-adviser-flynn-over-a-delayed-return-call-to-russias-putin-sources.html"
-}

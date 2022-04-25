@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Great Lakes Dredge & Dock posts 2Q profit' was published on 2015-08-04. The body of the article is as follows:\n    \nGreat Lakes Dredge & Dock posts 2Q profit Great Lakes Dredge & Dock posts profit of $2.7 million in second quarter 51 minutes ago Content preferences Done \nOAK BROOK, Ill. (AP) _ Great Lakes Dredge & Dock Corp. (GLDD) on Tuesday reported second-quarter net income of $2.7 million, after reporting a loss in the same period a year earlier. \nThe Oak Brook, Illinois-based company said it had profit of 5 cents per share. Earnings, adjusted for asset impairment costs, were 8 cents per share. \nThe provider of dredging and dock-contracting services posted revenue of $238.9 million in the period. \nGreat Lakes Dredge & Dock shares have fallen 38 percent since the beginning of the year. The stock has fallen 25 percent in the last 12 months.\n\n    The day before the article was published, the stock price of Great Lakes Dredge & Dock Corporation was 5.329999923706055 and the day after the article was published, the stock price of Great Lakes Dredge & Dock Corporation was ",
+ "expected": "5.96999979019165",
+ "date": "2015-08-04",
+ "ticker": "GLDD",
+ "company": "Great Lakes Dredge & Dock Corporation"
+}

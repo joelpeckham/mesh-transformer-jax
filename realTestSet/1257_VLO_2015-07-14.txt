@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'After-hours buzz: Valero, Navient & more' was published on 2015-07-14. The body of the article is as follows:\n    \nCheck out the companies making headlines after the bell Monday: Adam Jeffery | CNBC A trader works on the floor of the New York Stock Exchange. \nNavient - The loan management provider said it expects second-quarter core earnings of about 40 cents a share and full-year earnings of about $1.85 a share. Shares fell more than 13 percent on the news. \nJetBlue - Shares inched lower after the airline said passenger revenue per available seat fell about 1 percent in June from a year ago. \nValero Energy - The fuel provider declared a quarterly cash dividend of 40 cents per share. The company also said its board approved a $2.5 billion stock buyback, bringing its total share repurchase program to $2.9 billion. The stock rose about 2 percent after the announcement. \nAXIS Capital Holdings - The insurer said it sees second-quarter adjusted earnings of between 90 cents and 96 cents per share. Shares fell about 4 percent in after-hours trading.\n\n    The day before the article was published, the stock price of Valero Energy Corporation was 50.235740661621094 and the day after the article was published, the stock price of Valero Energy Corporation was ",
+ "expected": "48.97364044189453",
+ "date": "2015-07-14",
+ "ticker": "VLO",
+ "company": "Valero Energy Corporation"
+}

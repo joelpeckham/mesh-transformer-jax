@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'India's IDFC Bank agrees to acquire Warburg-backed lender Capital First' was published on 2018-01-13. The body of the article is as follows:\n    \nMUMBAI, Jan 13 (Reuters) - IDFC Bank Ltd, one of India\u2019s two newest banks, said on Saturday its board has approved a takeover of non-bank financial firm Capital First Ltd in a share swap deal.\nShareholders in Capital First will receive 139 shares of the bank for every 10 shares held, the lender said in a stock exchange filing. The deal is conditional on central bank and other regulatory approvals.\nCapital First, owned more than a third by private equity firm Warburg Pincus, also counts Singapore state investor GIC among its major investors. (Reporting by Suvashree Dey Choudhury and Devidutta Tripathy; Editing by Shri Navaratnam)\n \n\n    The day before the article was published, the stock price of Global Industrial Company was 31.0 and the day after the article was published, the stock price of Global Industrial Company was ",
- "expected": "30.360000610351562",
- "date": "2018-01-13",
- "ticker": "GIC",
- "company": "Global Industrial Company",
- "url": "https://www.reuters.com/article/capital-first-ma-idfc-bank/indias-idfc-bank-agrees-to-acquire-warburg-backed-lender-capital-first-idUSI8N1J201T"
-}

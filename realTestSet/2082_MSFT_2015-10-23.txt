@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Move Over Amazon, Alphabet: Facebook Hits High' was published on 2015-10-23. The body of the article is as follows:\n    \nA lot of attention is currently on Amazon, Alphabet and Microsoft, but there's another tech giant hitting a new high Friday: Facebook. Share this\n\n    The day before the article was published, the stock price of Microsoft Corporation was 43.17356872558594 and the day after the article was published, the stock price of Microsoft Corporation was ",
+ "expected": "48.764644622802734",
+ "date": "2015-10-23",
+ "ticker": "MSFT",
+ "company": "Microsoft Corporation"
+}

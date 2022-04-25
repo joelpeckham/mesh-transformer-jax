@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Owners of popular Jersey shore pizzeria admit evading taxes' was published on 2015-07-02. The body of the article is as follows:\n    \nOwners of popular Jersey shore pizzeria plead guilty to evading taxes, lying to IRS \nTHE ASSOCIATED PRESS Published: 7/2/15 11:51 am EDT - Updated: 7/2/15 11:56 am EDT \nCAMDEN, New Jersey \u2014 The owners of a popular Jersey shore pizza restaurant chain have admitted evading taxes and lying to the IRS. \nManco & Manco Pizza owner Charles Bangle pleaded guilty Thursday in federal court in Camden to evading taxes on his 2010 tax returns and structuring financial transactions in 2011 to avoid reporting requirements. \nHis 54-year-old wife, Mary, pleaded guilty to knowingly making materially false statements to the IRS. \nManco & Manco Pizza is located in Ocean City and has three stores on the boardwalk and one in Somers Point. \nThe Bangles were employees of Mack & Manco Pizza until they purchased it in 2011. \nCharles Bangle acknowledged avoiding $91,577 in taxes. \nThey each face up to five years in prison when they are sentenced in October. \n   \n\n    The day before the article was published, the stock price of IRSA Inversiones Y Representaciones S.A. was 17.08137321472168 and the day after the article was published, the stock price of IRSA Inversiones Y Representaciones S.A. was ",
+ "expected": "16.890520095825195",
+ "date": "2015-07-02",
+ "ticker": "IRS",
+ "company": "IRSA Inversiones Y Representaciones S.A."
+}

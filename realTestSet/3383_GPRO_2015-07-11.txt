@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Walker blames GOP lawmakers for abortive open records plan' was published on 2015-07-11. The body of the article is as follows:\n    \nWalker blames GOP lawmakers for abortive attempt to roll back Wisconsin's open records law \nTHE ASSOCIATED PRESS Published: 7/11/15 12:28 pm EDT - Updated: 7/11/15 12:31 pm EDT \nMILWAUKEE \u2014 Gov. Scott Walker has blamed Republican lawmakers for an abortive proposal to roll back Wisconsin's open records law. \nIn a radio interview Friday, the Republican governor said the idea was a \"huge mistake\" that didn't come from him. \nHe told conservative talk show host Charlie Sykes on WTMJ-AM that the plan should not have been inserted into the budget. \nThe changes would have shielded nearly everything government officials create from the open records law. GOP lawmakers slipped the plan into the budget unannounced in a late-night session heading into the Independence Day holiday weekend. They were stripped from the budget this week after a fierce backlash from conservatives and liberals alike. \nSenate Majority Leader Scott Fitzgerald says Walker's office collaborated with Senate and Assembly leaders to draft the changes. \n   \n\n    The day before the article was published, the stock price of GoPro, Inc. was 52.5099983215332 and the day after the article was published, the stock price of GoPro, Inc. was ",
+ "expected": "54.970001220703125",
+ "date": "2015-07-11",
+ "ticker": "GPRO",
+ "company": "GoPro, Inc."
+}

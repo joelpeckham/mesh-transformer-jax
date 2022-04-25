@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'MasTec Announces Second Quarter Results' was published on 2015-08-17. The body of the article is as follows:\n    \nMasTec Announces Second Quarter Results \ndistributed by noodls on 17/08/2015 20:42\n\n    The day before the article was published, the stock price of Mastech Holdings, Inc was 3.950000047683716 and the day after the article was published, the stock price of Mastech Holdings, Inc was ",
+ "expected": "3.9149999618530273",
+ "date": "2015-08-17",
+ "ticker": "MHH",
+ "company": "Mastech Holdings, Inc"
+}

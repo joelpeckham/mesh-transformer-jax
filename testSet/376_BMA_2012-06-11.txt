@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Argentina Stock Movers: Banco Macro, BBVA, Edenor Were Active' was published on 2012-06-11. The body of the article is as follows:\n    \nThe following companies had unusual\nprice changes in Argentine trading. Stock symbols are in\nparentheses, and share prices are as of the market close in\nBuenos Aires. The  Merval (MERVAL)  Index fell 0.9 percent to 2,179.53.  Banco Macro SA (BMA)   dropped 3.5 percent to 7.55 pesos.\nArgentina\u2019s largest lender by market share fell after newspaper\nEl Cronista reported Argentine President  Cristina Fernandez de Kirchner  will decide in coming days whether to support\nlegislation that would force all financial transactions to be\ncarried out in pesos.  BBVA Banco Frances SA (FRAN)   slid 3.4\npercent to 7 pesos.  Empresa Distribuidora & Comercializadora Norte SA (EDN AF)\nfell 2 percent to 0.676 peso. Argentina\u2019s largest power\ndistributor fell for a second day after  Standard & Poor\u2019s  cut\nits corporate  credit rating  to CCC from CCC+.  To contact the reporter on this story:\nCamila Russo in  Buenos Aires (GALI)  at \n crusso15@bloomberg.net   To contact the editor responsible for this story:\nDavid Papadopoulos at \n papadopoulos@bloomberg.net\n\n    The day before the article was published, the stock price of Banco Macro S.A. was 10.852130889892578 and the day after the article was published, the stock price of Banco Macro S.A. was ",
- "expected": "10.282808303833008",
- "date": "2012-06-11",
- "ticker": "BMA",
- "company": "Banco Macro S.A.",
- "url": "http://www.bloomberg.com/news/2012-06-11/argentina-stock-movers-banco-macro-bbva-edenor-were-active.html"
-}

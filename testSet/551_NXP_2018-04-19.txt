@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Qualcomm to refile China application to get NXP deal cleared' was published on 2018-04-19. The body of the article is as follows:\n    \nApril 19 (Reuters) - Qualcomm will refile a regulatory application with the Chinese government to clear its $44 billion takeover of NXP Semiconductors, the U.S. chipmaker said on Thursday.\nQualcomm and NXP will extend the end date of their purchase agreement to July 25 from April 25.\nEarlier on Thursday, Reuters reported that Qualcomm will have to do more to complete its proposed takeover of NXP, citing a commerce ministry spokesman. (Reporting by Sonam Rai in Bengaluru; Editing by Maju Samuel)\n \n\n    The day before the article was published, the stock price of Nuveen Select Tax Free Income Portfolio was 12.283125877380371 and the day after the article was published, the stock price of Nuveen Select Tax Free Income Portfolio was ",
- "expected": "12.309528350830078",
- "date": "2018-04-19",
- "ticker": "NXP",
- "company": "Nuveen Select Tax Free Income Portfolio",
- "url": "https://www.reuters.com/article/china-qualcomm-antitrust/qualcomm-to-refile-china-application-to-get-nxp-deal-cleared-idUSL3N1RT3WB"
-}

@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'How Fox Could Be the Fastest Growing Media Stock' was published on 2015-08-05. The body of the article is as follows:\n    \nHow Fox Could Be the Fastest Growing Media Stock by Bloomberg Video 3:32 mins Aug. 5 -- Morgan Stanley Research Media Analyst Benjamin Swinburne and WPP CEO Sir Martin Sorrell discuss earnings from media companies and outlook for the sector. They speak on Bloomberg Television's \u201cBloomberg Surveillance.\u201d Share this\n\n    The day before the article was published, the stock price of Morgan Stanley was 33.43538284301758 and the day after the article was published, the stock price of Morgan Stanley was ",
+ "expected": "33.4439697265625",
+ "date": "2015-08-05",
+ "ticker": "MS",
+ "company": "Morgan Stanley"
+}

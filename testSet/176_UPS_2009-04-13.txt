@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'A Lot More Than Shipping' was published on 2009-04-13. The body of the article is as follows:\n    \nA new ad campaign for U.P.S.  conjures up a world where just about everything in sight is cardboard -- and that's meant to be a good thing.\n\n    The day before the article was published, the stock price of United Parcel Service, Inc. was 36.66263961791992 and the day after the article was published, the stock price of United Parcel Service, Inc. was ",
- "expected": "36.62150192260742",
- "date": "2009-04-13",
- "ticker": "UPS",
- "company": "United Parcel Service, Inc.",
- "url": "https://www.nytimes.com/video/multimedia/1194839427400/a-lot-more-than-shipping.html"
-}

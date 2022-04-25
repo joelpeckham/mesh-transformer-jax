@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'CNO Financial Says It Will Add $100 Million to Buyback Program' was published on 2012-02-29. The body of the article is as follows:\n    \nCNO Financial Group Inc. (CNO) , the\ninsurer that counts  John Paulson \u2019s hedge fund as its largest\ninvestor, said it will add $100 million to a share-buyback\nprogram.  The amount is in addition to the $30 million remaining in\nthe repurchase program, the Carmel, Indiana-based firm said in a\nstatement today distributed by PR Newswire.  To contact the reporter on this story:\nAndrea Ludtke in New York at \n aludtke@bloomberg.net   To contact the editor responsible for this story:\nDan Kraut at   dkraut2@bloomberg.net\n\n    The day before the article was published, the stock price of CNO Financial Group, Inc. was 6.330093860626221 and the day after the article was published, the stock price of CNO Financial Group, Inc. was ",
- "expected": "6.363809585571289",
- "date": "2012-02-29",
- "ticker": "CNO",
- "company": "CNO Financial Group, Inc.",
- "url": "http://www.bloomberg.com/news/2012-02-29/cno-financial-says-it-will-add-100-million-to-buyback-program.html"
-}

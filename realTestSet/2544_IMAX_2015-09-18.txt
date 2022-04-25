@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Planning and Analytics For the Agile Enterprise' was published on 2015-09-18. The body of the article is as follows:\n    \nWhich of the following best describes your company or organization (check one)? Please specify for Other What role do you play in the acquisition of IT or Business Services solutions? Please specify for Other Please opt me in to periodically receive valuable performance management third party analyst content. by e-mail. by postal mail.   \u2022 Geographic Eligibility: USA. \u2022 IBM Corporation determines qualification and reserves the right to limit the number of free offers.  \n\n    The day before the article was published, the stock price of Imax Corporation was 34.290000915527344 and the day after the article was published, the stock price of Imax Corporation was ",
+ "expected": "34.189998626708984",
+ "date": "2015-09-18",
+ "ticker": "IMAX",
+ "company": "Imax Corporation"
+}

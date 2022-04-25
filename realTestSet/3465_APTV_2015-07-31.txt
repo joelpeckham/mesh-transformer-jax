@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Insurance companies refuse extending deadline for crop premium' was published on 2015-07-31. The body of the article is as follows:\n    \nInsurance companies refuse extending deadline for crop premium By PTI | 31 Jul, 2015, 02.03PM IST ET SPECIAL: Love visual aspect of news? Enjoy this exclusive slideshows treat! MUMBAI: The Maharashtra Government today told the Legislative Assembly that insurance companies have rejected the request to extend the deadline for payment of crop insurance premium . Agriculture minister Eknath Khadse said he had spoken to union agriculture minister and secretary and apprised them about the situation. \"I held meetings with insurance companies till last night. Now, the only solution is to meet union finance minister Arun Jaitley,\" he said. The issue was raised by NCP legislator Dilip Walse Patil , who said the local staff was busy with Gram Panchayat polls and hence, the government should seek an extension for payment of premium. Today, i.e July 31, is the last date for farmers to pay crop insurance premium. Stay on top of business news with The Economic Times App. Download it Now! DON'T MISS any stories, follow us on Twitter Follow\n\n    The day before the article was published, the stock price of Aptiv PLC was 61.46836853027344 and the day after the article was published, the stock price of Aptiv PLC was ",
+ "expected": "61.198692321777344",
+ "date": "2015-07-31",
+ "ticker": "APTV",
+ "company": "Aptiv PLC"
+}

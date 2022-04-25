@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'The dockBoss Rescues Old Music Docks' was published on 2012-12-13. The body of the article is as follows:\n    \nSince new Apple products have been equipped with the smaller Lightning connector, buying a new device also means replacing many accessories that have the old, wider connectors. One of the most costly to replace is the music dock, which can cost from around $100 to thousands of dollars.\n\n    The day before the article was published, the stock price of Apple Inc. was 16.650842666625977 and the day after the article was published, the stock price of Apple Inc. was ",
- "expected": "15.748486518859863",
- "date": "2012-12-13",
- "ticker": "AAPL",
- "company": "Apple Inc.",
- "url": "https://gadgetwise.blogs.nytimes.com/2012/12/13/the-dockboss-rescues-old-music-docks/"
-}

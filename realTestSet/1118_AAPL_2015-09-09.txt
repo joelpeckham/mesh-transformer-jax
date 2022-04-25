@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Apple unveils new iPhone 6S and 6S plus that recognizes touch' was published on 2015-09-09. The body of the article is as follows:\n    \nApple unveils new iPhone 6S and 6S plus that recognizes touch 27 minutes ago . View photo Phil Schiller, Senior Vice President of Worldwide Marketing at Apple Inc, speaks about pricing for the entire iPhone line during an Apple media event in San Francisco, California, September 9, 2015. Reuters/Beck Diefenbach \nSAN FRANCISCO, Sept 9 (Reuters) - Apple Inc unveiled the iPhone 6S and 6S plus on Wednesday, the latest iteration of its lucrative smartphone that offers 3D touch, a display technology that responds differently depending on how hard users press their screens. \nThe new phones, which will come in four metal finishes, will also come with an improved, 12 megapixel camera. Apple also said the new iPhone will record 4K video. \nApple relies heavily on the sale of its flagship iPhones, which drove nearly two-thirds of the company's revenue in the most recent quarter. \n(Reporting by Julia Love and Noel Randewich; Editing by Christian Plumb) Information Technology\n\n    The day before the article was published, the stock price of Apple Inc. was 25.743423461914062 and the day after the article was published, the stock price of Apple Inc. was ",
+ "expected": "25.803016662597656",
+ "date": "2015-09-09",
+ "ticker": "AAPL",
+ "company": "Apple Inc."
+}

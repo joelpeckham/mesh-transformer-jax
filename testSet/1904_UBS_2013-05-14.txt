@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Ex-UBS Executive Appeals Sex Conviction in Singapore' was published on 2013-05-14. The body of the article is as follows:\n    \nJuerg Buergin, a former UBS executive\ndirector of operations sentenced to prison for having sex with\nan underage prostitute in  Singapore , has filed an appeal of his\nconviction, his lawyer said.  Buergin, 41, who is in Admiralty West Prison, hasn\u2019t\nappealed the sentence in the filing yesterday, Selva Naidu, his\nlawyer said in a telephone interview today.  The Swiss national was sentenced on May 8 to four months\nand three weeks in jail after being convicted of two charges of\nbuying sex with a minor. Singapore Subordinate Courts Judge Eddy\nTham said mistaking a minor\u2019s age isn\u2019t a defense.  The  Straits Times  earlier reported the appeal.  The criminal case is Public Prosecutor v Buergin Juerg.\nDAC13762/2012. Singapore Subordinate Courts.  To contact the reporter on this story:\nAndrea Tan in Singapore at \n atan17@bloomberg.net   To contact the editor responsible for this story:\nDouglas Wong at \n dwong19@bloomberg.net\n\n    The day before the article was published, the stock price of UBS AG was 11.543216705322266 and the day after the article was published, the stock price of UBS AG was ",
- "expected": "11.78785514831543",
- "date": "2013-05-14",
- "ticker": "UBS",
- "company": "UBS AG",
- "url": "http://www.bloomberg.com/news/2013-05-14/ex-ubs-executive-appeals-sex-conviction-in-singapore.html"
-}

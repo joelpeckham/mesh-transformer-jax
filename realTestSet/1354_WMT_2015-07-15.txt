@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Co-Founders of Wal-Mart\u2019s Chinese E-Commerce Venture to Leave' was published on 2015-07-15. The body of the article is as follows:\n    \nLaurie.Burkitt@wsj.com Updated July 14, 2015 7:10 p.m. ET \nWal-Mart Stores Inc. said Tuesday the co-founders of its Chinese e-commerce venture have announced their departures, thrusting a central part of the retailer\u2019s China strategy into transition. \nYihaodian Chairman Yu Gang and Chief Executive Liu Junling, both veterans of Dell who launched the company in 2008, are leaving to pursue their next venture, Wal-Mart spokesman Dan Toporek said in a statement. Wal-Mart, which holds a 51% stake... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of Wal-Mart Stores, Inc. was 63.8213996887207 and the day after the article was published, the stock price of Wal-Mart Stores, Inc. was ",
+ "expected": "63.85601043701172",
+ "date": "2015-07-15",
+ "ticker": "WMT",
+ "company": "Wal-Mart Stores, Inc."
+}

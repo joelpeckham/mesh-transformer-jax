@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Britain's Relx to pay 580 million pounds for digital identity group ThreatMetrix' was published on 2018-01-29. The body of the article is as follows:\n    \nLONDON (Reuters) - European information and analytics provider Relx has agreed to pay 580 million pounds ($819 million) in cash to buy ThreatMetrix which analyses over 100 million transactions per day to hunt for cases of fraud.\nThe company, one of the largest repositories of online digital identities in the world, will become part of Relx\u2019s Risk & Business Analytics, which operates under the LexisNexis Risk Solutions brand to spot fraud.\n\u201dThe acquisition is in line with our organic growth driven strategy, supported by acquisitions of targeted data sets and analytics that are natural additions to our existing business,\u201d Risk & Business Analytics CEO Mark Kelsey said on Monday.\nReporting by Kate Holton, Editing by Paul Sandle\n \n\n    The day before the article was published, the stock price of RELX PLC PLC was 20.29580307006836 and the day after the article was published, the stock price of RELX PLC PLC was ",
- "expected": "19.94338035583496",
- "date": "2018-01-29",
- "ticker": "RELX",
- "company": "RELX PLC PLC",
- "url": "https://www.reuters.com/article/us-threatmetrix-m-a-relx/britains-relx-to-pay-580-million-pounds-for-digital-identity-group-threatmetrix-idUSKBN1FI0P1"
-}

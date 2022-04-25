@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Sam\u2019s Club Aims to Be Less Like Wal-Mart' was published on 2015-08-17. The body of the article is as follows:\n    \nSarah.Nassauer@wsj.com Aug. 16, 2015 3:54 p.m. ET \nAfter struggling for years to turn around sluggish sales, Sam\u2019s Club is now pursuing a more fundamental fix: breaking away from the low-income consumers who shop at at its parent, Wal-Mart Stores Inc. \n\u201cWe want to be less of a Wal-Mart,\u201d said Rosalind Brewer, chief executive of the warehouse-club retailer that has tried more modest moves like improving online ordering and adding such services as tax preparation that appeal to... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of Wal-Mart Stores, Inc. was 63.029354095458984 and the day after the article was published, the stock price of Wal-Mart Stores, Inc. was ",
+ "expected": "60.503997802734375",
+ "date": "2015-08-17",
+ "ticker": "WMT",
+ "company": "Wal-Mart Stores, Inc."
+}

@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Valero Energy Reports Second Quarter 2015 Results' was published on 2015-07-30. The body of the article is as follows:\n    \nValero Energy Reports Second Quarter 2015 Results \ndistributed by noodls on 30/07/2015 12:04\n\n    The day before the article was published, the stock price of Valero Energy Corporation was 49.61220169067383 and the day after the article was published, the stock price of Valero Energy Corporation was ",
+ "expected": "49.59046936035156",
+ "date": "2015-07-30",
+ "ticker": "VLO",
+ "company": "Valero Energy Corporation"
+}

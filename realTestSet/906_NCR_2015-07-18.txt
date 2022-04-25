@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Property guide: NCR realty market' was published on 2015-07-18. The body of the article is as follows:\n    \nProperty guide: NCR realty market 18 Jul 2015, 2:12PM IST Copy URL Embed The civil aviation ministry cleared a proposal for a second international airport in Delhi-NCR that is likely to be built at Jewar in Greater Noida.   31  \n\n    The day before the article was published, the stock price of NCR Corporation was 30.260000228881836 and the day after the article was published, the stock price of NCR Corporation was ",
+ "expected": "31.020000457763672",
+ "date": "2015-07-18",
+ "ticker": "NCR",
+ "company": "NCR Corporation"
+}

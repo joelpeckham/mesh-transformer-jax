@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Mattel Reports Second Quarter 2015 Financial Results And Declares Quarterly Dividend' was published on 2015-07-16. The body of the article is as follows:\n    \nMattel Reports Second Quarter 2015 Financial Results And Declares Quarterly Dividend \ndistributed by noodls on 16/07/2015 20:14\n\n    The day before the article was published, the stock price of Mattel, Inc. was 22.655019760131836 and the day after the article was published, the stock price of Mattel, Inc. was ",
+ "expected": "21.521825790405273",
+ "date": "2015-07-16",
+ "ticker": "MAT",
+ "company": "Mattel, Inc."
+}

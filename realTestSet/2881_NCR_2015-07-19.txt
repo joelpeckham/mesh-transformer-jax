@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Dream homes: Real Estate market in NCR' was published on 2015-07-19. The body of the article is as follows:\n    \nDream homes: Real Estate market in NCR 19 Jul 2015, 8:18PM IST Copy URL Embed Fall in real estate prices in the Delhi-NCR is certainly a good news for buyers who have been deferring their purchase in the hope of more correction in the market, and this combined with the projections of better ROI on investment in upcoming NCR micromarkets like Neemrana and Bhiwadi means more cheer for those looking for their dream abode in the NCR region. For the latest videos, follow us on twitter Follow @EconomicTimes 131 views\n\n    The day before the article was published, the stock price of NCR Corporation was 30.260000228881836 and the day after the article was published, the stock price of NCR Corporation was ",
+ "expected": "31.020000457763672",
+ "date": "2015-07-19",
+ "ticker": "NCR",
+ "company": "NCR Corporation"
+}

@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'RBS selects top panel firms as review nears completion' was published on 2015-10-15. The body of the article is as follows:\n    \n \n\n    The day before the article was published, the stock price of Orbsat Corp. was 1822.5 and the day after the article was published, the stock price of Orbsat Corp. was ",
+ "expected": "1822.5",
+ "date": "2015-10-15",
+ "ticker": "OSAT",
+ "company": "Orbsat Corp."
+}

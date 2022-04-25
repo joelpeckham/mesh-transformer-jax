@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'China stocks up 4% as focus switches to the Fed' was published on 2015-07-29. The body of the article is as follows:\n    \nChina stocks up 4% as focus switches to the Fed By Matt Clinch 2 hours ago \ue071 . View photo STR | AFP | Getty Images. Chinese investors recover their poise as we gear up for another bumper day of earnings and the Federal Reserve monetary policy meeting. \nHello and welcome to Wednesday's Squawk Box Live . China's stock markets staged a late rally as we gear up for another bumper day of earnings and the conclusion of this month's Federal Reserve monetary policy meeting. \nStay tuned for all the latest news comment and analysis. \n(App users please click here ). More From CNBC\n\n    The day before the article was published, the stock price of FedEx Corporation was 157.49276733398438 and the day after the article was published, the stock price of FedEx Corporation was ",
+ "expected": "159.20315551757812",
+ "date": "2015-07-29",
+ "ticker": "FDX",
+ "company": "FedEx Corporation"
+}

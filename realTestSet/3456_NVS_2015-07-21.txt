@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Looking at bolt-on acquisitions: Novartis CEO' was published on 2015-07-21. The body of the article is as follows:\n    \nJoe Jimenez, CEO of Novartis, says the company is looking for bolt-on acquisitions worth between $1 bilion to $3 billion, rather than mega-mergers. Share this\n\n    The day before the article was published, the stock price of Novartis AG was 76.55753326416016 and the day after the article was published, the stock price of Novartis AG was ",
+ "expected": "73.08027648925781",
+ "date": "2015-07-21",
+ "ticker": "NVS",
+ "company": "Novartis AG"
+}

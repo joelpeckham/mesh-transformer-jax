@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Blackstone's Gray: Watch these warning signs in real estate' was published on 2015-07-16. The body of the article is as follows:\n    \nJonathan Gray, global head of real estate at Blackstone, said at the Delivering Alpha conference that real estate looks stable, but not as lucrative as three to four years ago. Share this\n\n    The day before the article was published, the stock price of The Blackstone Group L.P. was 28.953821182250977 and the day after the article was published, the stock price of The Blackstone Group L.P. was ",
+ "expected": "29.142969131469727",
+ "date": "2015-07-16",
+ "ticker": "BX",
+ "company": "The Blackstone Group L.P."
+}

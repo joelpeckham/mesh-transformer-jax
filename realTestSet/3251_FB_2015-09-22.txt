@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Facebook\u2019s Restrictions on User Data Cast a Long Shadow' was published on 2015-09-22. The body of the article is as follows:\n    \nFacebook\u2019s Restrictions on User Data Cast a Long Shadow Curbs disrupt startups, academic research and even political strategy By elizabeth.dwoskin@wsj.com Sept. 21, 2015 8:22 p.m. ET \nA few months ago, social psychologist Benjamin Crosier was building an app to look for links between social-media activity and ills like drug addiction. \nThen, he was stopped in his tracks after Facebook Inc. limited outsiders\u2019 access to information about its roughly 1.5 billion users. Dr. Crosier, a postdoctoral fellow at Dartmouth College, is... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of Facebook, Inc. was 95.55000305175781 and the day after the article was published, the stock price of Facebook, Inc. was ",
+ "expected": "93.97000122070312",
+ "date": "2015-09-22",
+ "ticker": "FB",
+ "company": "Facebook, Inc."
+}

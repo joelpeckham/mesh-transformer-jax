@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Gleneagles sold by Diageo for \u00a3200m after 30 years' was published on 2015-07-01. The body of the article is as follows:\n    \nGleneagles sold by Diageo for \u00a3200m after 30 years Gleneagles sold by Diageo for \u00a3200m after 30 years DRINKS giant Diageo has called time on over three decades of owning Scottish luxury hotel and golf resort Gleneagles after selling it to a private investment group. PUBLISHED: 21:38, Wed, Jul 1, 2015 | UPDATED: 08:33, Thu, Jul 2, 2015 STUART ROBINSON Paul McGinley with the Ryder Cup at Gleneagle The investment group, led by Hoxton boutique hotels owner Ennismore, bought the hotel for a fee thought to be around \u00a3200million. The Guinness group has owned the Perthshire hotel since 1984 and was the scene of Europe\u2019s triumph over the US in golf\u2019s Ryder Cup last year. It also played host to the G8 summit in 2005. In the year to June 2014 it posted an operating profit of \u00a32.6million on revenue of \u00a343.5million. Diageo chief executive Ivan Menezes said: \u201cThe hotel is not a core business for us and feel this is an appropriate time to realise value through this transaction.\u201d Related articles\n\n    The day before the article was published, the stock price of Diageo plc was 97.96214294433594 and the day after the article was published, the stock price of Diageo plc was ",
+ "expected": "99.61678314208984",
+ "date": "2015-07-01",
+ "ticker": "DEO",
+ "company": "Diageo plc"
+}

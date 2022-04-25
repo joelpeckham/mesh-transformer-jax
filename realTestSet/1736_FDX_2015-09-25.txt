@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Has Yellen Paved the Way for A Rate Hike?' was published on 2015-09-25. The body of the article is as follows:\n    \nHas Yellen Paved the Way for A Rate Hike? 4:59 AM EDT Share on LinkedIn Share on Reddit Share on Google+ E-mail Bloomberg\u2019s Mark Barton charts how the market has reacted following a speech delivered by Fed chair Janet Yellen in Massachusetts yesterday, where she said the U.S. central bank is on track to raise interest rates this year. Mark takes a look at the MSCI All Country World Index, Malaysia's ringgit and the IBEX 35 Index. Most Recent Videos\n\n    The day before the article was published, the stock price of FedEx Corporation was 132.62750244140625 and the day after the article was published, the stock price of FedEx Corporation was ",
+ "expected": "131.04458618164062",
+ "date": "2015-09-25",
+ "ticker": "FDX",
+ "company": "FedEx Corporation"
+}

@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'TVS Motor Harita sells total 58.65 lakh shares of TVS for Rs 136 crore' was published on 2015-09-16. The body of the article is as follows:\n    \n#BSE TVS Motor Harita sells total 58.65 lakh shares of TVS for Rs 136 crore As per the company's June quarter share holding pattern, TVS Motor Harita Employees Welfare Foundation holds 94,33,000 shares or 1.99 per cent stake in TVS Motor. PTI | 17 September 2015, 12:16 AM IST Share MUMBAI: TVS Motor Harita Employees Welfare Foundation has sold over 34.9 lakh shares of TVS Motor for about Rs 81 crore through open market transaction.According to the bulk deal data available on BSE , TVS Motor Harita Employees Welfare Foundation has sold 34,92,336 shares of TVS Motor.The shares were sold on an average price of Rs 231.48, valuing the transaction at Rs 80.84 crore.Meanwhile, in another transaction at the NSE, TVS Motor Harita Employees Welfare Foundation sold more than 23.75 lakh shares of TVS Motor Company for about Rs 55 crore.The transaction was carried out at a price of Rs 231.As per the company's June quarter share holding pattern, TVS Motor Harita Employees Welfare Foundation holds 94,33,000 shares or 1.99 per cent stake in TVS Motor.\n\n    The day before the article was published, the stock price of Inseego Corp. was 2.359999895095825 and the day after the article was published, the stock price of Inseego Corp. was ",
+ "expected": "2.440000057220459",
+ "date": "2015-09-16",
+ "ticker": "INSG",
+ "company": "Inseego Corp."
+}

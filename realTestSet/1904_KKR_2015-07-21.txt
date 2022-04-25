@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'KKR swoops on Gestamp Solar, valuing its target at $1bn' was published on 2015-07-21. The body of the article is as follows:\n    \nEnd date KKR swoops on Gestamp Solar, valuing its target at $1bn \nPrivate equity giant KKR has ramped up its exposure to renewables, with the acquisition of a majority stake in solar developer Gestamp Solar in a deal that values the company at $1 billion. To access this article please sign-in below or register for a free one-month trial. Login\n\n    The day before the article was published, the stock price of KKR & Co. L.P. was 19.621522903442383 and the day after the article was published, the stock price of KKR & Co. L.P. was ",
+ "expected": "19.894044876098633",
+ "date": "2015-07-21",
+ "ticker": "KKR",
+ "company": "KKR & Co. L.P."
+}

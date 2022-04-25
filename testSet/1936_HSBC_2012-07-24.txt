@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Houlihan Lokey Names Magnus Scaddan for European Consumer' was published on 2012-07-24. The body of the article is as follows:\n    \nHoulihan Lokey , a closely held\ninvestment bank, hired Magnus Scaddan as head of consumer and\nretail coverage for Europe, the  Middle East  and Africa.  Scaddan, who will be based in London, joined from  Nomura\nHoldings Inc. (8604) , where he was a managing director and co-head of\nconsumer and retail investment banking for the region, Houlihan\nLokey said in a statement today.  Scaddan previously worked at Lehman Brothers before the\nfirm\u2019s European and Asian operations were acquired by Nomura,\nbased in Tokyo. Before that, he worked at  HSBC Holdings Plc (HSBA)  as a\nmanaging director and head of consumer investment banking for\nEurope, the Middle East and Africa.  Houlihan Lokey, based in Los Angeles, said in June that it\nhad hired Kristian Terling from  Credit Suisse Group AG (CSGN)  to head\nits Nordic coverage.  To contact the reporter on this story:\nJacqueline Simmons in Paris at \n jackiem@bloomberg.net   To contact the editor responsible for this story:\nJacqueline Simmons at \n jackiem@bloomberg.net\n\n    The day before the article was published, the stock price of HSBC Holdings, plc. was 24.85312843322754 and the day after the article was published, the stock price of HSBC Holdings, plc. was ",
- "expected": "24.729814529418945",
- "date": "2012-07-24",
- "ticker": "HSBC",
- "company": "HSBC Holdings, plc.",
- "url": "http://www.bloomberg.com/news/2012-07-24/houlihan-lokey-names-magnus-scaddan-for-european-consumer.html"
-}

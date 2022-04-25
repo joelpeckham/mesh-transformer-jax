@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Lawyer Emails Put Visa, MasterCard Settlement at Risk' was published on 2015-07-28. The body of the article is as follows:\n    \nLawyer Emails Put Visa, MasterCard Settlement at Risk Merchants expected to challenge $6 billion class-action antitrust pact By Robin.Sidel@wsj.com July 27, 2015 3:16 p.m. ET \nThe discovery of a trove of emails between two opposing lawyers who are also close friends is threatening to scuttle a $6 billion class-action antitrust settlement between Visa Inc., MasterCard Inc. and millions of merchants. \nLawyers representing roughly 100 big merchants, including Wal-Mart Stores Inc., Home Depot Inc., and 7-Eleven Inc., are expected on Tuesday to formally notify the card networks that they will seek to unravel the... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of Mastercard Incorporated was 90.83452606201172 and the day after the article was published, the stock price of Mastercard Incorporated was ",
+ "expected": "93.0864028930664",
+ "date": "2015-07-28",
+ "ticker": "MA",
+ "company": "Mastercard Incorporated"
+}

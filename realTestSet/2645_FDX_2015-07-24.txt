@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'The Fed's economic forecasts leaked early' was published on 2015-07-24. The body of the article is as follows:\n    \nSHARES Yuri Gripas | Reuters Federal Reserve Board Chairwoman Janet Yellen testifies before a House Financial Services committee hearing July 15, 2015. \nFederal Reserve economic projections were \"inadvertently\" posted to the central bank's website last month, the Fed said on Friday. \nPart of that update included staff economic forecasts that are confidential FOMC information, but nonetheless was being kept online \"because the information has already been released,\" the Fed said in a press release . \nStaff at the Federal Reserve board see a single quarter-point U.S. rate hike by year's end, inflation stuck in low gear for five more years, and an economy growing more slowly than expected by U.S. policymakers. \nConsistent with security procedures, the Fed said that the mistaken early release had been referred to the Board's Inspector General. \n\u2014Reuters contributed to this report.\n\n    The day before the article was published, the stock price of FedEx Corporation was 155.1038360595703 and the day after the article was published, the stock price of FedEx Corporation was ",
+ "expected": "153.13319396972656",
+ "date": "2015-07-24",
+ "ticker": "FDX",
+ "company": "FedEx Corporation"
+}

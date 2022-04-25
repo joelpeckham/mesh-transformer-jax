@@ -1,0 +1,7 @@
+{
+ "context": "The following article called '/C O R R E C T I O N -- MasTec, Inc./' was published on 2015-09-04. The body of the article is as follows:\n    \nClose \nIn the news release, MasTec Senior Management to Present at Citigroup Industrials Investor Conference in Boston, issued 04-Sep-2015 by MasTec, Inc. over PR Newswire, we are advised by the company that the first paragraph, first sentence, should read \"9:30 a.m. Eastern time\" rather than \"11:00 a.m. Eastern time\" as the conference schedule has been changed by the sponsor. The complete, corrected release follows: MasTec Senior Management to Present at Citigroup Industrials Investor Conference in Boston \n  4,   (NYSE: MTZ)   Boston presenting at the Citigroup Industrials   17th, at approximately 9:30 a.m.   \n citigroup-industrials-investor-conference-in-boston-300135655.html \nSOURCE MasTec, Inc. \nJ. Marc Lewis, Vice President-Investor Relations, 305-406-1815, 305-406-1886 fax, marc.lewis@mastec.com\n\n    The day before the article was published, the stock price of Mastech Holdings, Inc was 3.765000104904175 and the day after the article was published, the stock price of Mastech Holdings, Inc was ",
+ "expected": "3.684999942779541",
+ "date": "2015-09-04",
+ "ticker": "MHH",
+ "company": "Mastech Holdings, Inc"
+}

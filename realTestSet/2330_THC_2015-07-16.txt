@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Tenet to be majority owner of Carondelet Health Network' was published on 2015-07-16. The body of the article is as follows:\n    \nRSS Arizona Daily Star , July 16, 2015 One of the country's largest health systems, Dallas-based Tenet Healthcare Corporation, is officially moving into the Tucson market. The for-profit company has signed a \"definitive agreement\" to create a partnership where it will be majority owner and operator of the Tucson-based Catholic Carondelet Health Network, officials announced Wednesday. Missouri-based Ascension is the current owner of the non-profit network, which includes three Southern Arizona hospitals ? Carondelet Holy Cross in Nogales, Arizona, and Carondelet St. Joseph's and Carondelet St. Mary's hospitals, both in Tucson. The health network in recent years had been struggling financially.\n\n    The day before the article was published, the stock price of Tenet Healthcare Corporation was 59.720001220703125 and the day after the article was published, the stock price of Tenet Healthcare Corporation was ",
+ "expected": "58.72999954223633",
+ "date": "2015-07-16",
+ "ticker": "THC",
+ "company": "Tenet Healthcare Corporation"
+}

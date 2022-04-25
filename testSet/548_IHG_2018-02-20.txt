@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'IHG puts special payouts on ice as it announces strategic review' was published on 2018-02-20. The body of the article is as follows:\n    \nFeb 20 (Reuters) - InterContinental Hotels Group (IHG) said it would not pay out any additional capital to investors in 2018 as it announced a better-than-expected profit for 2017 and a new strategy to speed growth.\nThe operator of Crowne Plaza, Holiday Inn and InterContinental hotels plans to launch an upscale brand in 2018 and to target a return of about $125 million in annual savings by 2020, it said.\nThe group reported a 7 percent rise in 2017 operating profit to $759 million, above the $752.1 million analysts\u2019 forecast provided by IHG and the $707 million it earned a year earlier. (Reporting by Esha Vaish in Bengaluru; editing by Jason Neely)\n \n\n    The day before the article was published, the stock price of Intercontinental Hotels Group was 64.11689758300781 and the day after the article was published, the stock price of Intercontinental Hotels Group was ",
- "expected": "63.134220123291016",
- "date": "2018-02-20",
- "ticker": "IHG",
- "company": "Intercontinental Hotels Group",
- "url": "https://www.reuters.com/article/intercontinental-results/ihg-puts-special-payouts-on-ice-as-it-announces-strategic-review-idUSL4N1Q244S"
-}

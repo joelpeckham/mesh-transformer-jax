@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Springleaf Shares Fall on Potential Delay in OneMain Deal' was published on 2015-08-06. The body of the article is as follows:\n    \nSpringleaf Shares Fall on Potential Delay in OneMain Deal Springleaf agreed in March to buy OneMain from Citigroup By christina.rexrode@wsj.com Updated Aug. 6, 2015 2:23 p.m. ET \nA $4.25 billion deal between a giant bank and an upstart consumer lender may have to wait a bit longer. \nShares of Springleaf Holdings Inc. fell about 7% Thursday afternoon, after the subprime lender said a U.S. Department of Justice antitrust investigation could delay its planned purchase of rival OneMain Financial from Citigroup Inc. \n... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of Citigroup, Inc. was 50.854793548583984 and the day after the article was published, the stock price of Citigroup, Inc. was ",
+ "expected": "50.13620376586914",
+ "date": "2015-08-06",
+ "ticker": "C",
+ "company": "Citigroup, Inc."
+}

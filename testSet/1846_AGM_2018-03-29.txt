@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'BRIEF-BP Says CEO Bob Dudley's 2017 Total Remuneration Was $13.4\u200d\u200b Mln' was published on 2018-03-29. The body of the article is as follows:\n    \nMarch 29 (Reuters) - Bp Plc:\n* CEO BOB DUDLEY\u2019S 2017 TOTAL REMUNERATION WAS $13.4\u200d\u200b MILLION VERSUS $11.9 MILLION IN 2016\n* CFO BRIAN GILVARY 2017 TOTAL REMUNERATION AT 6.5 MILLION POUNDS VERSUS 4.2 MILLION POUNDS IN 2016\n* SALARY FOR THE GROUP CHIEF EXECUTIVE WILL REMAIN AT $1.9 MILLION FOR 2018\u200d\u200b\n* WITH EFFECT FROM THE AGM, THE SALARY FOR THE CHIEF FINANCIAL OFFICER WILL BE \u00a3775,000 Source text ( on.bp.com/2IbLAHy ) Further company coverage:\n \n\n    The day before the article was published, the stock price of Federal Agricultural Mortgage Corporation was 75.39408111572266 and the day after the article was published, the stock price of Federal Agricultural Mortgage Corporation was ",
- "expected": "73.05996704101562",
- "date": "2018-03-29",
- "ticker": "AGM",
- "company": "Federal Agricultural Mortgage Corporation",
- "url": "https://www.reuters.com/article/brief-bp-says-ceo-bob-dudleys-2017-total/brief-bp-says-ceo-bob-dudleys-2017-total-remuneration-was-13-4-mln-idUSFWN1RB07S"
-}

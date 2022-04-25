@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Head of Brokerage Unit Leaving Morgan Stanley' was published on 2009-05-21. The body of the article is as follows:\n    \nMorgan Stanley has dismissed its head of prime brokerage, Stu Hendel, who ran the bank\u2019s hedge fund service business since the fall of 2006, people who were briefed on the decision said on Thursday.\n\n    The day before the article was published, the stock price of Morgan Stanley was 22.61503791809082 and the day after the article was published, the stock price of Morgan Stanley was ",
- "expected": "22.80080795288086",
- "date": "2009-05-21",
- "ticker": "MS",
- "company": "Morgan Stanley",
- "url": "https://www.nytimes.com/2009/05/22/business/22morgan.html"
-}

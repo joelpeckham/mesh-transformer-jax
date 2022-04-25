@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Best big-ticket items to buy in the fall' was published on 2015-09-30. The body of the article is as follows:\n    \nBest big-ticket items to buy in the fall SHARES \u00bb more from Personal Finance Find the deals before the year ends \nLooking to replace the grill you worked into the ground this summer? If you're smart you'll start shopping now, rather than wait until the warm weather rolls around next year. \nRead More Find your best retirement spot \nSame goes for lawn mowers and patio furniture. That's because these and other pricy items go on sale between September and the end of November, when demand is low and stores need to make room for new, 2016 inventory. The benefit to you? Saving hundreds of dollars. \n\u2014 By Lucy Maher, special to CNBC.com Updated 30 Sept. 2015\n\n    The day before the article was published, the stock price of ArcBest Corporation was 23.693683624267578 and the day after the article was published, the stock price of ArcBest Corporation was ",
+ "expected": "23.674978256225586",
+ "date": "2015-09-30",
+ "ticker": "ARCB",
+ "company": "ArcBest Corporation"
+}

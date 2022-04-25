@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Bloomberg: Wells Fargo Said to Be Front-Runner to Buy GE Railcar Unit' was published on 2015-08-28. The body of the article is as follows:\n    \n  Bloomberg: Wells Fargo Said to Be Front-Runner to Buy GE Railcar Unit August 28, 2015, 07:08 AM Related: Ge Capital , General Electric Capital , General Electric Company , Railcar , Wells Fargo \nBloomberg reported Wells Fargo has emerged as the front-runner to buy GE's railcar-financing unit, people with knowledge of the matter said.According to the Bloomberg report, an agreement to buy the business, with more than $4 billion in assets, could be announced by Labor Day, said the people, who asked not to be identified because the matter is private. A spokesman for GE, based in Fairfield, Connecticut, declined to comment, as did a representative for San Francisco-based Wells Fargo.To read the full Bloomberg news story, click here . Most Popular\n\n    The day before the article was published, the stock price of Wells Fargo Advantage Income Opportunities Fund was 4.441466331481934 and the day after the article was published, the stock price of Wells Fargo Advantage Income Opportunities Fund was ",
+ "expected": "4.362254619598389",
+ "date": "2015-08-28",
+ "ticker": "EAD",
+ "company": "Wells Fargo Advantage Income Opportunities Fund"
+}

@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'The CEOs of Sprint and T-Mobile had a fight on Twitter' was published on 2015-08-19. The body of the article is as follows:\n    \nIt's not clear what that tweet \u2014 a spin on the ever-popular \"Straight Outta Compton\" meme \u2014 was referencing, but Claure has been tweeting a lot lately about Sprint's outlook with the hashtag #gettingbettereveryday. Legere responded early Tuesday with this: \n. @marceloclaure straight outta ideas. \u2014 John Legere (@JohnLegere) August 18, 2015 \nThe rival CEOs have a history of jabbing each other in an effort to tout the offerings of their own companies, while slamming each other's. \n@JohnLegere I am so tired of your Uncarrier bullshit when you are worse than the other two carriers together. Your cheap misleading lease \u2014 MarceloClaure (@marceloclaure) July 2, 2015 The wireless industry has been in flux of late, with Verizon killing off service contracts . Sprint this week announced a new \"iPhone Forever\" plan , which would allow customers to upgrade to the latest iPhone when it's released. As recently as June this year, T-Mobile had been in talks to merge with Dish Network. Bloomberg reported last month that those discussions have since cooled off.\n\n    The day before the article was published, the stock price of Socket Mobile, Inc. was 2.299999952316284 and the day after the article was published, the stock price of Socket Mobile, Inc. was ",
+ "expected": "2.3299999237060547",
+ "date": "2015-08-19",
+ "ticker": "SCKT",
+ "company": "Socket Mobile, Inc."
+}

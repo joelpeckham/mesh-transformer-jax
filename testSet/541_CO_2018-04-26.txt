@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Canada Strategic, Matamec Agree To Business Combination' was published on 2018-04-26. The body of the article is as follows:\n    \nApril 26 (Reuters) - Sphinx Resources Ltd:\n* SPHINX RESOURCES LTD - CO, CANADA STRATEGIC METALS & MATAMEC EXPLORATIONS ANNOUNCE THAT CANADA STRATEGIC & MATAMEC AGREED TO A BUSINESS COMBINATION\n* SPHINX RESOURCES LTD - BUSINESS COMBINATION IS TO CREATE NEW JAMES BAY-FOCUSED GOLD EXPLORATION COMPANY TO BE NAMED QUEBEC PRECIOUS METALS CORP\n* SPHINX RESOURCES - IN CONNECTION WITH DEAL, GOLDCORP WILL ACQUIRE 14% INTEREST IN QPM UNDER SUBSCRIPTION AGREEMENT BETWEEN CANADA STRATEGIC & GOLDCORP\n* SPHINX RESOURCES - ON OR ABOUT JUNE 18, GOLDCORP WILL SUBSCRIBE FOR 6.1 MILLION SUBSCRIPTION RECEIPTS OF CANADA STRATEGIC AT $0.61/SUBSCRIPTION RECEIPT\n* SPHINX RESOURCES LTD - NORMAND CHAMPIGNY WILL BE APPOINTED CHIEF EXECUTIVE OFFICER OF QPM\n* SPHINX RESOURCES - IN CONNECTION WITH DEAL, MATAMEC SHAREHOLDERS WILL RECEIVE 0.267697315 OF A SHARE OF CANADA STRATEGIC IN EXCHANGE FOR EACH MATAMEC SHARE Source text for Eikon:\n \n\n    The day before the article was published, the stock price of China Cord Blood Corporation was 9.128938674926758 and the day after the article was published, the stock price of China Cord Blood Corporation was ",
- "expected": "9.406172752380371",
- "date": "2018-04-26",
- "ticker": "CO",
- "company": "China Cord Blood Corporation",
- "url": "https://www.reuters.com/article/brief-canada-strategic-matamec-agree-to/brief-canada-strategic-matamec-agree-to-business-combination-idUSFWN1S3137"
-}

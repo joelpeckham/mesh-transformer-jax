@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Judge won't block budget cuts to secretary of state's office' was published on 2015-09-05. The body of the article is as follows:\n    \nJudge declines to block GOP budget cuts to democratic Secretary of State La Follette's office \nTHE ASSOCIATED PRESS Published: 9/5/15 1:11 pm EDT - Updated: 9/5/15 1:14 pm EDT \nMADISON, Wisconsin \u2014 A Dane County judge has declined to issue a temporary injunction halting state budget cuts affecting the office of Democratic Secretary of State Doug La Follette. \nCircuit Judge Rhonda Lanford ruled Friday that La Follette hasn't shown his lawsuit against GOP Gov. Scott Walker's administration is likely to succeed. \nLa Follette says the cuts are an unconstitutional infringement on his office and are so severe that he can't do his job without causing delays in services. He says he'll have to talk to his lawyer about their next step. \nThe Wisconsin State Joural reports ( http://bit.ly/1KxhT3d ) the judge held out a glimmer of hope for La Follette. She's not definitively stating that there's no infringement on his constitutional duties, just that the evidence presented so far doesn't support such a finding. \nInformation from: Wisconsin State Journal, http://www.madison.com/wsj \n   \n\n    The day before the article was published, the stock price of GoPro, Inc. was 36.83000183105469 and the day after the article was published, the stock price of GoPro, Inc. was ",
+ "expected": "33.650001525878906",
+ "date": "2015-09-05",
+ "ticker": "GPRO",
+ "company": "GoPro, Inc."
+}

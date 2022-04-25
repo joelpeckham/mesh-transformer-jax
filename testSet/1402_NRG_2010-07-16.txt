@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Mirant, RRI Get Information Request From Justice Department on Merger Plan' was published on 2010-07-16. The body of the article is as follows:\n    \nMirant Corp.  and RRI Energy Inc.,\nthe U.S. power producers that agreed in April to merge, said the\nJustice Department asked for additional information regarding\ntheir proposed transaction.  \n The companies are preparing to respond to the action, which\nis known as a second request, Atlanta-based Mirant and Houston-\nbased  RRI  said today in a statement. The deal is scheduled to\nclose before the end of this year, according to the companies.  \n Mirant and RRI said in April that they would combine in an\nall-stock transaction valued at the time at about $1.6 billion.\nThe new entity, GenOn Energy, will have about 24,700 megawatts\nof generating capacity with plants across the country.  \n RRI , formerly known as Reliant Energy, previously sold its\nTexas power-retailing business to  NRG Energy Inc.   \n Mirant  fell 36 cents, or 3.3 percent, to $10.72 as of the 4\np.m. close of New York Stock Exchange composite trading.  RRI \ndropped 12 cents, or 3 percent, to $3.87.  \n To contact the reporter on this story:\n Edward Klump  in Houston at \n eklump@bloomberg.net .\n\n    The day before the article was published, the stock price of NRG Energy, Inc. was 19.190078735351562 and the day after the article was published, the stock price of NRG Energy, Inc. was ",
- "expected": "18.846046447753906",
- "date": "2010-07-16",
- "ticker": "NRG",
- "company": "NRG Energy, Inc.",
- "url": "http://www.bloomberg.com/news/2010-07-16/mirant-rri-get-information-request-from-justice-department-on-merger-plan.html"
-}

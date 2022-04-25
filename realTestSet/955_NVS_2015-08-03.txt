@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Novartis completes divestiture of influenza vaccines business to CSL Limited for USD 275 million' was published on 2015-08-03. The body of the article is as follows:\n    \nNovartis completes divestiture of influenza vaccines business to CSL Limited for USD 275 million \ndistributed by noodls on 02/08/2015 22:35\n\n    The day before the article was published, the stock price of Novartis AG was 74.84776306152344 and the day after the article was published, the stock price of Novartis AG was ",
+ "expected": "74.71791076660156",
+ "date": "2015-08-03",
+ "ticker": "NVS",
+ "company": "Novartis AG"
+}

@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Facebook paid $6,632 in UK taxes last year : Sunday Times' was published on 2015-10-11. The body of the article is as follows:\n    \nRobert Galbraith | Reuters Employees walk past the company logo at Facebook offices in Menlo Park, California. \nFacebook paid just \u00a34,327 ($6,632) in taxes in the U.K. last year despite offering staff in London an average of \u00a3210,000 in pay and bonuses, the Sunday Times reported. \nThe social network giant offered shares worth \u00a335.4 million to its 362 London staff, pushing its British division into an accounting loss of \u00a328.5 million last year, according to accounts for Facebook UK Limited. \nIts widening losses allowed Facebook to minimise its corporation tax bill in Britain, the newspaper reported. \nFacebook's tax payment is substantially less than that the U.K.'s revenue authority collects from the typical British worker. A single person earning \u00a326,500 \u2014 the average UK wage \u2014 generates \u00a33,180 in income tax and \u00a32,213 in national insurance. \nThe Sunday Times report can be seen here .\n\n    The day before the article was published, the stock price of Facebook, Inc. was 93.23999786376953 and the day after the article was published, the stock price of Facebook, Inc. was ",
+ "expected": "94.12000274658203",
+ "date": "2015-10-11",
+ "ticker": "FB",
+ "company": "Facebook, Inc."
+}

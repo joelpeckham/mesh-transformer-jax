@@ -1,0 +1,7 @@
+{
+ "context": "The following article called '25 Awesome Halloween Costume Ideas From Comic Con 2015' was published on 2015-10-13. The body of the article is as follows:\n    \n25 Awesome Halloween Costume Ideas From Comic Con 2015 Written by: Adam Leverone 10/13/15 - 9:34 AM EDT More Headlines The 51 Best Colleges Across the U.S. for High-Paying Jobs NEW YORK (MainStreet) -- New York Comic Con 2015 has come and gone and with Halloween right around the corner, many are in need of costume ideas. From super heroes, monsters, fantasy heroines and classic figures from literature, there was something for everyone at the annual pop culture convention. Need some inspiration for your Halloween? Here are 25 last-minute costume ideas from New York Comic Con 2015. From the Tim Burton directed film Alice in Wonderland, The White Queen , two Mad Hatters and The Queen of Hearts. 1\n\n    The day before the article was published, the stock price of MainStreet Bancshares, Inc. was 11.047618865966797 and the day after the article was published, the stock price of MainStreet Bancshares, Inc. was ",
+ "expected": "10.285714149475098",
+ "date": "2015-10-13",
+ "ticker": "MNSB",
+ "company": "MainStreet Bancshares, Inc."
+}

@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'U.S. Department of Justice initiates criminal probe against Deutsche Bank - Bloomberg' was published on 2015-08-04. The body of the article is as follows:\n    \nPrint \n(Reuters) - The United States Department of Justice is investigating trades worth billions of dollars that Germany's Deutsche Bank AG (DBKGn.DE) made on behalf of its Russian clients, Bloomberg reported, citing people familiar with the matter. \nThe probe investigates so-called mirror trades, where the bank's Russian clients bought stocks in rubles, and through simultaneous transactions in London, bought the same stocks in U.S. dollars, thereby moving funds out of Russia without informing authorities, Bloomberg reported. \nLast month, The New York State Department of Financial Services (DFS) sought detailed information from Deutsche Bank on possible money-laundering transactions by some of its clients in Russia that could exceed $6 billion in total, a source familiar with the matter told Reuters. \nDeutsche Bank declined to comment on this development and referred to its earlier statement published on the issue along with its annual report on July 30. \n(Reporting by Ankush Sharma in Bengaluru; Editing by Steve Orlofsky)\n\n    The day before the article was published, the stock price of Deutsche Bank AG was 33.54234313964844 and the day after the article was published, the stock price of Deutsche Bank AG was ",
+ "expected": "32.753787994384766",
+ "date": "2015-08-04",
+ "ticker": "DB",
+ "company": "Deutsche Bank AG"
+}

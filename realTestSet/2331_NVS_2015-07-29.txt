@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'GSK Boosted by New Vaccines' was published on 2015-07-29. The body of the article is as follows:\n    \nGlaxoSmithKline Boosted by New Vaccines First full quarter for drug maker after $20 billion asset swap with Novartis By denise.roland@wsj.com Updated July 29, 2015 10:02 a.m. ET \nLONDON\u2014GlaxoSmithKline PLC on Wednesday reported a 6% rise in second-quarter revenue to \u00a35.89 billion ($9.19 billion), boosted by new vaccines and consumer health-care products from its $20 billion asset swap with Novartis and a strong performance from its HIV business ViiV Healthcare. \nCore operating profit, Glaxo\u2019s preferred measure of... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of Novartis AG was 74.15519714355469 and the day after the article was published, the stock price of Novartis AG was ",
+ "expected": "74.43655395507812",
+ "date": "2015-07-29",
+ "ticker": "NVS",
+ "company": "Novartis AG"
+}

@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'UK's CMC Markets says H2 net operating income ahead of first half' was published on 2018-03-29. The body of the article is as follows:\n    \nMarch 29 (Reuters) - Spreadbetting group CMC Markets Plc said net operating income for the second half of the year will be \u2018moderately\u2019 above the first half and \u2018significantly\u2019 above the prior year, largely due to a change in focus to high-value clients.\nCMC, which has been hit by a sector-wide regulatory clampdown, said a rise in the proportion of high-value clients had led to improved revenue per client in the final quarter of the year.\nActive client numbers at CMC \u2014 founded by Chief Executive Peter Cruddas as a foreign exchange broker with a 10,000-pound investment in 1989 \u2014 rose year-on-year in the final quarter.\nHowever, full-year client numbers were still behind last year, CMC said on Thursday. (Reporting by Noor Zainab Hussain and Rahul B in Bengaluru; Editing by Sunil Nair)\n \n\n    The day before the article was published, the stock price of Commercial Metals Company was 18.24966049194336 and the day after the article was published, the stock price of Commercial Metals Company was ",
- "expected": "18.25882911682129",
- "date": "2018-03-29",
- "ticker": "CMC",
- "company": "Commercial Metals Company",
- "url": "https://www.reuters.com/article/cmc-markets-outlook/uks-cmc-markets-says-h2-net-operating-income-ahead-of-first-half-idUSL3N1RB318"
-}

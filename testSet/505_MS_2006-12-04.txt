@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Morgan Stanley Picks Up Another Hedge Fund' was published on 2006-12-04. The body of the article is as follows:\n    \nContinuing its push into alternative investments, investment bank Morgan Stanley has acquired Brookville Capital Management, a hedge fund that manages about $220 million in debt, according to reports on Monday. The transaction, disclosed in an internal Morgan Stanley memo, is the firm\u2019s fourth involving a hedge fund since October. It previously bought stakes in Avenue Capital and Lansdowne Partners and acquired FrontPoint Partners outright. Financial terms of the Brookville deal were not disclosed. \n\n    The day before the article was published, the stock price of Morgan Stanley was 47.399871826171875 and the day after the article was published, the stock price of Morgan Stanley was ",
- "expected": "49.10643768310547",
- "date": "2006-12-04",
- "ticker": "MS",
- "company": "Morgan Stanley",
- "url": "https://dealbook.nytimes.com/2006/12/04/morgan-stanley-picks-up-another-hedge-fund/"
-}

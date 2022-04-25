@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'GE Reports Disposal Agreements Hit $126B, Beats Q3 EPS Estimates' was published on 2015-10-16. The body of the article is as follows:\n    \n  GE Reports Disposal Agreements Hit $126B, Beats Q3 EPS Estimates October 16, 2015, 08:00 AM Related: Ge Capital , Ge Capital , General Electric Capital , General Electric Company \nBloomberg reported General Electric beat analysts\u2019 third-quarter earnings estimates, buoyed by gains in the aviation and transportation units. However, sales fell short of projections. According to the Bloomberg report, GE\u2019s oil and gas revenue posted the biggest drop among the company\u2019s businesses because of dwindling equipment demand amid the rout in global crude markets. Bloomberg also reported that a series of deals during the third quarter brought the agreed-upon disposals this year to $126 billion.\n\n    The day before the article was published, the stock price of General Electric Company was 192.85231018066406 and the day after the article was published, the stock price of General Electric Company was ",
+ "expected": "199.4573974609375",
+ "date": "2015-10-16",
+ "ticker": "GE",
+ "company": "General Electric Company"
+}

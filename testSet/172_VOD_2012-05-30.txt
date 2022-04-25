@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Vodafone Turkey Unit Reports First Annual Profit in Four Years' was published on 2012-05-30. The body of the article is as follows:\n    \nVodafone Group Plc (VOD) \u2019s Turkish unit\nrecorded its first annual operating profit in four years, Serpil Timuray, chief executive of Turkish operations, said.  Vodafone Turkey had an operating profit of 3.5 million\nliras ($1.9 million) in the fiscal year that ended March 31,\ncompared with a loss of 174 million liras in the previous year,\nTimuray said at a news conference in Istanbul today.  Europe\u2019s biggest telephone company, which bought the\nTurkish unit for $4.55 billion in 2005, didn\u2019t break down the\nprofit figure for Turkey operations when it announced full\nfiscal year results May 22.  Vodafone Turkey competes with  Turkcell Iletisim Hizmetleri\nAS (TCELL) , the country\u2019s biggest mobile-phone operator, and Avea\nIletisim Hizmetleri AS, a unit of  Turk Telekomunikasyon AS. (TTKOM)   To contact the reporter on this story:\nErcan Ersoy in Istanbul at \n eersoy@bloomberg.net   To contact the editor responsible for this story:\nBenedikt Kammel at \n bkammel@bloomberg.net\n\n    The day before the article was published, the stock price of Vodafone Group Plc was 15.604856491088867 and the day after the article was published, the stock price of Vodafone Group Plc was ",
- "expected": "15.409295082092285",
- "date": "2012-05-30",
- "ticker": "VOD",
- "company": "Vodafone Group Plc",
- "url": "http://www.bloomberg.com/news/2012-05-30/vodafone-turkey-unit-reports-first-annual-profit-in-four-years.html"
-}

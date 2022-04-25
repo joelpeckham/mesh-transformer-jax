@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Health insurance companies seek big rate increases for 2016' was published on 2015-07-06. The body of the article is as follows:\n    \nRSS The New York Times , July 6, 2015 \nHealth insurance companies around the country are seeking rate increases of 20 percent to 40 percent or more, saying their new customers under the Affordable Care Act turned out to be sicker than expected. Federal officials say they are determined to see that the requests are scaled back. Blue Cross and Blue Shield plans \u2014 market leaders in many states \u2014 are seeking rate increases that average 23 percent in Illinois, 25 percent in North Carolina, 31 percent in Oklahoma, 36 percent in Tennessee and 54 percent in Minnesota, according to documents posted online by the federal government and state insurance commissioners and interviews with insurance executives.\n\n    The day before the article was published, the stock price of New York Times Company (The) was 12.933496475219727 and the day after the article was published, the stock price of New York Times Company (The) was ",
+ "expected": "12.403280258178711",
+ "date": "2015-07-06",
+ "ticker": "NYT",
+ "company": "New York Times Company (The)"
+}

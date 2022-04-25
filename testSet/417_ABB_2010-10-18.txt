@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Schneider Seeks Faster Growth in Germany, Financial Times Deutschland Says' was published on 2010-10-18. The body of the article is as follows:\n    \nSchneider Electric SA , the world\u2019s\nbiggest maker of circuit breakers, is targeting accelerated\nsales growth in Germany next year with energy-saving technology,\nthe  Financial Times Deutschland  reported, citing an interview\nwith Rada Rodriguez, who heads the company\u2019s German business.  Sales in Germany are on course to rise more than 10\npercent, to about 1 billion euros ($1.4 billion), this year and\nto increase still faster next year, according to the newspaper.\nSchneider aims to capture customers from Siemens AG and ABB\nLtd., Rodriguez told the newspaper.  To contact the reporter on this story:\n Holger Elfes  in Dusseldorf at \n helfes@bloomberg.net .  To contact the editor responsible for this story:\nCeleste Perri at \n cperri@bloomberg.net .\n\n    The day before the article was published, the stock price of ABB Ltd was 15.183334350585938 and the day after the article was published, the stock price of ABB Ltd was ",
- "expected": "15.020001411437988",
- "date": "2010-10-18",
- "ticker": "ABB",
- "company": "ABB Ltd",
- "url": "http://www.bloomberg.com/news/2010-10-18/schneider-seeks-faster-growth-in-germany-financial-times-deutschland-says.html"
-}

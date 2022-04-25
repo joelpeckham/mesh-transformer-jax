@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'RBI asks public to refrain from writing on banknotes' was published on 2015-07-16. The body of the article is as follows:\n    \nRBI asks public to refrain from writing on banknotes By PTI | 16 Jul, 2015, 04.10PM IST Post a Comment READ MORE ON \u00bb RBI RBI said it was brought to its notice that members of public and institutions write number, name or messages on the watermark window of banknotes.   MUMBAI: Reserve Bank today asked the public not to write on the watermark window of banknotes as it bears an important security feature which differentiates it from a fake note. RBI said it was brought to its notice that members of public and institutions write number, name or messages on the watermark window of banknotes and thus deface the currency. \"The watermark window has an important security feature which distinguishes it from a counterfeit note. Any defacement on the window will not allow the common man to identify one of the features of a genuine note,\" RBI said in a notification. \"The public is, therefore, requested to refrain from doing anything that leads to defacement,\" it added.   READ MORE ON \u00bb RBI\n\n    The day before the article was published, the stock price of Digital Turbine, Inc. was 2.740000009536743 and the day after the article was published, the stock price of Digital Turbine, Inc. was ",
+ "expected": "2.690000057220459",
+ "date": "2015-07-16",
+ "ticker": "APPS",
+ "company": "Digital Turbine, Inc."
+}

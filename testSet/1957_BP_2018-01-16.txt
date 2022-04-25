@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'BP to take $1.7 bln Deepwater Horizon charge' was published on 2018-01-16. The body of the article is as follows:\n    \nLONDON, Jan 16 (Reuters) - BP said on Tuesday it expected to take a post-tax non-operating charge of around $1.7 billion in its fourth quarter results as part of the settlement of the deadly 2010 Deepwater Horizon spill in the United States.\nBP said the Court Supervised Settlement Program set up in the wake of the disaster was now winding down.\n\u201cWith the claims facility\u2019s work very nearly done, we now have better visibility into the remaining liability,\u201d said Brian Gilvary, BP\u2019s chief financial officer.\n\u201cThe charge we are taking as a result is fully manageable within our existing financial framework, especially now that we have the company back into balance at $50 per barrel.\u201d\nReporting by Kate Holton; editing by Jason Neely\n \n\n    The day before the article was published, the stock price of BP p.l.c. was 34.41617965698242 and the day after the article was published, the stock price of BP p.l.c. was ",
- "expected": "33.6088752746582",
- "date": "2018-01-16",
- "ticker": "BP",
- "company": "BP p.l.c.",
- "url": "https://www.reuters.com/article/bp-deepwaterhorizon/bp-to-take-1-7-bln-deepwater-horizon-charge-idUSFWN1PB01M"
-}

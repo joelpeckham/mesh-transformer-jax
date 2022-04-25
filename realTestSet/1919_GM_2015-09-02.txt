@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'GM Declares Dividend on Common Stock' was published on 2015-09-02. The body of the article is as follows:\n    \nGM Declares Dividend on Common Stock Wed, Sep 2 2015 \nDETROIT - General Motors Co. (NYSE: GM) Board of Directors today declared a third quarter 2015 dividend of 36 cents per share on its common stock. The third quarter dividend is payable Tuesday, Sept. 29, 2015 to all common stockholders of record as of Monday, Sept. 14, 2015. \nGeneral Motors Co. (NYSE:GM, TSX: GMM) and its partners produce vehicles in 30 countries, and the company has leadership positions in the world's largest and fastest-growing automotive markets. GM, its subsidiaries and joint venture entities sell vehicles under the Chevrolet, Cadillac, Baojun, Buick, GMC, Holden, Jiefang, Opel, Vauxhall and Wuling brands. More information on the company and its subsidiaries, including OnStar, a global leader in vehicle safety, security and information services, can be found at http://www.gm.\n\n    The day before the article was published, the stock price of General Motors Company was 23.34563446044922 and the day after the article was published, the stock price of General Motors Company was ",
+ "expected": "23.728750228881836",
+ "date": "2015-09-02",
+ "ticker": "GM",
+ "company": "General Motors Company"
+}

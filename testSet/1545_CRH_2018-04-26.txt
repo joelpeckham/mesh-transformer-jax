@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'CRH to pause on major deals for rest of 2018 CEO' was published on 2018-04-26. The body of the article is as follows:\n    \nDUBLIN, April 26 (Reuters) - Irish building materials group CRH is likely to hold back on major acquisition activity for the rest of 2018 as it digests last year\u2019s deals, CEO Albert Manifold said on Thursday.\nCRH committed to 5 billion euros ($6.1 billion) of deals last year, including the 3 billion euro purchase of Ash Grove Cement Co, which is due to close shortly. ($1 = 0.8219 euros) (Reporting by Padraic Halpin Editing by David Goodman)\n \n\n    The day before the article was published, the stock price of CRH PLC was 32.568450927734375 and the day after the article was published, the stock price of CRH PLC was ",
- "expected": "32.669288635253906",
- "date": "2018-04-26",
- "ticker": "CRH",
- "company": "CRH PLC",
- "url": "https://www.reuters.com/article/crh-agm/crh-to-pause-on-major-deals-for-rest-of-2018-ceo-idUSS8N1Q4014"
-}

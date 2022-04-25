@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'L+M, Yale-New Haven announce merger, $300 million investment' was published on 2015-07-16. The body of the article is as follows:\n    \nRSS The Miami Herald / Associated Press , July 16, 2015 L+M Healthcare and Yale New Haven Health System say they've agreed to affiliate, joining the larger New Haven institution with the parent organization of Lawrence + Memorial Hospital, Westerly Hospital, a medical group and Visiting Nurse Association of Southeastern Connecticut. The agreement, which was announced Wednesday, requires approval from Connecticut and Rhode Island regulators. The two health care organizations say an affiliation will improve health care quality, access and efficiency. Yale New Haven Health System will spend $300 million in Connecticut and Rhode Island for primary care, OB/maternity services, orthopedics, neurosurgery and other specialties.\n\n    The day before the article was published, the stock price of Acadia Healthcare Company, Inc. was 80.6500015258789 and the day after the article was published, the stock price of Acadia Healthcare Company, Inc. was ",
+ "expected": "80.97000122070312",
+ "date": "2015-07-16",
+ "ticker": "ACHC",
+ "company": "Acadia Healthcare Company, Inc."
+}

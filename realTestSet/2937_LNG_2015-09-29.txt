@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Icahn raises stake in Cheniere Energy to 11.43%' was published on 2015-09-29. The body of the article is as follows:\n    \nIcahn raises stake in Cheniere Energy to 11.43 percent 1 Hour Ago Reuters SHARES \nActivist investor Carl Icahn raised his stake in liquefied natural gas company Cheniere Energy to 11.43 percent, according to a regulatory filing on Monday. \nIcahn raised his stake to 9.6 percent on Sept. 14. \nThe biggest investor in the company as of Sept. 14, Icahn now owns 27 million shares of the Houston-based company. \nCheniere appointed Icahn Enterprises directors Jonathan Christodoro and Samuel Merksamer to its board last month, weeks after Icahn disclosed his stake in the company.\n\n    The day before the article was published, the stock price of Cheniere Energy, Inc. was 47.321292877197266 and the day after the article was published, the stock price of Cheniere Energy, Inc. was ",
+ "expected": "48.14868927001953",
+ "date": "2015-09-29",
+ "ticker": "LNG",
+ "company": "Cheniere Energy, Inc."
+}

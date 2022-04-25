@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Airbus confirms amendments to comply with WTO over subsidies' was published on 2018-05-22. The body of the article is as follows:\n    \nPARIS (Reuters) - European planemaker Airbus ( AIR.PA ) said on Tuesday that the company - along with France, Germany, Spain and the UK - had made some changes regarding loans for the A380 and A350XWB planes to comply with the World Trade Organization (WTO).\n\u201cAirbus and the European member States France, Germany, Spain and the UK have agreed on some amendments to A380 and A350XWB Reimbursable Launch Investment (RLI) loans,\u201d Airbus said in a statement.\n\u201cThe terms of these amendments \u2013 like the terms of the original RLI contracts themselves \u2013 remain confidential but they are aligned with current market conditions,\u201d added Airbus.\nThe move comes after the United States won the right to seek sanctions against European Union goods following a partial victory in its 14-year legal battle against European government support for Airbus at the World Trade Organization. [nL5N1SM7W5]\nReporting by Sudip Kar-Gupta; Editing by Leigh Thomas\n \n\n    The day before the article was published, the stock price of RLI Corp. was 61.956268310546875 and the day after the article was published, the stock price of RLI Corp. was ",
- "expected": "61.289974212646484",
- "date": "2018-05-22",
- "ticker": "RLI",
- "company": "RLI Corp.",
- "url": "https://www.reuters.com/article/us-eu-usa-wto-airbus/airbus-confirms-amendments-to-comply-with-wto-over-subsidies-idUSKCN1IN10G"
-}

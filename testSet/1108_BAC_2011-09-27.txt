@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'A $50 Billion Claim of Havoc Looms for Bank of America' was published on 2011-09-27. The body of the article is as follows:\n    \nBank of America\u2019s potential liability for bad mortgages \u2014 in the tens of billions of dollars \u2014 is well known. But Bank of America is haunted by other demons from the financial crisis, the most significant one being a lawsuit arising from its troubled Merrill Lynch acquisition.\n\n    The day before the article was published, the stock price of Bank of America Corporation was 5.699803829193115 and the day after the article was published, the stock price of Bank of America Corporation was ",
- "expected": "5.3198161125183105",
- "date": "2011-09-27",
- "ticker": "BAC",
- "company": "Bank of America Corporation",
- "url": "https://dealbook.nytimes.com/2011/09/27/for-bank-of-america-a-looming-50-billion-claim-of-havoc/"
-}

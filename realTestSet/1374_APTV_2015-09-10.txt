@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Indian Bank cuts interest rates' was published on 2015-09-10. The body of the article is as follows:\n    \nIndian Bank cuts interest rates By PTI | 10 Sep, 2015, 11.12PM IST   CHENNAI: Public sector Indian Bank has cut interest rates on term deposits by 25 bps to 50 bps, effective from tomorrow. \"Indian Bank announced reduction in the interest rates on term deposits for periods from 181 days and above, by 25 bps to 50bps with effect from September 11, 2015,\" the Chennai-based bank said in a statement.   Follow this section for latest news on Banking To post this comment you must Log In/Connect with:\n\n    The day before the article was published, the stock price of Aptiv PLC was 60.20698165893555 and the day after the article was published, the stock price of Aptiv PLC was ",
+ "expected": "60.78781509399414",
+ "date": "2015-09-10",
+ "ticker": "APTV",
+ "company": "Aptiv PLC"
+}

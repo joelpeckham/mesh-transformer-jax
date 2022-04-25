@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'RBA says confidence is not low' was published on 2015-09-18. The body of the article is as follows:\n    \nFri, Sep 18, 2015, 5:34 PM NZST - New Zealand Markets closed RBA says confidence is not low AAP \u2013 16 minutes ago \n\nConsumer and business confidence isn't as low as many think, the head of the Reserve Bank says. \nConfidence is crucial to spending and investment, which is needed to drive economic growth as the benefits of the resources boom fade, and RBA governor Glenn Stevens says it is not as low as the media reports. \n\"It's not that bad,\" he told a parliamentary committee on Friday. \n\"It's not great, and it is not the ebullient consumer and business community that we had from the late `90s through to 2006, but I'm sorry, that is not coming back.\" \nHe said businesses will invest more at some point, but employment growth has still proved steady in the past year. @YahooNZBusiness on Twitter, become a fan on Facebook Stevens positive despite global risks AAP \nLow interest rates and a falling Australian dollar are key to the economy getting past the mining boom and surviving \u2026\n\n    The day before the article was published, the stock price of Ritchie Bros. Auctioneers Incorporated was 23.66930389404297 and the day after the article was published, the stock price of Ritchie Bros. Auctioneers Incorporated was ",
+ "expected": "22.944013595581055",
+ "date": "2015-09-18",
+ "ticker": "RBA",
+ "company": "Ritchie Bros. Auctioneers Incorporated"
+}

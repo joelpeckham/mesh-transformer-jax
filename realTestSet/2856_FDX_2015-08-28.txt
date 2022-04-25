@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Fed's Fischer says still undecided on whether to hike in September' was published on 2015-08-28. The body of the article is as follows:\n    \nYou have successfully emailed the post. Fed's Fischer says still undecided on whether to hike in September Aug. 28, 2015, 12:01 PM 0 print \nThomson Reuters U.S. Federal Reserve Vice Chair Stanley Fischer addresses The Economic Club of New York in New York \nWASHINGTON (Reuters) - The U.S. Federal Reserve is waiting to see how data and markets unfold over the coming weeks before deciding whether to raise interest rates at its September meeting, Vice Chair Stanley Fischer said on Friday. \n\"It's early to tell,\" Fed Vice Chairman Stanley Fischer told CNBC, asked if he felt the case for a September rate hike was less compelling after recent market volatility. \"We're still watching how it unfolds. So I wouldn't want to go ahead and decide right now what the case is: more compelling, less compelling, etcetera.\" \n(Reporting by Krista Hughes and Jason Lange; Editing by Chizu Nomiyama) Read the original article on Reuters . Copyright 2015. Follow Reuters on Twitter . More from Reuters:\n\n    The day before the article was published, the stock price of FedEx Corporation was 142.2575225830078 and the day after the article was published, the stock price of FedEx Corporation was ",
+ "expected": "139.99871826171875",
+ "date": "2015-08-28",
+ "ticker": "FDX",
+ "company": "FedEx Corporation"
+}

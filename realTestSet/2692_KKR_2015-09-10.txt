@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'First Data to Launch Year's Largest U.S. IPO at $2.5B' was published on 2015-09-10. The body of the article is as follows:\n    \nFirst Data to Launch Year's Largest U.S. IPO at $2.5B by Bloomberg Video 2:17 mins Sep. 10 -- First Data Corp. plans to seek at least $2.5 billion in an initial public offering that would be the largest of this year. The stock could begin trading later this month, eight years after the firm was taken private by KKR & Co. Bloomberg's Alex Barinka reports on \"Bloomberg Surveillance.\" Share this\n\n    The day before the article was published, the stock price of KKR & Co. L.P. was 15.887544631958008 and the day after the article was published, the stock price of KKR & Co. L.P. was ",
+ "expected": "15.543071746826172",
+ "date": "2015-09-10",
+ "ticker": "KKR",
+ "company": "KKR & Co. L.P."
+}

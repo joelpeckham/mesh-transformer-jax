@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Overstock.Com Loses Ruling in Suit Alleging Naked Short Selling' was published on 2012-01-11. The body of the article is as follows:\n    \nOverstock.com Inc. (OSTK) \u2019s lawsuit\nalleging it was the victim of a \u201cnaked short selling\u201d stock\nmanipulation scheme was dismissed entirely or in part by a state\njudge in San Francisco, according to the court docket.  The ruling wasn\u2019t immediately available from electronic\ncourt records.  Goldman Sachs Group Inc. (GS)  units and Merrill Lynch\nunits now part of  Bank of America Corp. (BAC)  were the remaining\ndefendants in the case.  To contact the reporter on this story:\nKaren Gullo in San Francisco at \n kgullo@bloomberg.net   To contact the editor responsible for this story:\nMichael Hytha at \n mhytha@bloomberg.net\n\n    The day before the article was published, the stock price of Bank of America Corporation was 5.737002849578857 and the day after the article was published, the stock price of Bank of America Corporation was ",
- "expected": "5.875453472137451",
- "date": "2012-01-11",
- "ticker": "BAC",
- "company": "Bank of America Corporation",
- "url": "http://www.bloomberg.com/news/2012-01-11/overstock-com-loses-ruling-in-suit-alleging-short-selling-by-goldman-sachs.html"
-}

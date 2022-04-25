@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Kuwait's Equate to buy ME Global from Dow, PIC for $3.2bn' was published on 2015-10-22. The body of the article is as follows:\n    \nBy Reuters Thursday, 22 October 2015 2:28 PM \nKuwait's Boubyan Petrochemical Co said on Thursday its affiliate Equate had signed a $3.2 billion deal to buy ME Global from Dow Chemical of the United States and a subsidiary of state-run Kuwait Petroleum Corp. \nUnder the non-binding agreement, about $200 million of the total value would go towards paying down loans and commitments of ME Global, Boubyan said in a statement to the Kuwaiti bourse. \nME Global is a 50-50 ethylene glycol producing joint venture between Dow and Petrochemical Industries Co, a unit of Kuwait Petroleum. Boubyan owns 9 percent of Equate. \nOnce the deal is finalised, Boubyan is not expected to provide any financing to or inject any funds into Equate, the statement said. \nLast November, Dow said that as part of a $7-8.5 billion divestment plan, it would reduce its equity positions in all of its Kuwaiti ventures in order to release capital for other strategic purposes.\n\n    The day before the article was published, the stock price of Thomson Reuters Corp was 35.77036666870117 and the day after the article was published, the stock price of Thomson Reuters Corp was ",
+ "expected": "35.68424987792969",
+ "date": "2015-10-22",
+ "ticker": "TRI",
+ "company": "Thomson Reuters Corp"
+}

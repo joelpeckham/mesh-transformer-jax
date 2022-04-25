@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Shares Of Companies With Brazil Exposure Recover' was published on 2015-09-11. The body of the article is as follows:\n    \nNifty 7,795.15 7.05 [0.09%] Torrent Pharma gained almost 3 per cent, Glenmark Pharma was up almost 2 per cent and United Phosphorus was up 1 per cent. Several other companies like KEC and Renuka Sugars also have a presence in Brazil and their shares were trading with gains.\nOn Thursday, noted rating agency S&P downgraded the rating of Brazil to junk. A downgrade of the rating implies it could be risky for business prospects as the fundamentals of the country remain weak. \nBrazil is a major player in the commodity space and the recent fall in commodity prices is not good news for the country. It has also been witnessing some political turmoil in the last few months. \nGoodReturns.in\n\n    The day before the article was published, the stock price of Skechers U.S.A., Inc. was 45.253334045410156 and the day after the article was published, the stock price of Skechers U.S.A., Inc. was ",
+ "expected": "45.483333587646484",
+ "date": "2015-09-11",
+ "ticker": "SKX",
+ "company": "Skechers U.S.A., Inc."
+}

@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Valero resets work on Memphis refinery's gasoline unit -sources' was published on 2015-08-20. The body of the article is as follows:\n    \n369.60 +2.10 \nHOUSTON, Aug 20 (Reuters) - Valero Energy Corp has moved back the start date for planned fall work on the gasoline-producing fluidic catalytic cracking unit (FCCU) at its 180,000-barrel-per-day (bpd) refinery in Memphis, Tennessee, due to strong Midwest refining margins, sources familiar with plant operations said on Thursday. \nGasoline prices have shot up in the Midwest due to a production cut that began earlier this month at BP Plc's Whiting, Indiana refinery. That move also lowered crude oil prices, widening refineries' potential profits. \nValero planned earlier this year to install a flue gas cooler on the 65,000-bpd FCCU beginning in mid-October, the sources said. \nThe earliest the work can now begin is late October and the refinery is also weighing whether to do the work in early December or early 2016 as part of a planned overhaul that will include the smaller of two crude distillation units and other units at the refinery. (Reporting by Erwin Seba; Editing by Paul Simao)\n\n    The day before the article was published, the stock price of Valero Energy Corporation was 51.3065071105957 and the day after the article was published, the stock price of Valero Energy Corporation was ",
+ "expected": "46.21893310546875",
+ "date": "2015-08-20",
+ "ticker": "VLO",
+ "company": "Valero Energy Corporation"
+}

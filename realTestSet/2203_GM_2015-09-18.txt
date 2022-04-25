@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'GM Stock Yields 4.7% and Can Drive Higher By 40%' was published on 2015-09-18. The body of the article is as follows:\n    \nAhead of the Crowd GM Stock Yields 4.7% and Can Drive Higher By 40% Look for value to be unlocked now that a criminal investigation and class action lawsuit are behind it. By Jack Hough Sept. 18, 2015 1:25 p.m. ET \nGeneral Motors will pay $900 million to settle a criminal investigation into its failure to recall faulty ignition switches linked to more than 100 deaths, the Department of Justice said Thursday. The amount was \u201clower than most had been expecting,\u201d wrote Sterne Agee analyst Michael Ward in a note to investors. \nSeparately, GM (ticker: GM) settled a class action suit involving nearly 1,400 cases, many of which extended beyond ignition... Get The Full Story\n\n    The day before the article was published, the stock price of General Motors Company was 25.836069107055664 and the day after the article was published, the stock price of General Motors Company was ",
+ "expected": "25.26670265197754",
+ "date": "2015-09-18",
+ "ticker": "GM",
+ "company": "General Motors Company"
+}

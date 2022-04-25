@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'BP shareholders approve CEO's pay' was published on 2018-05-21. The body of the article is as follows:\n    \nMay 21, 2018 / 1:06 PM / in 15 minutes BP shareholders approve CEO's pay Reuters Staff 1 Min Read\nMANCHESTER (Reuters) - BP ( BP.L ) shareholders on Monday approved Chief Executive Bob Dudley\u2019s 2017 remuneration package by a more than 96 percent majority. Group Chief Executive of BP Bob Dudley poses for a photograph at the BP International Headquarters in central London, Britain, May 16, 2018. REUTERS/Henry Nicholls\nDudley\u2019s remuneration rose by 13 percent to $13.4 million last year as the oil and gas giant\u2019s profit more than doubled and production soared.\nIn 2016 Dudley\u2019s pay package was cut by 40 percent after a majority of shareholders opposed the company\u2019s pay policy. Reporting by Ron Bousso; Editing by David Goodman\n\n    The day before the article was published, the stock price of BP p.l.c. was 38.18596267700195 and the day after the article was published, the stock price of BP p.l.c. was ",
- "expected": "37.952232360839844",
- "date": "2018-05-21",
- "ticker": "BP",
- "company": "BP p.l.c.",
- "url": "https://www.reuters.com/article/us-bp-agm/bp-shareholders-approve-ceos-pay-idUSKCN1IM1B5"
-}

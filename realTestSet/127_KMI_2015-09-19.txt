@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'How Tech Trumps Inflation; It's a Bad Time to Be a Unicorn: Jim Cramer's Best Blogs' was published on 2015-09-19. The body of the article is as follows:\n    \nWhile energy stocks have spiraled amid a slide in oil prices, distribution companies like Kinder Morgan (KMI) will rebound more quickly because their business depends on sale volume, not revenue. Don't Miss\n\n    The day before the article was published, the stock price of Kinder Morgan, Inc. was 22.59431266784668 and the day after the article was published, the stock price of Kinder Morgan, Inc. was ",
+ "expected": "22.39351463317871",
+ "date": "2015-09-19",
+ "ticker": "KMI",
+ "company": "Kinder Morgan, Inc."
+}

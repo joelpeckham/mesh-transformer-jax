@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Is There Room for Both Twitter and Facebook?' was published on 2015-10-24. The body of the article is as follows:\n    \nIs There Room for Both Twitter and Facebook? by Bloomberg Video 3:46 mins Oct. 23 -- Ann Miura-Ko, Floodgate Fund's co-founding partner, discusses Twitter's role in the media landscape with Bloomberg's Emily Chang on \"Bloomberg West.\" Share this\n\n    The day before the article was published, the stock price of Facebook, Inc. was 102.19000244140625 and the day after the article was published, the stock price of Facebook, Inc. was ",
+ "expected": "103.69999694824219",
+ "date": "2015-10-24",
+ "ticker": "FB",
+ "company": "Facebook, Inc."
+}

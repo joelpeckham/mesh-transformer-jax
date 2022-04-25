@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Houlihan Lokey bulks up for flotation by acquiring McQueen' was published on 2015-07-22. The body of the article is as follows:\n    \n  Europe talks, Osborne told Published   savers,   chairman said Lloyds must hand HBOS legal advice to investors Published 1 minute ago \nThe High Court ruled that lawyers for thousands of former shareholders should be given the documents as part of a legal case against the bank External investigators to probe RBS business unit Last updated at 4:57PM, July 22 2015 \nThe bank has hired external advisers amid signs that it may pay compensation to businesses over the actions of its restructuring division IG Group boss plans to cash in and relax Published at 12:01AM, July 22 2015 \nTim Howkins, who has overseen rapid growth at the business over a period of 16 years, says that he wants to take a two-year career break Sponsored Editorial\n\n    The day before the article was published, the stock price of Lloyds Banking Group Plc was 4.322954177856445 and the day after the article was published, the stock price of Lloyds Banking Group Plc was ",
+ "expected": "4.236021518707275",
+ "date": "2015-07-22",
+ "ticker": "LYG",
+ "company": "Lloyds Banking Group Plc"
+}

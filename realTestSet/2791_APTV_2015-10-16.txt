@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'TN announces six per cent hike in DA for govt employees' was published on 2015-10-16. The body of the article is as follows:\n    \nTN announces six per cent hike in DA for govt employees By PTI | 16 Oct, 2015, 08.24PM IST ET SPECIAL: Love visual aspect of news? Enjoy this exclusive slideshows treat! CHENNAI: Tamil Nadu government today announced a six per cent hike in dearness allowance (DA) for its employees and pensioners, a move that will cost the state exchequer an additional sum of over Rs 1,500 crore annually. Chief Minister Jayalalithaa said following the Centre hiking DA by six per cent, her government was giving a similar increase, which would benefit 18 lakh government employees and pensioners. While employees would get revised amounts ranging between Rs 366 and Rs 4620, it will be between Rs 183 and Rs 2310 for pensioners, she said in a statement. The hike will be calculated with effect from July 1, 2015 and disbursed in cash, she said, adding, the increase will result in an additional sum of Rs 1501.24 crore annually on the state exchequer.   Follow this section for latest news on Finance To post this comment you must Log In/Connect with:\n\n    The day before the article was published, the stock price of Aptiv PLC was 64.30461120605469 and the day after the article was published, the stock price of Aptiv PLC was ",
+ "expected": "64.90133666992188",
+ "date": "2015-10-16",
+ "ticker": "APTV",
+ "company": "Aptiv PLC"
+}

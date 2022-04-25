@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'South African FDI Jumps to $5.8 Billion, Business Report Says' was published on 2012-07-06. The body of the article is as follows:\n    \nForeign direct investment into South\nAfrica rose more than fourfold to $5.8 billion last year from\n$1.2 billion in 2010, Business Report said, citing a report by\nthe United Nations Conference on Trade and Development.  Wal-Mart Stores Inc. (WMT) \u2019s $2.4 billion purchase of a\ncontrolling stake in  Massmart Holdings Ltd. (MSM)  and a $1.3 billion\ninflow from Jinchuan Group Ltd.\u2019s takeover of copper producer\nMetorex Ltd. were the biggest contributors to the growth in\ninvestment, the Johannesburg-based newspaper said.  South Africa was the biggest recipient of foreign direct\ninvestment in Africa after Nigeria, which attracted inflows of\n$8.9 billion, the report said.  To contact the reporterresponsible for this story:\nStephen Gunnion in Johannesburg at \n sgunnion@bloomberg.net   To contact the editor responsible for this story:\nGavin Serkin at \n gserkin@bloomberg.net\n\n    The day before the article was published, the stock price of Wal-Mart Stores, Inc. was 57.19431686401367 and the day after the article was published, the stock price of Wal-Mart Stores, Inc. was ",
- "expected": "57.741485595703125",
- "date": "2012-07-06",
- "ticker": "WMT",
- "company": "Wal-Mart Stores, Inc.",
- "url": "http://www.bloomberg.com/news/2012-07-06/south-african-fdi-jumps-to-5-8-billion-business-report-says.html"
-}

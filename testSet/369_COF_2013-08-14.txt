@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Capital One Hires Goldman\u2019s Steven Tulip to Head Capital Markets' was published on 2013-08-14. The body of the article is as follows:\n    \nCapital One Financial Corp. (COF) , the\nlender that gets more than half its revenue from credit cards,\nhired former Goldman Sachs Group Inc. banker Steven Tulip to\nhead its capital-markets business.  Tulip, most recently a managing director at Goldman Sachs,\nwill expand Capital One\u2019s broker-dealer and offer more products\nsuch as loan syndications and interest-rate and commodities\nderivatives, according to a statement today from the McLean,\nVirginia-based lender. He\u2019ll report to Michael Slocum,\ncommercial banking group president.  Tulip also spent 20 years at  JPMorgan Chase & Co. (JPM) , where he\nwas a managing director in charge of health care and industrials\nleveraged finance, according to the statement.  To contact the reporter on this story:\nDakin Campbell in  New York  at \n dcampbell27@bloomberg.net   To contact the editors responsible for this story:\nDavid Scheer at \n dscheer@bloomberg.net ;\nChristine Harper at \n charper@bloomberg.net\n\n    The day before the article was published, the stock price of Capital One Financial Corporation was 59.18521499633789 and the day after the article was published, the stock price of Capital One Financial Corporation was ",
- "expected": "57.847145080566406",
- "date": "2013-08-14",
- "ticker": "COF",
- "company": "Capital One Financial Corporation",
- "url": "http://www.bloomberg.com/news/2013-08-14/capital-one-hires-goldman-s-steven-tulip-to-head-capital-markets.html"
-}

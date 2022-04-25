@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'U.S. drug agency to propose rules to rein in opioid manufacturing' was published on 2018-04-18. The body of the article is as follows:\n    \nWASHINGTON, April 17 (Reuters) - The U.S. Drug Enforcement Administration on Tuesday unveiled plans to rein in the amount of opioids that can be manufactured by drug makers in a given year, in an effort to combat the deadly opioid epidemic that has plagued the United States.\nThe DEA\u2019s proposed changes to its regulations over addictive drug manufacturing quotas are expected to be formally announced by Attorney General Jeff Sessions in a speech on Tuesday. (Reporting by Sarah N. Lynch, editing by G Crosse)\n \n\n    The day before the article was published, the stock price of Easterly Government Properties, Inc. was 16.83457374572754 and the day after the article was published, the stock price of Easterly Government Properties, Inc. was ",
- "expected": "16.793048858642578",
- "date": "2018-04-18",
- "ticker": "DEA",
- "company": "Easterly Government Properties, Inc.",
- "url": "https://www.reuters.com/article/usa-justice-dea-opioids/u-s-drug-agency-to-propose-rules-to-rein-in-opioid-manufacturing-idUSL1N1RU1HO"
-}

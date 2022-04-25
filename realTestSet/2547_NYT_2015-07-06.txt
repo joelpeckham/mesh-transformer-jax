@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'In health law, a boon for diet clinics' was published on 2015-07-06. The body of the article is as follows:\n    \nRSS The New York Times , July 6, 2015 \nDr. Michael Kaplan looked across his desk at a woman who had sought out his Long Island Weight Loss Institute and asked the question he often poses to new patients: \"Where do you think you go wrong with food?\" The 38-year-old patient was about 20 pounds overweight and, as she described it, desperate. Weight Watchers, nutritionists \u2014 she had tried them all in vain. A physician like Dr. Kaplan, she reasoned, might be the only one left who could help her. \"I'm really tired of it,\" the woman said one recent afternoon, declining to give her name to a reporter. \"I feel like something is off with me.\"\n\n    The day before the article was published, the stock price of New York Times Company (The) was 12.933496475219727 and the day after the article was published, the stock price of New York Times Company (The) was ",
+ "expected": "12.403280258178711",
+ "date": "2015-07-06",
+ "ticker": "NYT",
+ "company": "New York Times Company (The)"
+}

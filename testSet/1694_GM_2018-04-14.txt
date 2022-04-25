@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'GM Cuts Up To 1,500 Jobs at Ohio Plant' was published on 2018-04-14. The body of the article is as follows:\n    \nGeneral Motors Co. will lay off up to 1,500 workers from a small-car factory in Ohio, the latest symptom of sluggish U.S. demand for cars amid the rising popularity of sport-utility vehicles.\nGM said Friday it would eliminate one of the two shifts at its Lordstown, Ohio, plant, where workers assemble the Chevrolet Cruze compact sedan. The company cited \u201clower customer demand\u201d for smaller cars.\n\u201cAs... To Read the Full Story Subscribe Sign In\n\n    The day before the article was published, the stock price of General Motors Company was 35.63479995727539 and the day after the article was published, the stock price of General Motors Company was ",
- "expected": "36.039634704589844",
- "date": "2018-04-14",
- "ticker": "GM",
- "company": "General Motors Company",
- "url": "https://www.wsj.com/articles/gm-cuts-up-to-1-500-jobs-at-ohio-plant-1523652143"
-}

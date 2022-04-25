@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Alwaleed's Kingdom Holding reports 10% rise in Q3 profit' was published on 2015-10-21. The body of the article is as follows:\n    \nBy Reuters Wednesday, 21 October 2015 9:48 AM \nSaudi Arabia's Kingdom Holding , the investment firm owned by billionaire Prince Alwaleed bin Talal, posted a 10 percent rise in third-quarter net profit on Wednesday amid an increase in returns on its investments. \nThe investment firm has minority stakes in some of the world's top companies, including Citigroup and microblogging site Twitter. \nKingdom made a net profit of 291.55 million riyals in the three months to September 30, up from 265 million riyals in the same period a year earlier, it said in a bourse statement. \nIt attributed the rise in net profit to an increase in profits and gains from investments. \nSaudi companies issue brief earnings statements early in each reporting period before publishing more detailed results later. \nIn July, Alwaleed pledged to gradually give his entire $32 billion fortune to charity. Included would be shares in Kingdom Holding, though Kingdom shares would not be sold and his actions would have no impact on either the company, or his general investment strategy, he said.\n\n    The day before the article was published, the stock price of Thomson Reuters Corp was 36.26118850708008 and the day after the article was published, the stock price of Thomson Reuters Corp was ",
+ "expected": "36.381744384765625",
+ "date": "2015-10-21",
+ "ticker": "TRI",
+ "company": "Thomson Reuters Corp"
+}

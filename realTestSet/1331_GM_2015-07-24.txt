@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Analysts' Actions -- Amazon, General Motors, Under Armour and More' was published on 2015-07-24. The body of the article is as follows:\n    \nNEW YORK ( TheStreet ) -- RATINGS CHANGES \nBP PLC was downgraded to hold by the Street Ratings team. You can view the full analysis from the report here: BP Ratings Report . \nCapital One \nMust Read: 10 New Stocks Billionaire David Einhorn Loves \nDean Foods was started at neutral by JPMorganm, which set an $18 price target, saying that fundamentals are mixed but improving. \nFortinet was upgraded to buy by TheStreet Ratings team. You can view the full analysis from the report here: FTNT Ratings Report . \nUnited Continental was upgraded to buy from hold by Deutsche Bank, which set a $72 price target, citing an improved outlook and increased share repurchase program.\n\n    The day before the article was published, the stock price of General Motors Company was 25.676939010620117 and the day after the article was published, the stock price of General Motors Company was ",
+ "expected": "25.310123443603516",
+ "date": "2015-07-24",
+ "ticker": "GM",
+ "company": "General Motors Company"
+}

@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Western Union May Head South With PayPal Deal' was published on 2015-07-02. The body of the article is as follows:\n    \nHot Research PM Western Union May Head South With PayPal Deal PayPal\u2019s pact to acquire Xoom will create a global competitor for Western Union in money transfer. July 2, 2015 1:18 p.m. ET \nWestern Union (WU: NYSE) \nBy Evercore ISI ($20.39, July 1, 2015) \nWe are downgrading Western Union from Buy to Hold given PayPal\u2019s announcement of a definitive agreement to acquire Hold-rated Xoom, creating a large, global competitor for Western Union... Get The Full Story\n\n    The day before the article was published, the stock price of Western Union Company (The) was 15.981053352355957 and the day after the article was published, the stock price of Western Union Company (The) was ",
+ "expected": "14.852431297302246",
+ "date": "2015-07-02",
+ "ticker": "WU",
+ "company": "Western Union Company (The)"
+}

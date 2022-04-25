@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'AbbVie pays $350mm for United Therapeutics' PRV' was published on 2015-08-21. The body of the article is as follows:\n    \nIn order to deliver a personalized, responsive service and to improve the site, we remember and store information about how you use it. This is done using simple text files called cookies which sit on your computer. By continuing to use this site and access its features, you are consenting to our use of cookies. To find out more about the way Informa uses cookies please go to our Cookie Policy page. X\n\n    The day before the article was published, the stock price of United Therapeutics Corporation was 162.66000366210938 and the day after the article was published, the stock price of United Therapeutics Corporation was ",
+ "expected": "150.44000244140625",
+ "date": "2015-08-21",
+ "ticker": "UTHR",
+ "company": "United Therapeutics Corporation"
+}

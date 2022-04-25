@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Sam's Clubs to Accept AmEx Cards' was published on 2015-09-11. The body of the article is as follows:\n    \nSam\u2019s Clubs to Accept AmEx Cards Earlier this year, retailer Costco cut ties with American Express after 16-year relationship By lisa.beilfuss@wsj.com Updated Sept. 10, 2015 5:41 p.m. ET \nAmerican Express Co. on Thursday said Sam\u2019s Club, the warehouse-club retailer owned by Wal-Mart Stores Inc., would accept AmEx cards starting Oct. 1. \nEarlier this year, Sam\u2019s Club\u2019s larger rival Costco Wholesale Corp. ended its 16-year relationship with American Express after the companies failed to agree to new terms. The partnership, under which Costco exclusively accepted AmEx cards, drove a significant chunk of business to the... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of American Express Company was 68.32839965820312 and the day after the article was published, the stock price of American Express Company was ",
+ "expected": "68.17415618896484",
+ "date": "2015-09-11",
+ "ticker": "AXP",
+ "company": "American Express Company"
+}

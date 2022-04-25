@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Labor's first budget 'will keep promises'' was published on 2015-07-24. The body of the article is as follows:\n    \nFri, Jul 24, 2015, 1:34 PM NZST - New Zealand Markets close in 3 hrs 26 mins Labor's first budget 'will keep promises' AAP \u2013 21 minutes ago Print \nA federal Labor government will keep its election promises in its first budget even if it means being unpopular, shadow treasurer Chris Bowen has pledged. \n\"When I deliver Labor's first budget I want to be delivering a program on which we fought and won an election, for which we sought and won a mandate,\" he told delegates in a speech to the ALP national conference in Melbourne on Friday. \n\"Now that will mean at times being controversial, sometimes being unpopular with some, but it also means leading the debate for a better, fairer and more sustainable policy on things like superannuation and making sure multinationals pay their fair share of tax.\" @YahooNZBusiness on Twitter, become a fan on Facebook Most Aussies still keen on property market AAP \nMost Aussies still think it's a good time to get into the property market, despite house prices surging in Sydney \u2026\n\n    The day before the article was published, the stock price of Abbott Laboratories was 45.44775390625 and the day after the article was published, the stock price of Abbott Laboratories was ",
+ "expected": "44.99505615234375",
+ "date": "2015-07-24",
+ "ticker": "ABT",
+ "company": "Abbott Laboratories"
+}

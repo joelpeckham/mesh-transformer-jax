@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Windows 8 Failed to Reverse PC Slump During Holidays' was published on 2013-01-11. The body of the article is as follows:\n    \n For weeks, there have been signs that the public was not buying new PCs over the holidays in the numbers many had hoped. Now add to them new figures from IDC, one of the best-known scorekeepers for the market, showing that worldwide PC shipments declined 6.4 percent in the fourth quarter from a year earlier. \n\n    The day before the article was published, the stock price of Microsoft Corporation was 22.022621154785156 and the day after the article was published, the stock price of Microsoft Corporation was ",
- "expected": "22.380510330200195",
- "date": "2013-01-11",
- "ticker": "MSFT",
- "company": "Microsoft Corporation",
- "url": "https://bits.blogs.nytimes.com/2013/01/10/windows-8-failed-to-reverse-pc-slump-during-holidays/"
-}

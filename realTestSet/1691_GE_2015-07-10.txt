@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'GE Said to Seek Bids for Japan Leasing Unit in August, Bloomberg' was published on 2015-07-10. The body of the article is as follows:\n    \n  GE Said to Seek Bids for Japan Leasing Unit in August, Bloomberg July 10, 2015, 07:11 AM Related: Ge Capital , General Electric Capital , General Electric Company , Japan \nBloomberg reported General Electric will seek initial bids for its Japanese leasing business in late August, said people with knowledge of the situation.According to the Bloomberg report, GE will distribute documents with information on the business to potential bidders later this month, according to the people, who asked not to be named as the sale process is confidential. The Japanese leasing operation has 500 billion yen ($4.1 billion) of assets and 1,000 employees.and does commercial lending as well as leasing of automobiles, office equipment and construction machinery. To read the full Bloomberg report, click here . Today's Other News\n\n    The day before the article was published, the stock price of General Electric Company was 177.43519592285156 and the day after the article was published, the stock price of General Electric Company was ",
+ "expected": "180.50379943847656",
+ "date": "2015-07-10",
+ "ticker": "GE",
+ "company": "General Electric Company"
+}

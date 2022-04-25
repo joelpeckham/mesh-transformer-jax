@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'MFIN elects MK Nambiar of Arohan Financial Services as president' was published on 2015-07-01. The body of the article is as follows:\n    \nMFIN elects MK Nambiar of Arohan Financial Services as president By Atmadip Ray , ET Bureau | 1 Jul, 2015, 02.53PM IST ET SPECIAL: Love visual aspect of news? Enjoy this exclusive slideshows treat! KOLKATA: Arohan Financial Services Managing Director Manoj Kumar Nambiar has become the new president of Microfinance Institutions Network (MFIN), the association of the 48 NBFC-MFIs that control 90 per cent of the India's MFI business. MFIN elected Nambiar for the position at its sixth annual general meeting Tuesday, replacing Ujjivan Financial Services chief executive officer and managing director Samit Ghosh . Nambiar is also a director on the boards of IntelleCash Microfinance Network Company. R Baskar Babu, chief executive officer of Suryoday Micro Finance was elected as the vice-president. MFIN member companies are doing business in 488 districts across states, covering three-fourth of India's 604 districts.  \n\n    The day before the article was published, the stock price of Medallion Financial Corp. was 7.251348972320557 and the day after the article was published, the stock price of Medallion Financial Corp. was ",
+ "expected": "7.546614170074463",
+ "date": "2015-07-01",
+ "ticker": "MFIN",
+ "company": "Medallion Financial Corp."
+}

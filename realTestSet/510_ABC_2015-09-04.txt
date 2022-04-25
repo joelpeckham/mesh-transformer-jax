@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Local TV Creates Hurdle to Streaming' was published on 2015-09-04. The body of the article is as follows:\n    \nMedia & Marketing Local TV Creates Hurdle to Streaming The difficulty of lining up deals to offer CBS, ABC, NBC and Fox programming is one reason Apple has decided to push back its Web-TV service By Keach.Hagey@wsj.com Sept. 3, 2015 8:09 p.m. ET \nAs Sony Corp. was ramping up its Playstation Vue streaming television service that launched in March, it hammered out a deal with 21st Century Fox to pick up the signals of Fox\u2019s local TV stations. \nThen this summer, as Sony looked to expand the service nationwide, Fox proposed a way to add the nearly 200 affiliate stations that carry Fox network programming but that the company doesn\u2019t own. \nThe board that represents those... To Read the Full Story, Subscribe or Sign In Popular on WSJ\n\n    The day before the article was published, the stock price of AmerisourceBergen Corporation (Holding Co) was 89.84825897216797 and the day after the article was published, the stock price of AmerisourceBergen Corporation (Holding Co) was ",
+ "expected": "90.79165649414062",
+ "date": "2015-09-04",
+ "ticker": "ABC",
+ "company": "AmerisourceBergen Corporation (Holding Co)"
+}

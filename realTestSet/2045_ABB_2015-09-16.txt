@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'RBI names 10 companies to set up microfinance banks' was published on 2015-09-16. The body of the article is as follows:\n    \nRBI names 10 companies to set up microfinance banks By Reuters | 16 Sep, 2015, 07.36PM IST Au Financiers (India), Capital Local Area Bank, were among the 10 cos who were given \"in-principle\" approvals for small finance bank permits, RBI said. Editor's Pick ET SPECIAL: Love visual aspect of news? Enjoy this exclusive slideshows treat! MUMBAI: RBI has selected 10 companies to set up small finance banks aimed at giving loans to those who struggle to get finance from traditional banks, including farmers and small businesses, the Reserve Bank of India said on Wednesday. Au Financiers (India) Ltd , Capital Local Area Bank Ltd , Ujjivan Financial Services Pvt Ltd were among the 10 companies who were given \"in-principle\" approvals for small finance bank permits, the RBI said. Existing non-bank finance companies, local area banks and micro-finance institutions were eligible to apply for the small finance bank permits.  \n\n    The day before the article was published, the stock price of ABB Ltd was 14.926605224609375 and the day after the article was published, the stock price of ABB Ltd was ",
+ "expected": "14.966687202453613",
+ "date": "2015-09-16",
+ "ticker": "ABB",
+ "company": "ABB Ltd"
+}

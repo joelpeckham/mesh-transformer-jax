@@ -1,8 +1,0 @@
-{
- "context": "The following article called 'Vermont Says 32 Captives Added in 2012, Fueled by Construction' was published on 2013-01-16. The body of the article is as follows:\n    \nVermont licensed 32 so-called\ncaptive insurers last year as construction and manufacturing\nfirms turned to the state as they established self-insurance\nprograms.  New licensees, including  Deutsche Bank AG (DBK) ,  ConocoPhillips (COP) ,\n Allstate Corp. (ALL)  and  Tyco International Ltd. (TYC) , bring Vermont\u2019s\ntotal to 984, according to a news  release  today from the state.\nVermont licensed 41 captives in 2011.  To contact the reporter on this story:\nElizabeth Bunn in New York at \nEbunn1bloomberg.net  To contact the editor responsible for this story:\nDan Kraut at \n dkraut2@bloomberg.net\n\n    The day before the article was published, the stock price of ConocoPhillips was 44.34257888793945 and the day after the article was published, the stock price of ConocoPhillips was ",
- "expected": "44.42520523071289",
- "date": "2013-01-16",
- "ticker": "COP",
- "company": "ConocoPhillips",
- "url": "http://www.bloomberg.com/news/2013-01-16/vermont-says-32-captives-added-in-2012-fueled-by-construction.html"
-}

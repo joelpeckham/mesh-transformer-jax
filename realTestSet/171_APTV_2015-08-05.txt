@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Punjab National Bank cuts fixed deposit rate by up to 0.50%' was published on 2015-08-05. The body of the article is as follows:\n    \nPunjab National Bank cuts fixed deposit rate by up to 0.50% By PTI | 5 Aug, 2015, 11.02PM IST ET SPECIAL: Love visual aspect of news? Enjoy this exclusive slideshows treat! NEW DELHI: State-owned Punjab National Bank today reduced interest rate on fixed deposits on select maturities by up to 0.50 per cent. Interest rate on domestic term deposits has been reduced between 0.10 per cent and 0.50 per cent on select maturities with effect from August 10, PNB said in a statement. The bank had last cut rate on fixed deposit in June. The reduction comes a day after RBI kept benchmark rate unchanged in the monetary policy review. RBI kept repo rate (the short-term lending rate) unchanged at 7.25 per cent and other policy tools such as cash reserve ratio ( CRR ) and statutory liquidity ratio (SLR) unchanged at 4 per cent and 21.5 per cent, respectively.  \n\n    The day before the article was published, the stock price of Aptiv PLC was 61.722171783447266 and the day after the article was published, the stock price of Aptiv PLC was ",
+ "expected": "61.365257263183594",
+ "date": "2015-08-05",
+ "ticker": "APTV",
+ "company": "Aptiv PLC"
+}

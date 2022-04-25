@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Congress Is Trying to Pass a Law to Save the Perkins Student Loan Program' was published on 2015-09-28. The body of the article is as follows:\n    \nCongress Is Trying to Pass a Law to Save the Perkins Student Loan Program Written by: John Sandman 09/28/15 - 9:57 AM EDT NEW YORK ( MainStreet ) \u2014 With a week to go before the Federal Perkins Loan program expires, two Congressmen, a Republican and a Democrat, are attempting to push through a bill that would preserve Perkins funding through next year. \nSome Republicans, including Senate Health, Education, Labor and Pension committee chair Lamar Alexander (R-Tenn.) have criticized the program as they look to simplify an array of federal student loan options\u2014which critics say is a veiled attempt to cut funding to higher ed . Justin Draeger, president of the National Association of Student Financial Aid Administrators, said the loans gives colleges \u201cflexibility to fill the gaps of needy students.\u201d More Headlines\n\n    The day before the article was published, the stock price of MainStreet Bancshares, Inc. was 10.247618675231934 and the day after the article was published, the stock price of MainStreet Bancshares, Inc. was ",
+ "expected": "11.038095474243164",
+ "date": "2015-09-28",
+ "ticker": "MNSB",
+ "company": "MainStreet Bancshares, Inc."
+}

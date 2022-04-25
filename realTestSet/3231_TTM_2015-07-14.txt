@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Tata Motors Hits 52-Week Low; Credit Suisse Removes Shares From Asian Portfolio' was published on 2015-07-14. The body of the article is as follows:\n    \nNSE 393.50 8.6 (-2.14%) The stock hit a 52-week low of Rs 392.60 on the National Stock Exchange. The Tata Motors stock has been on a significant downside after hitting a 52-week high of Rs 600 earlier this year.\nRecently, the stock crashed following a crash in the stock markets in China. The company's fortunes are more related to China, which is one of the largest markets for the company's Jaguar Landrover range. Domestically, things have not been too good for the company as its passenger and commercial vehicle segment continues to languish. \nGoodReturns.in Other articles published on Jul 14, 2015 Write Comments Company Search Enter the first few characters of the company's name or the NSE symbol or BSE code and click 'Go' More Headlines\n\n    The day before the article was published, the stock price of Tata Motors Limited was 31.646778106689453 and the day after the article was published, the stock price of Tata Motors Limited was ",
+ "expected": "30.82712173461914",
+ "date": "2015-07-14",
+ "ticker": "TTM",
+ "company": "Tata Motors Limited"
+}

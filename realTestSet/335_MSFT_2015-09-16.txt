@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Microsoft raises dividend 16 percent to 36 cents' was published on 2015-09-16. The body of the article is as follows:\n    \nMicrosoft raises dividend 16 percent to 36 cents Microsoft raises quarterly dividend 16 percent to 36 cents By The Associated Press 1 hour ago \ue071 Done \nMicrosoft is raising its quarterly dividend 16 percent to 36 cents a share. \nThe Redmond, Washington, company said Tuesday it will pay the new rate Dec. 10 to shareholders of record Nov. 19. \nMicrosoft Corp. last September increased its dividend to 31 cents from 28 cents. \nShares of the technology giant closed trading at $43.98, up 94 cents, or 2.2 percent. For the year to date, Microsoft shares are down about 5 percent. Microsoft\n\n    The day before the article was published, the stock price of Microsoft Corporation was 39.5330696105957 and the day after the article was published, the stock price of Microsoft Corporation was ",
+ "expected": "39.77577590942383",
+ "date": "2015-09-16",
+ "ticker": "MSFT",
+ "company": "Microsoft Corporation"
+}

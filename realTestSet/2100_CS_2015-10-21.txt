@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Credit Suisse posts third-quarter profit drop ahead of strategy update' was published on 2015-10-21. The body of the article is as follows:\n    \nThomson Reuters A Credit Suisse sign is seen on the exterior of their Americas headquarters in the Manhattan borough of New York City \nZURICH (Reuters) - Swiss bank Credit Suisse on Wednesday posted a bigger-than-expected drop in third-quarter net profit by 24 percent. \nZurich-based Credit Suisse said net profit for the three months to end-September was 779 million Swiss francs ($815.37 million), compared with a predicted 921 million francs in a Reuters poll. \nThe results covered the first three months of Tidjane Thiam's time as chief executive and come on the day the bank plans to give a strategy update to investors. \n($1 = 0.9554 Swiss francs) \n(Reporting by Joshua Franklin; Editing by Maria Sheahan) Read the original article on Reuters . Copyright 2015. Follow Reuters on Twitter . More from Reuters:\n\n    The day before the article was published, the stock price of Credit Suisse Group was 20.556194305419922 and the day after the article was published, the stock price of Credit Suisse Group was ",
+ "expected": "19.29716682434082",
+ "date": "2015-10-21",
+ "ticker": "CS",
+ "company": "Credit Suisse Group"
+}

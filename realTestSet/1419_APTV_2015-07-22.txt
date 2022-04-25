@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Barclays appoints Alexander Harrison as new corporate banking head for Asia' was published on 2015-07-22. The body of the article is as follows:\n    \nBarclays appoints Alexander Harrison as new corporate banking head for Asia By PTI | 22 Jul, 2015, 10.35PM IST ET SPECIAL: Love visual aspect of news? Enjoy this exclusive slideshows treat! MUMBAI: As part of its focus on corporate banking, the British lender Barclays today appointed Alexander Harrison as new head for this business across Asia, including India. With its corporate banking hubs in Singapore, India, Hong Kong and Japan, the bank plans to increase revenues significantly. As part of the new role, Harrison will relocate from Dubai to Singapore and will be designated as managing director. The bank has also set up specific India, China and Japan desks at the headquarters in England and a China desk in Africa, to better facilitate trade between EMEA and the Asia Pacific region, it said in a statement here today. Harrison will report to Matt Tuck, head of global corporate banking. Stay on top of business news with The Economic Times App. Download it Now! DON'T MISS any stories, follow us on Twitter Follow\n\n    The day before the article was published, the stock price of Aptiv PLC was 62.166316986083984 and the day after the article was published, the stock price of Aptiv PLC was ",
+ "expected": "61.722171783447266",
+ "date": "2015-07-22",
+ "ticker": "APTV",
+ "company": "Aptiv PLC"
+}

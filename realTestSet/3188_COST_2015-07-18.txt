@@ -1,0 +1,7 @@
+{
+ "context": "The following article called 'Krugman's Mistake: To Move Walmart To Costco's Wage Model Would Destroy 700,000 Jobs' was published on 2015-07-18. The body of the article is as follows:\n    \nPopular Posts Full Bio \nI'm a Fellow at the Adam Smith Institute in London, a writer here and there on this and that and strangely, one of the global experts on the metal scandium, one of the rare earths. An odd thing to be but someone does have to be such and in this flavour of our universe I am. I have written for The Times, Daily Telegraph, Express, Independent, City AM, Wall Street Journal, Philadelphia Inquirer and online for the ASI, IEA, Social Affairs Unit, Spectator, The Guardian, The Register and Techcentralstation. I've also ghosted pieces for several UK politicians in many of the UK papers, including the Daily Sport. The author is a Forbes contributor. The opinions expressed are those of the writer. Loading...\n\n    The day before the article was published, the stock price of Costco Wholesale Corporation was 127.01274871826172 and the day after the article was published, the stock price of Costco Wholesale Corporation was ",
+ "expected": "127.24102783203125",
+ "date": "2015-07-18",
+ "ticker": "COST",
+ "company": "Costco Wholesale Corporation"
+}
