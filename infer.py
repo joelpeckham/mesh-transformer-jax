@@ -22,6 +22,8 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", type=str, default=None, help="Config file location")
     parser.add_argument("--test_files", type=str, default=None, help="folder of Test files")
+    parser.add_argument("--output_dir", type=str, default="output.json", help="Output directory")
+    parser.add_argument("--limit", type=int, default=None, help="Limit the number of test files")
     args = parser.parse_args()
     return args
 
@@ -93,10 +95,10 @@ if __name__ == "__main__":
                 testFiles.append(json.load(open(filePath)))
         print(f"Found {len(testFiles)} files in {args.test_files}")
 
-        for article in testFiles[:3]:
+        outputdata = []
+        for article in testFiles[:args.limit]:
             context = article['context']
             tokens = tokenizer.encode(context)
-
             start = time.time()
 
             provided_ctx = len(tokens)
@@ -111,8 +113,9 @@ if __name__ == "__main__":
 
             for idx, o in enumerate(output[1][0][:, :, 0]):
                 article['generated'] = tokenizer.decode(o)
+                outputdata.append(article)
                 print(f"sample {idx}: {repr(tokenizer.decode(o))}")
             print(f"completion done in {time.time() - start:06}s")
         
-    with open("output.json", "w") as f:
-        json.dump(testFiles, f)
+    with open(args.output_dir, "w") as f:
+        json.dump(outputdata, f, indent=2)
