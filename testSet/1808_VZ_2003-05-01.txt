@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Cellphones Ring Out With the Help of a Steeple' was published on 2003-05-01. The body of the article is as follows:\n    \nIN June 1973, lightning struck the steeple of the United Methodist Church in the small coastal town of Ipswich, Mass. The steeple, a prominent landmark since 1860 that appears on the town's seal, was badly damaged and had to be removed. The church lacked the money for a replacement, estimated to cost more than $100,000.\n\n    The day before the article was published, the stock price of Verizon Communications Inc. was 14.079597473144531 and the day after the article was published, the stock price of Verizon Communications Inc. was ",
+ "expected": "14.373397827148438",
+ "date": "2003-05-01",
+ "ticker": "VZ",
+ "company": "Verizon Communications Inc.",
+ "url": "https://www.nytimes.com/2003/05/01/technology/cellphones-ring-out-with-the-help-of-a-steeple.html"
+}

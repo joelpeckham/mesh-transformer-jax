@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Property Prices in China May Fall Much as 15% in Next 12 Months, HSBC Says' was published on 2010-07-26. The body of the article is as follows:\n    \nChina\u2019s home prices may decline by\nas much as 15 percent in the next six to 12 months as more\nsupply becomes available, according to HSBC Holdings Plc.  \n HSBC lowered its stock recommendations on Agile Property\nHoldings Ltd., Guangzhou R&F Properties Co. and Shimao Property\nHoldings Ltd. to \u201cunderweight\u201d from \u201coverweight.\u201d The\nbrokerage cut its rating for Sino-Ocean Land Holdings Ltd. to\n\u201cunderweight\u201d from \u201cneutral.\u201d  \n It\u2019s \u201ctoo early to start bottom fishing,\u201d according to\nthe brokerage in a report. \u201cMarket indicators do not rule out\npossibility of further tightening measures.\u201d  \n To contact the reporter on this story:\nChua Kong Ho in Shanghai at \n kchua6@bloomberg.net\n\n    The day before the article was published, the stock price of HSBC Holdings, plc. was 28.345632553100586 and the day after the article was published, the stock price of HSBC Holdings, plc. was ",
+ "expected": "29.25288200378418",
+ "date": "2010-07-26",
+ "ticker": "HSBC",
+ "company": "HSBC Holdings, plc.",
+ "url": "http://www.bloomberg.com/news/2010-07-26/property-prices-in-china-may-fall-much-as-15-in-next-12-months-hsbc-says.html"
+}

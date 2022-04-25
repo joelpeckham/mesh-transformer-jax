@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'U.S. Bancorp Sees Mortgage Revenue Falling 20% in Third Quarter' was published on 2013-09-12. The body of the article is as follows:\n    \nU.S. Bancorp (USB)  expects its mortgage\nrevenue to drop 20 percent in the third quarter from the second\nperiod amid a decline in mortgage applications and mortgage\nproduction, Chief Financial Officer Andrew Cecere said.  Mortgage applications will probably decline 40 percent in\nthe three months ending Sept. 30 from the previous quarter, and\nand mortgage production will drop 20 percent, Cecere said today\nat the Minneapolis-based bank\u2019s investor day conference in New\nYork. The company\u2019s second-quarter mortgage-banking revenue was\n$396 million.  To contact the reporter on this story:\nLaura Marcinek in New York at \n lmarcinek3@bloomberg.net   To contact the editors responsible for this story:\nDavid Scheer at \n dscheer@bloomberg.net ;\n Christine Harper  at \n charper@bloomberg.net\n\n    The day before the article was published, the stock price of U.S. Bancorp was 28.96346092224121 and the day after the article was published, the stock price of U.S. Bancorp was ",
+ "expected": "29.326696395874023",
+ "date": "2013-09-12",
+ "ticker": "USB",
+ "company": "U.S. Bancorp",
+ "url": "http://www.bloomberg.com/news/2013-09-12/u-s-bancorp-sees-mortgage-revenue-falling-20-in-third-quarter.html"
+}

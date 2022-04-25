@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'In Chicago, a Test for Organized Labor' was published on 2012-09-11. The body of the article is as follows:\n    \nBusiness Day Live: What the teachers\u2019 strike in Chicago means for organized labor. | Morgan Stanley\u2019s deal with Citigroup for a brokerage.\n\n    The day before the article was published, the stock price of Morgan Stanley was 13.810893058776855 and the day after the article was published, the stock price of Morgan Stanley was ",
+ "expected": "14.484392166137695",
+ "date": "2012-09-11",
+ "ticker": "MS",
+ "company": "Morgan Stanley",
+ "url": "https://www.nytimes.com/video/business/100000001775731/business-day-live-september-11-2012.html"
+}

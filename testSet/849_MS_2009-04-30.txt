@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Morgan Stanley Chief Says No Bank Deals Imminent' was published on 2009-04-30. The body of the article is as follows:\n    \nMorgan Stanley is not likely to pursue a retail bank acquisition while it scrambles to complete its joint venture with Citigroup brokerage unit Smith Barney, the Morgan Stanley chief executive, John J. Mack, said.\n\n    The day before the article was published, the stock price of Morgan Stanley was 18.633180618286133 and the day after the article was published, the stock price of Morgan Stanley was ",
+ "expected": "20.854299545288086",
+ "date": "2009-04-30",
+ "ticker": "MS",
+ "company": "Morgan Stanley",
+ "url": "https://dealbook.blogs.nytimes.com/2009/04/30/blogs/30dealbook-morgan-s55463.html"
+}

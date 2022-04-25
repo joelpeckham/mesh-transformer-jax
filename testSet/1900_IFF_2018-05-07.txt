@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Breakingviews TV: M&A flavor flay' was published on 2018-05-07. The body of the article is as follows:\n    \nBreakingviews TV: M&A flavor flay 10:32pm IST - 03:42\nAntony Currie and Jennifer Saba sniff the air around IFF\u2019s $7 bln offer for natural-ingredients firm Frutarom and find a strange aroma. The value of cost cuts more than cover the premium \u2013 but a 5 pct return on investment doesn\u2019t pass the smell test.Company \u25b2 Hide Transcript \u25b6 View Transcript\nAntony Currie and Jennifer Saba sniff the air around IFF\u2019s $7 bln offer for natural-ingredients firm Frutarom and find a strange aroma. The value of cost cuts more than cover the premium \u2013 but a 5 pct return on investment doesn\u2019t pass the smell test. Company Press CTRL+C (Windows), CMD+C (Mac), or long-press the URL below on your mobile device to copy the code https://reut.rs/2KIuxyN\n\n    The day before the article was published, the stock price of Internationa Flavors & Fragrances, Inc. was 130.10946655273438 and the day after the article was published, the stock price of Internationa Flavors & Fragrances, Inc. was ",
+ "expected": "115.77593231201172",
+ "date": "2018-05-07",
+ "ticker": "IFF",
+ "company": "Internationa Flavors & Fragrances, Inc.",
+ "url": "https://in.reuters.com/video/2018/05/07/breakingviews-tv-ma-flavor-flay?videoId=424734804"
+}

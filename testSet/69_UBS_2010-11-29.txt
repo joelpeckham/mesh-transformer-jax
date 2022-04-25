@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Phoenix Solar Climbs in German Trading After UBS Rates Company a New `Buy'' was published on 2010-11-29. The body of the article is as follows:\n    \nPhoenix Solar AG  rose as much as 9.5\npercent in Frankfurt as UBS AG initiated coverage of the German\nmanufacturer of solar-power systems with a \u201cbuy\u201d rating.  The shares traded as high as 23.94 euros and were at 23.60,\nan 8 percent gain, at 1:46 p.m. local time. The stock was the\nbest performer on the 87-member  WilderHill New Energy Global\nInnovation Index , which declined 0.8 percent.  Sulzemoos-based Phoenix Solar trades at a 50 percent\ndiscount to its peers in terms of enterprise value and earnings,\nUBS analyst  Jean-Francois Meymandi  wrote in the report today.\nThe stock trades at about 3.8 times estimated 2011 enterprise\nvalue divided by earnings before interest and tax, he said.  Today\u2019s gain reduced the company\u2019s year-to-date loss to 44\npercent.  To contact the editor responsible for this story:\nTodd White at \n twhite2@bloomberg.net   To contact the editor responsible for this story:\nReed Landberg at \n landberg@bloomberg.net \nPS4 GR <Equity> CN\n\n    The day before the article was published, the stock price of UBS AG was 9.715375900268555 and the day after the article was published, the stock price of UBS AG was ",
+ "expected": "9.53194808959961",
+ "date": "2010-11-29",
+ "ticker": "UBS",
+ "company": "UBS AG",
+ "url": "http://www.bloomberg.com/news/2010-11-29/phoenix-solar-climbs-in-german-trading-after-ubs-rates-company-a-new-buy-.html"
+}

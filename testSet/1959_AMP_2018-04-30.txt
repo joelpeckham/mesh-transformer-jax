@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Australia's AMP says Chairwoman Catherine Brenner steps down' was published on 2018-04-30. The body of the article is as follows:\n    \nApril 30 (Reuters) - AMP announced the resignation of Chairwoman Catherine Brenner on Monday, the second senior executive at the Australian wealth manager to exit after damaging revelations at a judicial inquiry into the country\u2019s financial sector of serious misconduct at the firm.\nThe country\u2019s largest listed wealth manager said in a statement that Brenner would depart immediately, adding the board would cut all directors\u2019 fees for the rest of calendar year 2018 by a quarter.\nBrenner would be replaced by Mike Wilkins, who has been appointed executive chairman until a new chair is appointed on a permanent basis. (Reporting by Aaron Saldanha in Bengaluru; Editing by Peter Cooney)\n \n\n    The day before the article was published, the stock price of Ameriprise Financial, Inc. was 129.4031524658203 and the day after the article was published, the stock price of Ameriprise Financial, Inc. was ",
+ "expected": "126.94721984863281",
+ "date": "2018-04-30",
+ "ticker": "AMP",
+ "company": "Ameriprise Financial, Inc.",
+ "url": "https://www.reuters.com/article/amp-ltd-chairman/australias-amp-says-chairwoman-catherine-brenner-steps-down-idUSL3N1S60IQ"
+}

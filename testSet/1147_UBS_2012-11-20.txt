@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Adoboli Cleared of All False Accounting Counts, Guilty on Fraud' was published on 2012-11-20. The body of the article is as follows:\n    \nFormer  UBS AG (UBSN)  trader Kweku Adoboli\nwas found guilty of fraud related to a $2.3 billion loss, the\nlargest from unauthorized trading in British history. Jurors\ncleared Adoboli of four counts of false accounting.  To contact the reporter on this story:\nLindsay Fortado in London at \n lfortado@bloomberg.net   To contact the editor responsible for this story:\nAnthony Aarons at \n aaarons@bloomberg.net\n\n    The day before the article was published, the stock price of UBS AG was 9.781641006469727 and the day after the article was published, the stock price of UBS AG was ",
+ "expected": "9.813546180725098",
+ "date": "2012-11-20",
+ "ticker": "UBS",
+ "company": "UBS AG",
+ "url": "http://www.bloomberg.com/news/2012-11-20/adoboli-cleared-of-all-false-accounting-counts-guilty-on-fraud.html"
+}

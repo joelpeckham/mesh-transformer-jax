@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'BRIEF-Roche Holding Ag Says \u200dRoche And Ge Enter Partnership To Develop Integrated Digital Diagnostics\u200b' was published on 2018-01-08. The body of the article is as follows:\n    \nJan 8 (Reuters) - Roche Holding Ag:\n* SAYS \u200dROCHE AND GE ENTER PARTNERSHIP TO DEVELOP INTEGRATED DIGITAL DIAGNOSTICS\u200b Source text for Eikon: Further company coverage: (Reporting By Zurich newsroom)\n \n\n    The day before the article was published, the stock price of General Electric Company was 137.00160217285156 and the day after the article was published, the stock price of General Electric Company was ",
+ "expected": "137.1494140625",
+ "date": "2018-01-08",
+ "ticker": "GE",
+ "company": "General Electric Company",
+ "url": "https://www.reuters.com/article/brief-roche-holding-ag-says-roche-and-ge/brief-roche-holding-ag-says-roche-and-ge-enter-partnership-to-develop-integrated-digital-diagnostics-idUSFWN1P301D"
+}

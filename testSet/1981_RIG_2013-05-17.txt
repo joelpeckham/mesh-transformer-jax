@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Transocean Shareholders Said to Reject Icahn\u2019s $4 Dividend Plan' was published on 2013-05-17. The body of the article is as follows:\n    \nTransocean Ltd. (RIG)  shareholders voted in\nfavor of the company\u2019s $2.24-a-share annual dividend, rejecting\na $4 proposal brought by billionaire investor  Carl Icahn , a\nperson familiar with the vote count said.  More than 75 percent of all voted shares were in favor of\nthe company\u2019s dividend, said the person who asked not to be\nidentified because the voting results aren\u2019t public yet.\nTransocean is holding an annual shareholder meeting today in\nSwitzerland.  To contact the editor responsible for this story:\nTina Davis at \n tinadavis@bloomberg.net\n\n    The day before the article was published, the stock price of Transocean Ltd (Switzerland) was 46.24087142944336 and the day after the article was published, the stock price of Transocean Ltd (Switzerland) was ",
+ "expected": "45.28614807128906",
+ "date": "2013-05-17",
+ "ticker": "RIG",
+ "company": "Transocean Ltd (Switzerland)",
+ "url": "http://www.bloomberg.com/news/2013-05-17/transocean-shareholders-said-to-reject-icahn-s-4-dividend-plan.html"
+}

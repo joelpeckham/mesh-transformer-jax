@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'North Sea Troll Crude July Exports to Be Unchanged at 14 Cargoes' was published on 2012-06-06. The body of the article is as follows:\n    \nExports of North Sea Troll crude in\nJuly will be unchanged from June at 14 cargoes, a final shipping\nprogram obtained by Bloomberg News showed.  Troll exports will total 8.4 million barrels, or 270,968\nbarrels a day, compared with 280,000 barrels a day for June,\naccording to the plan.  Statoil ASA (STL) ,  Norway \u2019s largest oil company, operates the\nfield. Loading programs are monthly schedules of crude shipments\ncompiled by field operators to allow buyers and sellers to plan\ntheir supply and trading activities.  To contact the reporter on this story:\nSherry Su in London at \n lsu23@bloomberg.net   To contact the editor responsible for this story:\nStephen Voss at \n sev@bloomberg.net\n\n    The day before the article was published, the stock price of ASA  Gold and Precious Metals Limited was 22.096494674682617 and the day after the article was published, the stock price of ASA  Gold and Precious Metals Limited was ",
+ "expected": "21.64961814880371",
+ "date": "2012-06-06",
+ "ticker": "ASA",
+ "company": "ASA  Gold and Precious Metals Limited",
+ "url": "http://www.bloomberg.com/news/2012-06-06/north-sea-troll-crude-july-exports-to-be-unchanged-at-14-cargoes.html"
+}

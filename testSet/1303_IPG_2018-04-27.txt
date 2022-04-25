@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Ad firm Interpublic's revenue rises 5 pct' was published on 2018-04-27. The body of the article is as follows:\n    \n(Reuters) - Interpublic Group of Cos Inc ( IPG.N ) reported a 5 percent rise in quarterly net revenue on Friday, as the advertising company benefited from higher client spending in the United States.\nThe company reported a net loss available to IPG Common stockholders of $14.1 million, or 4 cents per share, in the first quarter ended March 31, compared with a profit of $24.7 million, or 6 cents per share, a year earlier.\nNet revenue rose to $2.17 billion from $2.06 billion.\nReporting by Shariq Khan in Bengaluru; Editing by Maju Samuel\n \n\n    The day before the article was published, the stock price of Interpublic Group of Companies, Inc. (The) was 20.95452880859375 and the day after the article was published, the stock price of Interpublic Group of Companies, Inc. (The) was ",
+ "expected": "20.18445587158203",
+ "date": "2018-04-27",
+ "ticker": "IPG",
+ "company": "Interpublic Group of Companies, Inc. (The)",
+ "url": "https://www.reuters.com/article/us-interpublic-grp-results/ad-firm-interpublics-revenue-rises-5-percent-idUSKBN1HY1HJ"
+}

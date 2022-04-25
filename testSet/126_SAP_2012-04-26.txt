@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'SAP\u2019s Cloud Computing May Not Be Profitable by 2013, Welt Says' was published on 2012-04-26. The body of the article is as follows:\n    \nSAP AG (SAP) \u2019s cloud-computing business\nwon\u2019t be profitable this year,  Welt  said, citing an interview\nwith Chief Financial Officer Werner Brandt.  It\u2019s too early to say whether the business, software sold\nas an on-demand service, will be profitable by 2013, Werner\nsaid, according to the German newspaper.  To contact the reporter on this story:\nSheenagh Matthews in Frankfurt at \n smatthews6@bloomberg.net   To contact the editor responsible for this story:\nBenedikt Kammel at \n bkammel@bloomberg.net\n\n    The day before the article was published, the stock price of SAP AG ADS was 56.02252960205078 and the day after the article was published, the stock price of SAP AG ADS was ",
+ "expected": "56.64255905151367",
+ "date": "2012-04-26",
+ "ticker": "SAP",
+ "company": "SAP AG ADS",
+ "url": "http://www.bloomberg.com/news/2012-04-26/sap-s-cloud-computing-may-not-be-profitable-by-2013-welt-says.html"
+}

@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'BRIEF-Teva Announces Launch Of An Authorized Generic Of Estrace Cream In The U.S.' was published on 2018-01-02. The body of the article is as follows:\n    \nJanuary 2, 2018 / 7:51 PM / Updated 9 minutes ago BRIEF-Teva Announces Launch Of An Authorized Generic Of Estrace Cream In The U.S. Reuters Staff 1 Min Read \nJan 2 (Reuters) - Teva Pharmaceutical Industries Ltd : \n* TEVA ANNOUNCES LAUNCH OF AN AUTHORIZED GENERIC OF ESTRACE\u00ae CREAM IN THE UNITED STATES Source text for Eikon: Further company coverage:\n\n    The day before the article was published, the stock price of Teva Pharmaceutical Industries was 18.950000762939453 and the day after the article was published, the stock price of Teva Pharmaceutical Industries was ",
+ "expected": "19.1299991607666",
+ "date": "2018-01-02",
+ "ticker": "TEVA",
+ "company": "Teva Pharmaceutical Industries",
+ "url": "https://www.reuters.com/article/brief-teva-announces-launch-of-an-author/brief-teva-announces-launch-of-an-authorized-generic-of-estrace-cream-in-the-u-s-idUSASB0BZHA"
+}

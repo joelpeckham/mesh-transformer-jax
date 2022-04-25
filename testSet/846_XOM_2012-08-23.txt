@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Chad to Increase Doba Crude Exports for October to Four Cargoes' was published on 2012-08-23. The body of the article is as follows:\n    \nChad plans to export four cargoes of\nDoba crude in October including one lot deferred from September,\naccording to a loading program obtained by  Bloomberg News .  Shipments in September were revised down to three\nconsignments from four, the plan showed. All cargoes are for\n950,000 barrels each.  Exxon Mobil Corp. (XOM)  operates the field. Loading programs are\nmonthly schedules of crude shipments compiled by field operators\nto allow buyers and sellers to plan their supply and trading\nactivities.  To contact the reporter on this story:\nSherry Su in London at \n lsu23@bloomberg.net   To contact the editor responsible for this story:\nStephen Voss at \n sev@bloomberg.net\n\n    The day before the article was published, the stock price of Exxon Mobil Corporation was 59.348846435546875 and the day after the article was published, the stock price of Exxon Mobil Corporation was ",
+ "expected": "59.56532287597656",
+ "date": "2012-08-23",
+ "ticker": "XOM",
+ "company": "Exxon Mobil Corporation",
+ "url": "http://www.bloomberg.com/news/2012-08-23/chad-to-increase-doba-crude-exports-for-october-to-four-cargoes.html"
+}

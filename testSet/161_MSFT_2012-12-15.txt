@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'A Political Brawler, Now Battling for Microsoft' was published on 2012-12-15. The body of the article is as follows:\n    \nSEATTLE \u2014 Mark Penn made a name for himself in Washington by bulldozing enemies of the Clintons. Now he spends his days trying to do the same to Google, on behalf of its archrival Microsoft. \n\n    The day before the article was published, the stock price of Microsoft Corporation was 22.313932418823242 and the day after the article was published, the stock price of Microsoft Corporation was ",
+ "expected": "22.55529022216797",
+ "date": "2012-12-15",
+ "ticker": "MSFT",
+ "company": "Microsoft Corporation",
+ "url": "https://www.nytimes.com/2012/12/15/technology/microsoft-battles-google-by-hiring-political-brawler-mark-penn.html"
+}

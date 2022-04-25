@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Higher prescription sales boost CVS results' was published on 2018-05-02. The body of the article is as follows:\n    \nHigher prescription sales boost CVS results 11:14am EDT - 00:55\nStrong sales of prescription drugs and higher prices for branded pharmaceuticals drove revenue higher at CVS. As Fred Katayama reports, the new tax law helped lift the drug store chain's profit.\nStrong sales of prescription drugs and higher prices for branded pharmaceuticals drove revenue higher at CVS. As Fred Katayama reports, the new tax law helped lift the drug store chain's profit. //reut.rs/2FBgxmM\n\n    The day before the article was published, the stock price of CVS Caremark Corporation was 61.259822845458984 and the day after the article was published, the stock price of CVS Caremark Corporation was ",
+ "expected": "56.0977783203125",
+ "date": "2018-05-02",
+ "ticker": "CVS",
+ "company": "CVS Caremark Corporation",
+ "url": "https://www.reuters.com/video/2018/05/02/higher-prescription-sales-boost-cvs-resu?videoId=423245120"
+}

@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'French city rolls out app for reporting crime' was published on 2018-01-25. The body of the article is as follows:\n    \nFrench city rolls out app for reporting crime Thursday, January 25, 2018 - 01:22 \nThe French Riviera city of Nice is pilot-testing a mobile phone app that will allow people to record and report crimes to local police in a matter of seconds. Saskia O'Donoghue reports.   \nThe French Riviera city of Nice is pilot-testing a mobile phone app that will allow people to record and report crimes to local police in a matter of seconds. Saskia O'Donoghue reports.  //reut.rs/2nbocRL\n\n    The day before the article was published, the stock price of NICE-Systems Limited was 91.9000015258789 and the day after the article was published, the stock price of NICE-Systems Limited was ",
+ "expected": "92.27999877929688",
+ "date": "2018-01-25",
+ "ticker": "NICE",
+ "company": "NICE-Systems Limited",
+ "url": "https://in.reuters.com/video/2018/01/25/french-city-rolls-out-app-for-reporting?videoId=388616263"
+}

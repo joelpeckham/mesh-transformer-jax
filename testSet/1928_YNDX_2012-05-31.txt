@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Yandex Starts Music Application for iPhone, Vedomosti Reports' was published on 2012-05-31. The body of the article is as follows:\n    \nYandex NV (YNDX) , Russia\u2019s most popular\nsearch engine, started its first for-pay music application for\nApple Inc.\u2019s iPhone and plans to begin one for Google Inc.\u2019s\nAndroid platform soon,  Vedomosti  reported today, citing\nKonstantin Vorontsov, the head of the project.  To contact the reporter on this story:\nYuliya Fedorinova in Moscow at \n yfedorinova@bloomberg.net   To contact the editor responsible for this story:\nJohn Viljoen at \n jviljoen@bloomberg.net\n\n    The day before the article was published, the stock price of Yandex N.V. was 20.420000076293945 and the day after the article was published, the stock price of Yandex N.V. was ",
+ "expected": "18.489999771118164",
+ "date": "2012-05-31",
+ "ticker": "YNDX",
+ "company": "Yandex N.V.",
+ "url": "http://www.bloomberg.com/news/2012-05-31/yandex-starts-music-application-for-iphone-vedomosti-reports.html"
+}

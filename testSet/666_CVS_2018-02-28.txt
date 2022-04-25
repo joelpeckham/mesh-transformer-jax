@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'CORRECTED-Express Scripts would look at Medicare pharmacy drug plan deals' was published on 2018-02-28. The body of the article is as follows:\n    \nFebruary 28, 2018 / 2:50 PM / in 35 minutes CORRECTED-Express Scripts would look at Medicare pharmacy drug plan deals Reuters Staff 1 Min Read (Corrects to fourth quarter from first quarter in second paragraph) NEW YORK, Feb 28 (Reuters) - Express Scripts Holding Co would take a look at any Medicare pharmacy drug plans up that go up for sale including those of Aetna Inc or CVS Health Corp as its rivals seek antitrust approvals on their $69 billion deal, Express Chief Executive Officer Tim Wentworth said on Wednesday. Wentworth, the morning after the company reported higher fourth-quarter profit, was speaking to Wall Street analysts about its interest in expanding managing the pharmacy benefits provided under the Medicare program for older or disabled people. \u201cIf a meaningful book of business is coming to the market, we would take a look,\u201d Wentworth said. Wall Street analysts have speculated CVS and Aetna will need to sell some plans to please antitrust regulators. Neither company was immediately available for comment. (Reporting by Caroline Humer Editing by Chizu Nomiyama)\n\n    The day before the article was published, the stock price of CVS Caremark Corporation was 61.018253326416016 and the day after the article was published, the stock price of CVS Caremark Corporation was ",
+ "expected": "60.034812927246094",
+ "date": "2018-02-28",
+ "ticker": "CVS",
+ "company": "CVS Caremark Corporation",
+ "url": "https://www.reuters.com/article/express-scripts-results-ceo/express-scripts-would-look-at-medicare-pharmacy-drug-plan-deals-idUSL2N1QI0UD"
+}

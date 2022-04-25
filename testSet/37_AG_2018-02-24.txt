@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'BRIEF-Marianne Heiss to Audi AG Supervisory Board' was published on 2018-02-24. The body of the article is as follows:\n    \nFeb 23 (Reuters) - Audi Ag:\n* \u200dNOMINATION OF MARIANNE HEISS AS A MEMBER OF SUPERVISORY BOARD OF AUDI AG\u200b Further company coverage: (Reporting By Douglas Busvine)\n \n\n    The day before the article was published, the stock price of First Majestic Silver Corp. was 5.56351900100708 and the day after the article was published, the stock price of First Majestic Silver Corp. was ",
+ "expected": "5.593483924865723",
+ "date": "2018-02-24",
+ "ticker": "AG",
+ "company": "First Majestic Silver Corp.",
+ "url": "https://www.reuters.com/article/brief-marianne-heiss-to-audi-ag-supervis/brief-marianne-heiss-to-audi-ag-supervisory-board-idUSFWN1QD1E0"
+}

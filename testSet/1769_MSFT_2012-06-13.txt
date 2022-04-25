@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Q&A: Do-It-Yourself Templates for Microsoft Word' was published on 2012-06-13. The body of the article is as follows:\n    \nQ.\n\n    The day before the article was published, the stock price of Microsoft Corporation was 24.020212173461914 and the day after the article was published, the stock price of Microsoft Corporation was ",
+ "expected": "24.06121826171875",
+ "date": "2012-06-13",
+ "ticker": "MSFT",
+ "company": "Microsoft Corporation",
+ "url": "https://gadgetwise.blogs.nytimes.com/2012/06/13/qa-do-it-yourself-templates-for-microsoft-word/"
+}

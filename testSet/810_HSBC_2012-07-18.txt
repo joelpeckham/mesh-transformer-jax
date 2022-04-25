@@ -1,0 +1,8 @@
+{
+ "context": "The following article called '`Fundamental Conflict' in Bank Regulation, O'Brien Says' was published on 2012-07-18. The body of the article is as follows:\n    \nJustin O'Brien, a professor and \ndirector of the Centre for Law, Markets & Regulation at the \nUniversity of New South Wales, talks about the Barclays \nLibor-rate fixing scandal and the Congressional probe into HSBC \nHoldings Plc.\u00b6  O'Brien speaks with Mia Saini on Bloomberg Television's \n\"On the Move Asia.\" (Source: Bloomberg)  Running Time: 04:53\n\n    The day before the article was published, the stock price of HSBC Holdings, plc. was 26.684288024902344 and the day after the article was published, the stock price of HSBC Holdings, plc. was ",
+ "expected": "26.5794734954834",
+ "date": "2012-07-18",
+ "ticker": "HSBC",
+ "company": "HSBC Holdings, plc.",
+ "url": "http://www.bloomberg.com/news/2012-07-18/-fundamental-conflict-in-bank-regulation-o-brien-says-video-.html"
+}

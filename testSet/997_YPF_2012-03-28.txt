@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'YPF Denies Newspaper Report on 12% Fuel Prices Increase in 2012' was published on 2012-03-28. The body of the article is as follows:\n    \nYPF SA (YPFD) ,  Argentina \u2019s largest energy\ncompany, denied a report by newspaper La Nacion that it\nincreased fuel prices by as much as 12 percent this year.  Most of YPF\u2019s more than 1,500 gas stations haven\u2019t\nincreased fuel prices, apart from diesel, since August,\naccording to a company official who declined to be named because\nof corporate policy.  Some stations increased prices to reduce the price\ndifference with the competition, the official said.  To contact the reporter on this story:\nRodrigo Orihuela in Rio de Janeiro at \n rorihuela@bloomberg.net   To contact the editor responsible for this story:\nDale Crofts at \n dcrofts@bloomberg.net\n\n    The day before the article was published, the stock price of YPF Sociedad Anonima was 25.699405670166016 and the day after the article was published, the stock price of YPF Sociedad Anonima was ",
+ "expected": "26.883798599243164",
+ "date": "2012-03-28",
+ "ticker": "YPF",
+ "company": "YPF Sociedad Anonima",
+ "url": "http://www.bloomberg.com/news/2012-03-28/ypf-denies-newspaper-report-on-12-fuel-prices-increase-in-2012.html"
+}

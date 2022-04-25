@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'UBS Recommends Selling Sterling Against the Dollar, Sees at Least $1.40' was published on 2010-07-12. The body of the article is as follows:\n    \nInvestors should sell the pound\nagainst the dollar, betting the U.K. currency will depreciate to\n$1.40, according to UBS AG.  \n \u201cThere  are seven re asons to sell sterling,\u201d  Gareth Berry ,\na strategist in Singapore, wrote in an e-mailed report received\ntoday. Among the reasons, \u201cthe rest of the Bank of England\nMonetary Policy Committee is unlikely to join Andrew Sentance in\nvoting for rate hikes,\u201d he said. \u201cThe beneficial impact of\nlast month\u2019s budget has now been priced into sterling. Third,\nthe scale of the budget cuts forecast for the next four years\nwill undermine growth.\u201d  \n The pound declined 0.7 percent to $1.4963 as of 7:46 a.m.\nin London, falling to less than $1.50 for the first time since\nJuly 1.  \n UBS said investors should end the trade should the U.K.\ncurrency climb to more than $1.5270.  \n For Related News and Information:\nTop Stories:TOP&lt;GO&gt;  \n To contact the reporter on this story:\nDaniel Tilles in London at \n dtilles@bloomberg.net\n\n    The day before the article was published, the stock price of UBS AG was 9.152442932128906 and the day after the article was published, the stock price of UBS AG was ",
+ "expected": "9.399121284484863",
+ "date": "2010-07-12",
+ "ticker": "UBS",
+ "company": "UBS AG",
+ "url": "http://www.bloomberg.com/news/2010-07-12/ubs-recommends-selling-sterling-against-the-dollar-sees-at-least-1-40.html"
+}

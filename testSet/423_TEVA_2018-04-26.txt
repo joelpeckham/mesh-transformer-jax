@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Teva to reduce size of board after June shareholder's' meeting' was published on 2018-04-26. The body of the article is as follows:\n    \nJERUSALEM, April 26 (Reuters) - Three directors are stepping down from the board at Teva Pharmaceutical Industries and only one new director is being nominated to replace them, the generic drugmaker said on Thursday.\nRonit Satchi-Fainaro, a Tel Aviv University professor who heads the Cancer Research and Nanomedicine Laboratory, will be the only new nominee at a June 5 shareholders meeting, the company said in a statement.\nCurrent directors Galia Maor, Gabrielle Sulzberger and Dan Suesskind will not submit their candidacy for reelection. This will leave the board with 11 members, down from the current 13.\nTeva, the world\u2019s largest generic drugmaker, is in the midst of a structural overhaul to help deal with its massive debt. (Reporting by Ari Rabinovitch; Editing by Tova Cohen)\n \n\n    The day before the article was published, the stock price of Teva Pharmaceutical Industries was 17.270000457763672 and the day after the article was published, the stock price of Teva Pharmaceutical Industries was ",
+ "expected": "17.829999923706055",
+ "date": "2018-04-26",
+ "ticker": "TEVA",
+ "company": "Teva Pharmaceutical Industries",
+ "url": "https://www.reuters.com/article/teva-pharm-ind-board/teva-to-reduce-size-of-board-after-june-shareholders-meeting-idUSL8N1S32OY"
+}

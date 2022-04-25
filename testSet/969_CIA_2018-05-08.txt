@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Records on CIA nominee will not be made public: key U.S. lawmaker' was published on 2018-05-08. The body of the article is as follows:\n    \nWASHINGTON (Reuters) - CIA records on Gina Haspel, President Donald Trump\u2019s nominee to be the intelligence agency\u2019s next director, will not be made public, Senator Richard Burr, the Republican chairman of the Senate Intelligence Committee, said on Tuesday.\nNominee to be Director of the Central Intelligence Agency Gina Haspel arrives for a meeting with Senator Dianne Feinstein (D-CA) on Capitol Hill in Washington, U.S., May 7, 2018. REUTERS/Joshua Roberts Burr\u2019s committee will conduct on Wednesday a confirmation hearing for Haspel, the former deputy director of the CIA now serving as acting director. Ahead of the hearing, some Democrats have called for the release of more information about Haspel\u2019s record at the CIA, including any possible links to interrogation practices denounced as torture.\nReporting by Richard Cowan and Patricia Zengerle; Editing by Phil Berlowitz\n \n\n    The day before the article was published, the stock price of Citizens, Inc. was 7.789999961853027 and the day after the article was published, the stock price of Citizens, Inc. was ",
+ "expected": "7.900000095367432",
+ "date": "2018-05-08",
+ "ticker": "CIA",
+ "company": "Citizens, Inc.",
+ "url": "https://www.reuters.com/article/us-usa-trump-haspel-senate/records-on-cia-nominee-will-not-be-made-public-key-u-s-lawmaker-idUSKBN1I92OF"
+}

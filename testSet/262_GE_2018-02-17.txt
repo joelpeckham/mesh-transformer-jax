@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Shareholders sue GE over SEC investigation, insurance charges' was published on 2018-02-17. The body of the article is as follows:\n    \nNEW YORK, Feb 16 (Reuters) - Shareholders filed a proposed class-action lawsuit against General Electric Co on Friday, alleging the industrial conglomerate made misleading statements and failed to disclose information about an accounting investigation and about insurance policies that cost the company billions of dollars.\nThe lawsuit filed by the Cleveland Bakers and Teamsters Pension Fund also names the current and former chief executives and chief financial officers of the company, and says the actions caused GE stock to trade \u201cat artificially-inflated levels\u201d between February 26, 2013 and January 24, 2018.\nGE had no immediate comment. (Reporting by Alwyn Scott and Jonathan Stempel, Editing by Franklin Paul)\n \n\n    The day before the article was published, the stock price of General Electric Company was 111.2121810913086 and the day after the article was published, the stock price of General Electric Company was ",
+ "expected": "108.92142486572266",
+ "date": "2018-02-17",
+ "ticker": "GE",
+ "company": "General Electric Company",
+ "url": "https://www.reuters.com/article/ge-lawsuit/shareholders-sue-ge-over-sec-investigation-insurance-charges-idUSL2N1Q60Z3"
+}

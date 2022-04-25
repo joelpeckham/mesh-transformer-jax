@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Ford's China vehicle sales in February fall 30 pct y/y' was published on 2018-03-09. The body of the article is as follows:\n    \nBEIJING, March 9 (Reuters) - Ford Motor Co said on Friday its vehicle sales in China fell 30 percent in February from a year earlier, as it continued to struggle in the world\u2019s largest auto market.\nThe U.S. automaker, whose sales in January fell 18 percent year-on-year, said sales volume last month totaled 47,483 vehicles.\nSales volume in the first two months of the year totaled 123,473 vehicles, down 23 percent from the same period a year ago.\nFord officials have attributed the weak start to 2018 to the dearth of new or significantly redesigned car models in its product pipeline - a factor that has weighed on the company\u2019s business at least since early 2017.\nFord does not expect new products to start hitting the market in China till the first quarter of next year. (Reporting By Norihiko Shirouzu Editing by Shri Navaratnam)\n \n\n    The day before the article was published, the stock price of Forward Industries, Inc. was 1.659999966621399 and the day after the article was published, the stock price of Forward Industries, Inc. was ",
+ "expected": "1.600000023841858",
+ "date": "2018-03-09",
+ "ticker": "FORD",
+ "company": "Forward Industries, Inc.",
+ "url": "https://www.reuters.com/article/china-autos-ford/fords-china-vehicle-sales-in-february-fall-30-pct-y-y-idUSB9N1QJ014"
+}

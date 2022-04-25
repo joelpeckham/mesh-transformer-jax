@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Ex-UBS Banker Stephanou Gets No More Prison Time in Trading Case' was published on 2010-12-22. The body of the article is as follows:\n    \nEx-UBS AG investment banker Nicos\nStephanou, formerly an associate director of mergers and\nacquisitions at the Zurich-based company, will serve no more\ntime after testifying for prosecutors at an insider-trading\ntrial, a judge ruled.  Stephanou, sentenced today in federal court in New York,\nwas the government\u2019s star witness in the trial of Joseph\nContorinis, a former money manager at Jefferies Paragon Fund\nconvicted in October in an insider-trading scheme that\nprosecutors said netted more than $7 million in illegal profits.\nStephanou spent 19 months in custody after his arrest.  To contact the reporter on this story:\nDavid Glovin in New York at \n dglovin@bloomberg.net   To contact the editor responsible for this story:\nCharles Carter at \n ccarter12@bloomberg.net\n\n    The day before the article was published, the stock price of UBS AG was 10.278310775756836 and the day after the article was published, the stock price of UBS AG was ",
+ "expected": "10.417465209960938",
+ "date": "2010-12-22",
+ "ticker": "UBS",
+ "company": "UBS AG",
+ "url": "http://www.bloomberg.com/news/2010-12-22/ex-ubs-banker-stephanou-gets-no-added-prison-time-in-insider-trading-case.html"
+}

@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Officer Admits He Faked Claim About McDonald\u2019s Coffee Cup Insult' was published on 2019-12-31. The body of the article is as follows:\n    \nA police officer in Kansas resigned on Monday after admitting he had fabricated a story that a McDonald\u2019s employee wrote a vulgar insult on his coffee cup. \n\n    The day before the article was published, the stock price of McDonald's Corporation was 187.81661987304688 and the day after the article was published, the stock price of McDonald's Corporation was ",
+ "expected": "191.51742553710938",
+ "date": "2019-12-31",
+ "ticker": "MCD",
+ "company": "McDonald's Corporation",
+ "url": "https://www.nytimes.com/2019/12/31/us/police-mcdonalds-coffee.html"
+}

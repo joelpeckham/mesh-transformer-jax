@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'About That IRS Computer Crash' was published on 2018-04-19. The body of the article is as follows:\n    \nSomeone at the Internal Revenue Service seems to have kicked a plug out of the wall on Tuesday: The agency\u2019s computer system tanked on, of all days, tax filing deadline day. Thus arrived an irresistible metaphor for government incompetence, albeit with the perennial calls for more funding.\nMany taxpayers arrived at the IRS website on Tuesday prepared to sign away significant portions of their income. According to news stories, a message greeted them that the IRS website had a \u201cplanned outage\u201d from April 17, 2018 to \u201cDecember... \n\n    The day before the article was published, the stock price of IRSA Inversiones Y Representaciones S.A. was 25.030000686645508 and the day after the article was published, the stock price of IRSA Inversiones Y Representaciones S.A. was ",
+ "expected": "24.0",
+ "date": "2018-04-19",
+ "ticker": "IRS",
+ "company": "IRSA Inversiones Y Representaciones S.A.",
+ "url": "https://www.wsj.com/articles/about-that-irs-computer-crash-1524092020"
+}

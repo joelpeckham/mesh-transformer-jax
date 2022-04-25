@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'BA Parent Mulls Bid for Norwegian Air, as Trans-Atlantic Budget Travel Booms' was published on 2018-04-12. The body of the article is as follows:\n    \nLONDON\u2014British Airways parent IAG SA has built a small stake in Norwegian Air Shuttle ASA and is considering a full takeover\u2014doubling down on the booming market for trans-Atlantic budget travel.\nInternational Consolidated Airlines Group, as IAG is formally known, said Thursday it had taken a 4.61% stake, valued at around $41 million, in Norwegian.\nThe... \n\n    The day before the article was published, the stock price of Iamgold Corporation was 5.429999828338623 and the day after the article was published, the stock price of Iamgold Corporation was ",
+ "expected": "5.579999923706055",
+ "date": "2018-04-12",
+ "ticker": "IAG",
+ "company": "Iamgold Corporation",
+ "url": "https://www.wsj.com/articles/ba-parent-mulls-bid-for-norwegian-air-as-trans-atlantic-budget-travel-booms-1523532385"
+}

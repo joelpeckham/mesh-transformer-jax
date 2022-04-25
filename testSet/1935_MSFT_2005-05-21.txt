@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Google This: Is Microsoft Still a Bully?' was published on 2005-05-21. The body of the article is as follows:\n    \nNOT long ago, I went to Washington for a dinner given by a friend. She wanted to commemorate the fifth anniversary of the end of the Microsoft antitrust trial, which she had covered for a news agency and I had covered for Fortune magazine.\n\n    The day before the article was published, the stock price of Microsoft Corporation was 18.440448760986328 and the day after the article was published, the stock price of Microsoft Corporation was ",
+ "expected": "18.519250869750977",
+ "date": "2005-05-21",
+ "ticker": "MSFT",
+ "company": "Microsoft Corporation",
+ "url": "https://www.nytimes.com/2005/05/21/technology/google-this-is-microsoft-still-a-bully.html"
+}

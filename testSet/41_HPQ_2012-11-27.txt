@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'HP Says It Has Evidence of Accounting Improprieties' was published on 2012-11-27. The body of the article is as follows:\n    \nHewlett-Packard Co. (HPQ)  said it\u2019s\nconducting an \u201cintense\u201d internal investigation and has\nuncovered extensive evidence of improper accounting at Autonomy\nCorp., a software company it bought last year.  Responding to a letter by former Autonomy Chief Executive\nOfficer Mike Lynch calling on Hewlett-Packard\u2019s board to explain\nits allegations, Hewlett-Packard said that the matter was now in\nthe \u201chands of authorities.\u201d  \u201cWhile Dr. Lynch is eager for a debate, we believe the\nlegal process is the correct method in which to bring out the\nfacts and take action on behalf of our shareholders,\u201d Hewlett-\nPackard said in an e-mailed statement.  To contact the reporter on this story:\nAaron Ricadela in San Francisco at \n aricadela@bloomberg.net   To contact the editor responsible for this story:\nReed Stevenson at \n rstevenson15@bloomberg.net\n\n    The day before the article was published, the stock price of Hewlett-Packard Company was 4.439422607421875 and the day after the article was published, the stock price of Hewlett-Packard Company was ",
+ "expected": "4.435937881469727",
+ "date": "2012-11-27",
+ "ticker": "HPQ",
+ "company": "Hewlett-Packard Company",
+ "url": "http://www.bloomberg.com/news/2012-11-27/hp-says-it-has-evidence-of-accounting-improprieties.html"
+}

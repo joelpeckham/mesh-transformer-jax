@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'First Solar Plans to Reduce Panel Production at German Factory' was published on 2012-02-09. The body of the article is as follows:\n    \nFirst Solar Inc. (FSLR) , the world\u2019s biggest\nmaker of thin-film solar panels, plans to reduce production at\nits factory in Germany as declining subsidies reduce European\ndemand.  First Solar applied for government assistance to help\noffset the loss of income for the 1,200 employees in Germany who\nwill be placed on a part-time work schedule, said  Alan Bernheimer , a spokesman for the Tempe, Arizona-based company.  First Solar last year doubled capacity at the factory to\n500 megawatts of panels annually, and plans to cut output in\nhalf for six months starting in March, once the government\nassistance is approved, he said.  \u201cThis was part of our 2012 guidance to scale back to 80\npercent of our global production capacity,\u201d Bernheimer said\ntoday in a telephone interview.  First Solar rose 7 percent to $49.03 at the close in  New\nYork . The shares have gained 45 percent this year.  To contact the reporter on this story:\nChristopher Martin in New York at \n cmartin11@bloomberg.net .  To contact the editor responsible for this story:\nReed Landberg at   landberg@bloomberg.net .\n\n    The day before the article was published, the stock price of First Solar, Inc. was 45.810001373291016 and the day after the article was published, the stock price of First Solar, Inc. was ",
+ "expected": "43.90999984741211",
+ "date": "2012-02-09",
+ "ticker": "FSLR",
+ "company": "First Solar, Inc.",
+ "url": "http://www.bloomberg.com/news/2012-02-09/first-solar-plans-to-reduce-panel-production-at-german-factory.html"
+}

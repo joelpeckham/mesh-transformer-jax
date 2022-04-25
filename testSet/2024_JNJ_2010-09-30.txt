@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Official Says J.&J. Plants Had Widespread Failings' was published on 2010-09-30. The body of the article is as follows:\n    \nA top official at the Food and Drug Administration told lawmakers on Thursday that quality control failures at the Johnson & Johnson unit involved in the recalls of popular medications like children\u2019s liquid Tylenol were not isolated to one plant, but were far more widespread. \n\n    The day before the article was published, the stock price of Johnson & Johnson was 44.93447494506836 and the day after the article was published, the stock price of Johnson & Johnson was ",
+ "expected": "44.530643463134766",
+ "date": "2010-09-30",
+ "ticker": "JNJ",
+ "company": "Johnson & Johnson",
+ "url": "https://www.nytimes.com/2010/10/01/business/01drug.html"
+}

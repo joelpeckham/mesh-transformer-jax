@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Web Site Down? How Dare You!' was published on 2013-08-19. The body of the article is as follows:\n    \nSEATTLE \u2014 On occasion, I visit a small store in my neighborhood only to find a sign saying the store is closed for an hour or so. It\u2019s mildly irritating, but it has never occurred to me that those moments are worth freaking out over.\n\n    The day before the article was published, the stock price of Microsoft Corporation was 27.062719345092773 and the day after the article was published, the stock price of Microsoft Corporation was ",
+ "expected": "26.909536361694336",
+ "date": "2013-08-19",
+ "ticker": "MSFT",
+ "company": "Microsoft Corporation",
+ "url": "https://bits.blogs.nytimes.com/2013/08/19/web-site-down-how-dare-you/"
+}

@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Bristol-Myers Squibb Enters Drug Licensing Deal With Danish Biotechnology Firm' was published on 2015-03-04. The body of the article is as follows:\n    \nLONDON \u2014 The Danish biotechnology company Bavarian Nordic said on Wednesday that it could receive up to $975 million under a licensing agreement with Bristol-Myers Squibb for Prostvac, a treatment for advanced prostate cancer that is in clinical trials.\n\n    The day before the article was published, the stock price of Bristol-Myers Squibb Company was 51.20795822143555 and the day after the article was published, the stock price of Bristol-Myers Squibb Company was ",
+ "expected": "54.62347412109375",
+ "date": "2015-03-04",
+ "ticker": "BMY",
+ "company": "Bristol-Myers Squibb Company",
+ "url": "https://www.nytimes.com/2015/03/05/business/dealbook/bristol-myers-squibb-enters-drug-licensing-deal-with-danish-biotechnology-firm.html"
+}

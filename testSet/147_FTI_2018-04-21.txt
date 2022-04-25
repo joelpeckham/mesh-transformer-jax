@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Dundee Energy Ltd Announces Sale Of Assets Of Dundee Energy Ltd Partnership' was published on 2018-04-21. The body of the article is as follows:\n    \nApril 20 (Reuters) - Dundee Energy Ltd:\n* DUNDEE ENERGY LIMITED ANNOUNCES SALE OF ASSETS OF DUNDEE ENERGY LIMITED PARTNERSHIP\n* DUNDEE ENERGY - IDENTIFIED PURCHASER FOR SUBSTANTIALLY ALL OF DOGL\u2019S, DELP\u2019S ASSETS AND PROPERTY AND NEGOTIATED AGREEMENT WITH THAT PURCHASER\n* DUNDEE ENERGY LTD - DOGL AND DELP EXECUTED AGREEMENT NEGOTIATED BY FTI Source text for Eikon: Further company coverage: (Reuters.Briefs@thomsonreuters.com)\n \n\n    The day before the article was published, the stock price of FMC Technologies, Inc. was 23.08361053466797 and the day after the article was published, the stock price of FMC Technologies, Inc. was ",
+ "expected": "23.518882751464844",
+ "date": "2018-04-21",
+ "ticker": "FTI",
+ "company": "FMC Technologies, Inc.",
+ "url": "https://www.reuters.com/article/brief-dundee-energy-ltd-announces-sale-o/brief-dundee-energy-ltd-announces-sale-of-assets-of-dundee-energy-ltd-partnership-idUSFWN1RX101"
+}

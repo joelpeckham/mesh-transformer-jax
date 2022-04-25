@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Buffett to Invest $5 Billion in Shaky Bank of America' was published on 2011-08-26. The body of the article is as follows:\n    \nWarren E. Buffett, the legendary investor, is sinking $5 billion into Bank of America in a bold show of faith in the country\u2019s biggest, and most beleaguered, financial institution. It comes amid deepening worries about the long-term health of the company, which has already had to set aside roughly $20 billion to atone for its mortgage misdeeds at the height of the housing bubble.\n\n    The day before the article was published, the stock price of Bank of America Corporation was 6.598453521728516 and the day after the article was published, the stock price of Bank of America Corporation was ",
+ "expected": "7.236733913421631",
+ "date": "2011-08-26",
+ "ticker": "BAC",
+ "company": "Bank of America Corporation",
+ "url": "https://www.nytimes.com/2011/08/26/business/buffett-to-invest-5-billion-in-shaky-bank-of-america.html"
+}

@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Dundee REIT Falls After Deal to Buy Scotia Plaza' was published on 2012-05-23. The body of the article is as follows:\n    \nDundee Real Estate Investment Trust (D-U) \nfell after saying it would issue shares to help fund the\npurchase of two-thirds of Scotia Plaza in Canada\u2019s most\nexpensive office sale.  Dundee units fell 53 cents, or 1.5 percent, to C$36.07 at\n11:03 a.m. in Toronto and earlier fell to C$35.90, its lowest\nlevel since April 5.  Dundee and H&R Real Estate Investment Trust agreed late\nyesterday to buy Scotia Plaza, Canada\u2019s second-tallest office\nbuilding, from  Bank of Nova Scotia (BNS)  for a record C$1.27 billion\n($1.24 billion).  Toronto-based Dundee agreed to sell as many as 9 million\nunits of its trust at a price of C$35.90 each to help finance\nthe sale.  The transaction will be the biggest office sale in  Canada ,\naccording to Real Capital Analytics Inc., a New York-based\nproperty research company.  To contact the reporter on this story:\nSean B. Pasternak in Toronto at \n spasternak@bloomberg.net   To contact the editors responsible for this story:\nDavid Scanlan at \n dscanlan@bloomberg.net ;\nDavid Scheer at \n dscheer@bloomberg.net\n\n    The day before the article was published, the stock price of Bank Nova Scotia Halifax Pfd 3 was 32.57282257080078 and the day after the article was published, the stock price of Bank Nova Scotia Halifax Pfd 3 was ",
+ "expected": "32.282676696777344",
+ "date": "2012-05-23",
+ "ticker": "BNS",
+ "company": "Bank Nova Scotia Halifax Pfd 3",
+ "url": "http://www.bloomberg.com/news/2012-05-23/dundee-reit-falls-after-deal-to-buy-scotia-plaza.html"
+}

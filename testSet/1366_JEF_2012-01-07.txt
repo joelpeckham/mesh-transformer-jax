@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'RBS Will Shut Cash Equities Unit With 1,200 Staff, Times Reports' was published on 2012-01-07. The body of the article is as follows:\n    \nRoyal Bank of Scotland Group Plc (RBS)  will\nclose its cash equities unit, which employs about 1,200 people,\nbecause of its small and irregular profits, the Times of London\nreported, citing unidentified people familiar with the decision.  The business is one of the investment banking divisions\nthat won\u2019t be retained in a longer-term plan to be announced\nnext week that aims to prepare the bank for the end of U.K.\nstate control, the newspaper said today.  While RBS hasn\u2019t found a buyer for the entire equities\ndivision, Oriel Securities Ltd, Numis Corp Plc. and  Jefferies\nGroup Inc. (JEF)  are interested in buying Hoare Govett, its small\ncorporate equities broking arm, the newspaper said.  To contact the reporter on this story:\nSimon Packard in  London  at \n packard@bloomberg.net   To contact the editor responsible for this story:\nDick Schumacher in London at \n dschumacher@bloomberg.net\n\n    The day before the article was published, the stock price of Jefferies Financial Group Inc. was 18.282936096191406 and the day after the article was published, the stock price of Jefferies Financial Group Inc. was ",
+ "expected": "18.458953857421875",
+ "date": "2012-01-07",
+ "ticker": "JEF",
+ "company": "Jefferies Financial Group Inc.",
+ "url": "http://www.bloomberg.com/news/2012-01-07/rbs-will-shut-cash-equities-business-with-1-200-employees-times-reports.html"
+}

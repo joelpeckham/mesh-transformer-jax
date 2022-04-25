@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Putin Awards Russia\u2019s Richest Man, Usmanov, Order for Service' was published on 2013-07-08. The body of the article is as follows:\n    \nPresident  Vladimir Putin  signed a\ndecree to award billionaire Alisher Usmanov the Order for\nService to the Fatherland, Russia\u2019s highest civil award,\naccording to a statement on the government\u2019s website.  Usmanov, who turns 60 in September, was given a IV class\norder in recognition of his \u201cservices to the state, as well as\nhis community and charitable activities.\u201d  Usmanov is Russia\u2019s richest man with a fortune of nearly\n$19 billion, according to the  Bloomberg Billionaires Index . His\nmain assets include stakes in Russia\u2019s largest iron ore\nproducer, Metalloinvest, and OAO Megafon, the country\u2019s second-largest mobile phone operator. He also has holdings in  Facebook\nInc. (FB)  and  Apple Inc. (AAPL)   To contact the reporter on this story:\nYuliya Fedorinova in Moscow at \n yfedorinova@bloomberg.net   To contact the editor responsible for this story:\nJohn Viljoen at \n jviljoen@bloomberg.net\n\n    The day before the article was published, the stock price of Apple Inc. was 13.055986404418945 and the day after the article was published, the stock price of Apple Inc. was ",
+ "expected": "13.210186958312988",
+ "date": "2013-07-08",
+ "ticker": "AAPL",
+ "company": "Apple Inc.",
+ "url": "http://www.bloomberg.com/news/2013-07-08/putin-awards-russia-s-richest-man-usmanov-order-for-service.html"
+}

@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'HSBC Sued by Hua Nan, Taiwan Banks Over Pang's PEMGroup Investment Losses' was published on 2010-10-16. The body of the article is as follows:\n    \nHSBC Holdings Plc was sued by five\nTaiwanese banks, including Hua Nan Financial Holdings Co., which\nclaim HSBC aided the fraud by deceased financier Danny Pang\u2019s\nPEMGroup that caused them more than $500 million in damages.  To contact the reporter on this story:\nEdvard Pettersson in Los Angeles at \n epettersson@bloomberg.net   To contact the editor responsible for this story:\nPeter Blumberg at \n pblumberg1@bloomberg.net\n\n    The day before the article was published, the stock price of HSBC Holdings, plc. was 29.875045776367188 and the day after the article was published, the stock price of HSBC Holdings, plc. was ",
+ "expected": "30.052196502685547",
+ "date": "2010-10-16",
+ "ticker": "HSBC",
+ "company": "HSBC Holdings, plc.",
+ "url": "http://www.bloomberg.com/news/2010-10-16/hsbc-sued-by-hua-nan-taiwan-banks-over-pang-s-pemgroup-investment-losses.html"
+}

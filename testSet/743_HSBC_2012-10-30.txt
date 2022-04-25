@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Lonmin Said to Tap HSBC, Citigroup for $800 Million Share Sale' was published on 2012-10-30. The body of the article is as follows:\n    \nLonmin (LMI)  Plc, the third-largest\nplatinum producer, has selected HSBC Holdings Plc and  Citigroup\nInc. (C)  to manage its planned $800 million share sale, two people\nfamiliar with the plans said.  Lonmin also picked JPMorgan Chase & Co. and Standard Bank\nGroup Ltd. for the sale, the people said, asking not to be named\nas the process is private. Officials at the banks declined to\nmake any immediate comment. Lonmin declined to comment, saying\nit will release details of the transaction later.  The mining company needs the funds to avoid breaching debt\nconditions set by lenders. A six-week wildcat pay strike at its\nMarikana mine in South Africa cut output, curbing income from\nsales.  To contact the reporter on this story:\nRuth David in London at \n rdavid9@bloomberg.net ;\nCarli Cooke (nee Lourens) in Johannesburg at \n clourens@bloomberg.net   To contact the editor responsible for this story:\nJohn Viljoen at \n jviljoen@bloomberg.net\n\n    The day before the article was published, the stock price of HSBC Holdings, plc. was 30.977977752685547 and the day after the article was published, the stock price of HSBC Holdings, plc. was ",
+ "expected": "31.02827262878418",
+ "date": "2012-10-30",
+ "ticker": "HSBC",
+ "company": "HSBC Holdings, plc.",
+ "url": "http://www.bloomberg.com/news/2012-10-30/lonmin-said-to-tap-hsbc-citigroup-for-800-million-share-sale.html"
+}

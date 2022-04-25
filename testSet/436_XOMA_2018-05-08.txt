@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'BRIEF-Xoma Announces $20 Mln Credit Facility With Silicon Valley Bank To Advance Royalty-Aggregator Business Model' was published on 2018-05-08. The body of the article is as follows:\n    \nMay 8 (Reuters) -\n* XOMA ANNOUNCES $20 MILLION CREDIT FACILITY WITH SILICON VALLEY BANK TO ADVANCE ROYALTY-AGGREGATOR BUSINESS MODEL Source text for Eikon:\n \n\n    The day before the article was published, the stock price of XOMA Corporation was 24.239999771118164 and the day after the article was published, the stock price of XOMA Corporation was ",
+ "expected": "24.549999237060547",
+ "date": "2018-05-08",
+ "ticker": "XOMA",
+ "company": "XOMA Corporation",
+ "url": "https://www.reuters.com/article/brief-xoma-announces-20-mln-credit-facil/brief-xoma-announces-20-mln-credit-facility-with-silicon-valley-bank-to-advance-royalty-aggregator-business-model-idUSASC0A0E2"
+}

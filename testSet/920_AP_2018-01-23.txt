@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'As U.S. Fires Trade Shot at Beijing, Marriott and Other Multinationals Caught in Crossfire' was published on 2018-01-23. The body of the article is as follows:\n    \nSHANGHAI\u2014Judged by recent standards, Marriott International Inc.\u2019s corporate apology in China was particularly abject.\nThe hotel chain had implied in a marketing survey that Taiwan is a separate country, along with Hong Kong, Macau and Tibet. Though not altogether inaccurate\u2014Taiwan has most attributes of statehood, including fixed borders, an army to defend those borders and a smoothly functioning democracy\u2014it is heresy to say so. Beijing was incensed. Marriott kowtowed.\n... RELATED VIDEO What\u2019s Expected for China in the Next Five Years? China\u2019s Communist Party concluded its weeklong congress, giving President Xi Jinping authority not seen in decades. It sets the stage for him to stay in power after his second five-year term expires. Here's what to expect. Photo: AP (Originally published Oct. 27, 2017) \n\n    The day before the article was published, the stock price of Ampco-Pittsburgh Corporation was 15.050000190734863 and the day after the article was published, the stock price of Ampco-Pittsburgh Corporation was ",
+ "expected": "15.199999809265137",
+ "date": "2018-01-23",
+ "ticker": "AP",
+ "company": "Ampco-Pittsburgh Corporation",
+ "url": "https://www.wsj.com/articles/as-u-s-fires-trade-shot-at-beijing-marriott-and-other-multinationals-caught-in-crossfire-1516703585"
+}

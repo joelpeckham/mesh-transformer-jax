@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Exxon Mobil to Sell Its Japanese Arm for $3.9 Billion' was published on 2012-01-29. The body of the article is as follows:\n    \nExxon Mobil said on Sunday that it had agreed to sell its Japanese subsidiary to TonenGeneral Sekiyu, a major refinery operator in Japan, for about $3.9 billion, as part of a revamping of the oil giant\u2019s operations in that country.\n\n    The day before the article was published, the stock price of Exxon Mobil Corporation was 56.98200607299805 and the day after the article was published, the stock price of Exxon Mobil Corporation was ",
+ "expected": "56.75629425048828",
+ "date": "2012-01-29",
+ "ticker": "XOM",
+ "company": "Exxon Mobil Corporation",
+ "url": "https://dealbook.nytimes.com/2012/01/29/exxon-mobil-to-sell-its-japanese-arm-for-3-9-billion/"
+}

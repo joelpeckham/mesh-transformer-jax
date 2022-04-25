@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Alberta Premier Says U.S. Visit on Keystone Yields No Timeframe' was published on 2013-11-12. The body of the article is as follows:\n    \nAlberta Premier Alison Redford said\nshe had a \u201crobust discussion\u201d with U.S. officials today about\nthe Keystone XL pipeline, though she said she got no indication\nwhen an environmental review will be completed.  Redford spoke with reporters after a meeting with Senator\n Mary Landrieu , a Louisiana Democrat who backs the pipeline.\nLandrieu said she will press the State Department to approve the\npipeline.  TransCanada Corp. (TRP)  has applied for a permit to build\nthe pipeline linking Canada\u2019s oil sands with refineries on the\nU.S. coast of the Gulf of Mexico.  To contact the reporter on this story:\nJim Snyder in Washington at \n jsnyder24@bloomberg.net   To contact the editor responsible for this story:\nJon Morgan at \n jmorgan97@bloomberg.net\n\n    The day before the article was published, the stock price of TransCanada Corporation was 31.03831672668457 and the day after the article was published, the stock price of TransCanada Corporation was ",
+ "expected": "31.163158416748047",
+ "date": "2013-11-12",
+ "ticker": "TRP",
+ "company": "TransCanada Corporation",
+ "url": "http://www.bloomberg.com/news/2013-11-12/alberta-premier-says-u-s-visit-on-keystone-yields-no-timeframe.html"
+}

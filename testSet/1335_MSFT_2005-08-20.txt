@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Taking the Temperature of the Creative Body' was published on 2005-08-20. The body of the article is as follows:\n    \nIn the video game world, huge annual conventions like the Electronic Entertainment Expo in Los Angeles and the Tokyo Game Show naturally attract lots of attention. But it is both easier and more accurate to take the industry's true temperature at small private gatherings like a conference organized by the Ziff Davis publishing company in northern California last week.\n\n    The day before the article was published, the stock price of Microsoft Corporation was 19.199310302734375 and the day after the article was published, the stock price of Microsoft Corporation was ",
+ "expected": "19.335832595825195",
+ "date": "2005-08-20",
+ "ticker": "MSFT",
+ "company": "Microsoft Corporation",
+ "url": "https://www.nytimes.com/2005/08/20/sports/othersports/taking-the-temperature-of-the-creative-body.html"
+}

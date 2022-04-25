@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'GM expects South Korea-US's revised trade deal to ease investment risks: South Korea's trade ministry' was published on 2018-03-27. The body of the article is as follows:\n    \nSEOUL (Reuters) - General Motors expects a revised trade deal between South Korea and the United States would \u201chelp ease investment risks\u201d, South Korea\u2019s trade ministry said in a statement on Tuesday.\nSeoul said on Monday it and Washington have agreed in principle to revise a trade pact sharply criticised by U.S. President Donald Trump, with U.S. automakers winning improved market access.\nReporting by Dahee Kim, Hyunjoo Jin, editing by Louise Heavens\n \n\n    The day before the article was published, the stock price of General Motors Company was 33.11377716064453 and the day after the article was published, the stock price of General Motors Company was ",
+ "expected": "32.635337829589844",
+ "date": "2018-03-27",
+ "ticker": "GM",
+ "company": "General Motors Company",
+ "url": "https://www.reuters.com/article/us-gm-southkorea/gm-expects-south-korea-uss-revised-trade-deal-to-ease-investment-risks-south-koreas-trade-ministry-idUSKBN1H31IR"
+}

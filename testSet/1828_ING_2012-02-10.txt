@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'VIKING TECH CORP January Sales Fall 14.00% (Table) : 3624 TT' was published on 2012-02-10. The body of the article is as follows:\n    \nVIKING TECH CORP (3624)  said unconsolidated sales\nin January fell 14.00% to NT$73,372,000 from NT$85,321,000,\naccording to a statement filed to the  Taiwan Stock Exchange .  (Figures are in thousands of New Taiwan dollars)  =================================================================  1/2012           1/2011\nSales             73,372           85,321    \nYOY%             -14.00%   -----------------Year-to-date-----------------\nSales             73,372           85,321    \nYOY%             -14.00% \n=================================================================\n\n    The day before the article was published, the stock price of ING Group, N.V. was 6.834896564483643 and the day after the article was published, the stock price of ING Group, N.V. was ",
+ "expected": "6.507297992706299",
+ "date": "2012-02-10",
+ "ticker": "ING",
+ "company": "ING Group, N.V.",
+ "url": "http://www.bloomberg.com/news/2012-02-10/viking-tech-corp-january-sales-fall-14-00-table-3624-tt.html"
+}

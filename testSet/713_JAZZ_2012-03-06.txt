@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Jazz Pharmaceuticals Shares Decline on Offering of 7.88 Million Shares' was published on 2012-03-06. The body of the article is as follows:\n    \nJazz Pharmaceuticals Plc (JAZZ) , maker of\nthe narcolepsy medicine Xyrem, declined in New York trading\nafter the company reported a public offering of 7.88 million\nshares by some stockholders.  Jazz dropped 5.1 percent to $48.72 at 4 p.m. The shares of\nthe Dublin-based company have gained 80 percent in the last 12\nmonths. The drugmaker also has offices in  Palo Alto , California,\nand Philadelphia.  Barclays Plc and Citigroup Inc. are leading the offering,\nJazz said yesterday in a statement. The company won\u2019t receive\nany proceeds from the sale, and the total number of shares\noutstanding won\u2019t change.  To contact the reporter on this story:\nMeg Tirrell in New York at \n mtirrell@bloomberg.net   To contact the editor responsible for this story:\nReg Gale at \n rgale5@bloomberg.net\n\n    The day before the article was published, the stock price of Jazz Pharmaceuticals plc was 51.33000183105469 and the day after the article was published, the stock price of Jazz Pharmaceuticals plc was ",
+ "expected": "48.529998779296875",
+ "date": "2012-03-06",
+ "ticker": "JAZZ",
+ "company": "Jazz Pharmaceuticals plc",
+ "url": "http://www.bloomberg.com/news/2012-03-06/jazz-pharmaceuticals-shares-decline-on-offering-of-7-88-million-shares.html"
+}

@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'WPP chief Sorrell investigated over misconduct allegation' was published on 2018-04-04. The body of the article is as follows:\n    \nWPP chief Sorrell investigated over misconduct allegation 10:54am BST - 00:38 \nThe world's biggest advertising firm, WPP, is investigating chief executive Martin Sorrell over an allegation of personal misconduct. He denies any wrongdoing. \u25b2 Hide Transcript \u25b6 View Transcript \nThe world's biggest advertising firm, WPP, is investigating chief executive Martin Sorrell over an allegation of personal misconduct. He denies any wrongdoing. Press CTRL+C (Windows), CMD+C (Mac), or long-press the URL below on your mobile device to copy the code https://reut.rs/2q4cYQi\n\n    The day before the article was published, the stock price of WPP plc American Depositary Shares was 63.65066146850586 and the day after the article was published, the stock price of WPP plc American Depositary Shares was ",
+ "expected": "64.33717346191406",
+ "date": "2018-04-04",
+ "ticker": "WPP",
+ "company": "WPP plc American Depositary Shares",
+ "url": "https://uk.reuters.com/video/2018/04/04/wpp-chief-sorrell-investigated-over-misc?videoId=414743684"
+}

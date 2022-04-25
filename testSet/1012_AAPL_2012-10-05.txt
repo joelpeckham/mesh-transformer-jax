@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'U.S. Stocks Erase Gains as Banks, Apple Shares Retreat' was published on 2012-10-05. The body of the article is as follows:\n    \nU.S. stocks erased an early rally as\noptimism about a drop in the unemployment rate faded, with banks\nreversing gains and shares of  Apple Inc. (AAPL)  slumping.  The Standard & Poor\u2019s 500 Index was down less than 0.1\npercent at 1,460.2 at 2:58 p.m. in New York. The index rallied\nas much as 0.7 percent earlier, topping its best closing level\nin five years, following an unexpected decrease in the U.S.\njobless rate to a three-year low of 7.8 percent.  The Nasdaq Composite Index erased a similar rally as Apple\nsank 1.9 percent to below its average price from the past 50\ndays.  To contact the reporter on this story:\n Jeff Sutherland  in New York at \n jsutherlan13@bloomberg.net   To contact the editor responsible for this story:\nLynn Thomasson at \n lthomasson@bloomberg.net\n\n    The day before the article was published, the stock price of Apple Inc. was 20.50519561767578 and the day after the article was published, the stock price of Apple Inc. was ",
+ "expected": "19.624774932861328",
+ "date": "2012-10-05",
+ "ticker": "AAPL",
+ "company": "Apple Inc.",
+ "url": "http://www.bloomberg.com/news/2012-10-05/u-s-stocks-pare-gains-amid-slump-in-banks-as-apple-tumbles.html"
+}

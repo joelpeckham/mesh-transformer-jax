@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Lehman Asks Judge to Reconsider Some Claims Against JPMorgan' was published on 2012-05-04. The body of the article is as follows:\n    \nLehman Brothers Holdings Inc. asked a\njudge to reconsider his dismissal of some claims in an\n$8.6 billion lawsuit against  JPMorgan Chase & Co. (JPM) , saying\n\u201chundreds of millions of dollars\u201d might be gained for the\ndefunct firm\u2019s creditors if it had the right to pursue the\nfunds, according to a filing in U.S. Bankruptcy Court in\nManhattan.  To contact the reporter on this story:\nLinda Sandler in  New York  at \n lsandler@bloomberg.net   To contact the editor responsible for this story:\nStephen Farr at \n sfarr@bloomberg.net\n\n    The day before the article was published, the stock price of JP Morgan Chase & Co. was 32.90509033203125 and the day after the article was published, the stock price of JP Morgan Chase & Co. was ",
+ "expected": "31.96407127380371",
+ "date": "2012-05-04",
+ "ticker": "JPM",
+ "company": "JP Morgan Chase & Co.",
+ "url": "http://www.bloomberg.com/news/2012-05-04/lehman-asks-judge-to-reconsider-some-claims-against-jpmorgan.html"
+}

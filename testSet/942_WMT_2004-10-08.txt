@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Art' was published on 2004-10-08. The body of the article is as follows:\n    \nA selective listing by critics of The Times: New or noteworthy art, design and photography exhibitions at New York museums and art galleries this weekend. At many museums, children under 12 and members are admitted free. Addresses, unless otherwise noted, are in Manhattan. Most galleries are closed on Sundays and Mondays, but hours vary and should be checked by telephone. Gallery admission is free unless noted. * denotes a highly recommended show. Full reviews of recent museum and gallery shows: nytimes.com/art.\n\n    The day before the article was published, the stock price of Wal-Mart Stores, Inc. was 37.073307037353516 and the day after the article was published, the stock price of Wal-Mart Stores, Inc. was ",
+ "expected": "36.62331008911133",
+ "date": "2004-10-08",
+ "ticker": "WMT",
+ "company": "Wal-Mart Stores, Inc.",
+ "url": "https://www.nytimes.com/2004/10/08/arts/movies/the-listings-art-236594.html"
+}

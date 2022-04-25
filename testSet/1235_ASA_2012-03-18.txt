@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'EDB ErgoGroup Decides to Change Its Name to EVRY' was published on 2012-03-18. The body of the article is as follows:\n    \nEDB ErgoGroup ASA, an information\ntechnology service provider, has changed its name to EVRY, the\nOslo-based company said in a statement yesterday.  To contact the reporter on this story:\nJohan Carlstrom in Stockholm at \n jcarlstrom@bloomberg.net   To contact the editors responsible for this story:\nJonas Bergman at \n jbergman@bloomberg.net\n\n    The day before the article was published, the stock price of ASA  Gold and Precious Metals Limited was 24.941911697387695 and the day after the article was published, the stock price of ASA  Gold and Precious Metals Limited was ",
+ "expected": "24.62859535217285",
+ "date": "2012-03-18",
+ "ticker": "ASA",
+ "company": "ASA  Gold and Precious Metals Limited",
+ "url": "http://www.bloomberg.com/news/2012-03-18/edb-ergogroup-decides-to-change-its-name-to-evry.html"
+}

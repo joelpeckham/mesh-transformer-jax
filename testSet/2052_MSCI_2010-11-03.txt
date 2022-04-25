@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Europe Commodity Day Ahead: China 2010 Copper Consumption to Beat Forecast' was published on 2010-11-03. The body of the article is as follows:\n    \nThe following are the top stories on\nmetals, agriculture and shipping.  ECONOMIC EVENTS, AGRICULTURE EVENTS:  \nMetal Prices: ($/ton)  Last   %Chg\nAluminum        2,335   +0.2\nCopper          8,430   -0.1\nLead            2,500   +0.4\nZinc            2,470   +0.7\nNickel         23,599   +0.5\nTin            25,899   +0.4  Other Markets:  Last   %Chg      %YTD\n U.S. Dollar Index     776.78   +0.1      -1.4\nCrude Oil            $84.20   +0.4      +6.1\nGold              $1,355.35   -0.2      +24\n MSCI World Index    1,234.69   +0.1      +5.7\n\n    The day before the article was published, the stock price of MSCI Inc was 33.2053108215332 and the day after the article was published, the stock price of MSCI Inc was ",
+ "expected": "33.93378448486328",
+ "date": "2010-11-03",
+ "ticker": "MSCI",
+ "company": "MSCI Inc",
+ "url": "http://www.bloomberg.com/news/2010-11-03/europe-commodity-day-ahead-china-2010-copper-consumption-to-beat-forecast.html"
+}

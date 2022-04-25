@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Endo Pharmaceuticals to Change Name to Endo Health Solutions' was published on 2012-03-01. The body of the article is as follows:\n    \nEndo Pharmaceuticals Holdings Inc. (ENDP) ,\nmaker of the Opana ER painkiller, plans to change its name to\nEndo Health Solutions Inc. to reflect that the company\u2019s range\nof products has expanded  The new name will \u201creflect the company\u2019s significant\ntransformation,\u201d the  Chadds Ford , Pennsylvania-based company\nsaid in a statement today. A call to Kevin Wiggins, spokesman\nfor Endo, wasn\u2019t immediately returned.  Endo\u2019s products now include devices, practice management\nsoftware and both branded and generic drugs after acquisitions\nincluding the $2.9 billion purchase of American Medical Systems\nHolding Inc. announced in April 2011. Endo will ask shareholders\nto approve the new name at its annual shareholder meeting in\nMay.  To contact the reporter on this story:\nElizabeth Lopatto in New York at \n elopatto@bloomberg.net   To contact the editor responsible for this story:\nReg Gale at \n rgale5@bloomberg.net\n\n    The day before the article was published, the stock price of Endo Health Solutions Inc. was 37.06999969482422 and the day after the article was published, the stock price of Endo Health Solutions Inc. was ",
+ "expected": "37.2400016784668",
+ "date": "2012-03-01",
+ "ticker": "ENDP",
+ "company": "Endo Health Solutions Inc.",
+ "url": "http://www.bloomberg.com/news/2012-03-01/endo-pharmaceuticals-to-change-name-to-endo-health-solutions.html"
+}

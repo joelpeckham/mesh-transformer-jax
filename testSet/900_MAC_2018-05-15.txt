@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'BRIEF-Freddie Mac Prices $248 Mln Offering Of Guaranteed Tax-Exempt Ml Certificates' was published on 2018-05-15. The body of the article is as follows:\n    \nMay 15 (Reuters) - Federal Home Loan Mortgage Corp :\n* FREDDIE MAC PRICES $248 MILLION OFFERING OF GUARANTEED TAX-EXEMPT ML CERTIFICATES\n* FREDDIE MAC - ML-04 CERTIFICATES ARE EXPECTED TO SETTLE ON OR ABOUT MAY 23, 2018 Source text for Eikon: Further company coverage:\nOur Standards: The Thomson Reuters Trust Principles. \n\n    The day before the article was published, the stock price of Macerich Company (The) was 43.85791015625 and the day after the article was published, the stock price of Macerich Company (The) was ",
+ "expected": "42.743412017822266",
+ "date": "2018-05-15",
+ "ticker": "MAC",
+ "company": "Macerich Company (The)",
+ "url": "https://www.reuters.com/article/brief-freddie-mac-prices-248-mln-offerin/brief-freddie-mac-prices-248-mln-offering-of-guaranteed-tax-exempt-ml-certificates-idUSASC0A29T"
+}

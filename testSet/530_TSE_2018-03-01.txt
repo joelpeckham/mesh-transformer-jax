@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Resona Says Kansai Mirai Financial Group To List On TSE's First Section April 1, Start Trading April 2' was published on 2018-03-01. The body of the article is as follows:\n    \nMarch 1 (Reuters) - Resona Holdings Inc:\n* RESONA SAYS KANSAI MIRAI FINANCIAL GROUP TO LIST ON TSE\u2019S FIRST SECTION APRIL 1, START TRADING APRIL 2 Source text for Eikon: (Reporting By Chris Gallagher)\n \n\n    The day before the article was published, the stock price of Trinseo S.A. was 70.1397476196289 and the day after the article was published, the stock price of Trinseo S.A. was ",
+ "expected": "69.87538146972656",
+ "date": "2018-03-01",
+ "ticker": "TSE",
+ "company": "Trinseo S.A.",
+ "url": "https://www.reuters.com/article/brief-resona-says-kansai-mirai-financial/brief-resona-says-kansai-mirai-financial-group-to-list-on-tses-first-section-april-1-start-trading-april-2-idUST9N1PI02D"
+}

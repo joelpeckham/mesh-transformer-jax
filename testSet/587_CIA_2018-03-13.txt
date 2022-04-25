@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Trump replaces Tillerson with CIA's Pompeo' was published on 2018-03-13. The body of the article is as follows:\n    \nTrump replaces Tillerson with CIA's Pompeo 4:48pm GMT - 00:48 \nIn one of his last news conferences as Secretary of State, Rex Tillerson discusses possible talks with North Korea. President Donald Trump replaced Tillerson with CIA Director Mike Pompeo on Tuesday. Rough Cut (no reporter narration).   \nIn one of his last news conferences as Secretary of State, Rex Tillerson discusses possible talks with North Korea. President Donald Trump replaced Tillerson with CIA Director Mike Pompeo on Tuesday. Rough Cut (no reporter narration).  //reut.rs/2IpAcbR\n\n    The day before the article was published, the stock price of Citizens, Inc. was 7.980000019073486 and the day after the article was published, the stock price of Citizens, Inc. was ",
+ "expected": "7.840000152587891",
+ "date": "2018-03-13",
+ "ticker": "CIA",
+ "company": "Citizens, Inc.",
+ "url": "https://uk.reuters.com/video/2018/03/13/trump-replaces-tillerson-with-cias-pompe?videoId=408608353"
+}

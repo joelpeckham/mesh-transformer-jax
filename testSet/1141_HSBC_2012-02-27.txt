@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'HSBC Seeks to Buy Bank in Turkey to Speed Growth, Hurriyet Says' was published on 2012-02-27. The body of the article is as follows:\n    \nHSBC Holdings Plc (HSBA) ,  Europe \u2019s biggest\nbank, is seeking to acquire a bank in  Turkey ,  Hurriyet  reported,\nciting Martin Spurling, the bank\u2019s chief executive for Turkish\noperations.  The bank needs acquisitions among medium-sized lenders to\ngenerate faster growth in Turkey, Spurling said, according to\nthe newspaper.  HSBC plans to add 30 new branches this year to its 333-\nbranch network.  To contact the reporter on this story:\nErcan Ersoy in Istanbul at \n eersoy@bloomberg.net   To contact the editor responsible for this story:\nBenedikt Kammel at \n bkammel@bloomberg.net\n\n    The day before the article was published, the stock price of HSBC Holdings, plc. was 27.395503997802734 and the day after the article was published, the stock price of HSBC Holdings, plc. was ",
+ "expected": "26.89084815979004",
+ "date": "2012-02-27",
+ "ticker": "HSBC",
+ "company": "HSBC Holdings, plc.",
+ "url": "http://www.bloomberg.com/news/2012-02-27/hsbc-seeks-to-buy-bank-in-turkey-to-speed-growth-hurriyet-says.html"
+}

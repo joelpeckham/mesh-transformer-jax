@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Inflation is not running away on the upside: CIO' was published on 2018-02-14. The body of the article is as follows:\n    \nInflation is not running away on the upside: CIO 2 Hours Ago Steve Massocca, Wedbush Securities managing director, and Jerry Castellini, CastleArk Management president and CIO, discuss the effect of the recent period of volatility alongside current inflation and rising rate fears on the markets.\n\n    The day before the article was published, the stock price of City Office REIT, Inc. was 8.164730072021484 and the day after the article was published, the stock price of City Office REIT, Inc. was ",
+ "expected": "8.195688247680664",
+ "date": "2018-02-14",
+ "ticker": "CIO",
+ "company": "City Office REIT, Inc.",
+ "url": "https://www.cnbc.com/video/2018/02/14/inflation-is-not-running-away-on-the-upside-cio.html"
+}

@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Colombia Congress Opens Ways for Coltel Merger With Movistar' was published on 2011-12-15. The body of the article is as follows:\n    \nColombian lawmakers approved a\nproposal by Finance Minister Juan Carlos Echeverry to open the\nway for Colombia Telecomunicaciones SA to merge with Movistar, a\nunit of  Telefonica SA (TEF) ,  Spain \u2019s largest phone company.  The merger of Telefonica\u2019s local cellular phone unit and\nColtel, a fixed-line phone company with declining sales, would\nboost competitiveness and help pay for \u201conerous\u201d pension\nobligations of more than 17,000 former public employees,\nEcheverry said in an e-mailed statement late yesterday.  To contact the reporter on this story:\nBlake Schmidt in Bogota at \n bschmidt16@bloomberg.net   To contact the editor responsible for this story:\nDavid Papadopoulos at \n papadopoulos@bloomberg.net\n\n    The day before the article was published, the stock price of Telefonica SA was 9.043122291564941 and the day after the article was published, the stock price of Telefonica SA was ",
+ "expected": "8.967626571655273",
+ "date": "2011-12-15",
+ "ticker": "TEF",
+ "company": "Telefonica SA",
+ "url": "http://www.bloomberg.com/news/2011-12-15/colombia-congress-opens-ways-for-coltel-merger-with-movistar.html"
+}

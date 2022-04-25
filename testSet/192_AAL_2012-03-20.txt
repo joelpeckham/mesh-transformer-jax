@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Anglo American Said to Sell 750 Million Euros of 10-Year Bonds' was published on 2012-03-20. The body of the article is as follows:\n    \nAnglo American Plc (AAL)  plans to sell\n750 million euros of 10-year bonds, according to a banker\ninvolved in the deal.  The notes will be priced to yield 112 basis points to 118\nbasis points more than the benchmark mid-swap rate.  To contact the reporter on this story:\nHannah Benjamin in London at \n hbenjamin1@bloomberg.net   To contact the editor responsible for this story:\nMichael Shanahan at \n mshanahan3@bloomberg.net\n\n    The day before the article was published, the stock price of American Airlines Group, Inc. was 6.778313159942627 and the day after the article was published, the stock price of American Airlines Group, Inc. was ",
+ "expected": "7.193118095397949",
+ "date": "2012-03-20",
+ "ticker": "AAL",
+ "company": "American Airlines Group, Inc.",
+ "url": "http://www.bloomberg.com/news/2012-03-20/anglo-american-said-to-sell-750-million-euros-of-10-year-bonds.html"
+}

@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Slovak junior government party wants early election if coalition collapses' was published on 2018-03-12. The body of the article is as follows:\n    \nBRATISLAVA (Reuters) - The Slovak National Party (SNS), a member of Prime Minister Robert Fico\u2019s three-party government, would want early elections if the ruling coalition loses the support of the Most-Hid party or its majority in parliament, SNS leader Andrej Danko said on Monday.\nFico is fighting to save his government after mass protests following a journalist\u2019s murder. On Monday, Fico\u2019s ally, Interior Minister Robert Kalinak, said he would resign, bowing to the demands of Most-Hid.\nReporting by Tatiana Jancarikova; Writing by Jason Hovet; Editing by Toby Chopra\n \n\n    The day before the article was published, the stock price of Fair Isaac Corproation was 178.08999633789062 and the day after the article was published, the stock price of Fair Isaac Corproation was ",
+ "expected": "176.10000610351562",
+ "date": "2018-03-12",
+ "ticker": "FICO",
+ "company": "Fair Isaac Corproation",
+ "url": "https://www.reuters.com/article/us-slovakia-crime-politics-party/slovak-junior-government-party-wants-early-election-if-coalition-collapses-idUSKCN1GO1IG"
+}

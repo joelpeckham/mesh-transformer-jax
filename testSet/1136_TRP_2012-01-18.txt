@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'Obama Denies Permit for Keystone XL Pipeline, Will Consider Revised Route' was published on 2012-01-18. The body of the article is as follows:\n    \nThe Obama administration denied a\npermit for  TransCanada Corp. (TRP) \u2019s Keystone XL oil pipeline and will\nlet the company file a revised route that avoids an\nenvironmentally sensitive area in Nebraska.  The decision by the State Department today was praised by\nenvironmentalists, who said the pipeline would add to U.S.\ngreenhouse-gas emissions, and was decried by the U.S. oil and\ngas industry and Republian lawmakers, who had pushed President\n Barack Obama  to approve the project as a way to create jobs.  To contact the reporter on this story:\nSteve Geimann in Washington at \n sgeimann@bloomberg.net   To contact the editor responsible for this story:\nSteve Geimann at \n sgeimann@bloomberg.net\n\n    The day before the article was published, the stock price of TransCanada Corporation was 26.99923324584961 and the day after the article was published, the stock price of TransCanada Corporation was ",
+ "expected": "26.669342041015625",
+ "date": "2012-01-18",
+ "ticker": "TRP",
+ "company": "TransCanada Corporation",
+ "url": "http://www.bloomberg.com/news/2012-01-18/obama-denies-permit-for-keystone-xl-pipeline-will-consider-revised-route.html"
+}

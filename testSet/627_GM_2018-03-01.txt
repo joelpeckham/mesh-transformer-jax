@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'U.S. Car Sales Decline in February' was published on 2018-03-01. The body of the article is as follows:\n    \nAuto sales fell sharply in February as tightening credit conditions, higher interest rates and stingy discounts drove up monthly payments and slowed the U.S. car business even as the broader economy remains strong.\nDetroit auto makers on Thursday reported the second-consecutive collective decline in domestic sales in 2018, with dealers saying that it is getting harder to offer customers an attractive monthly payment.\n\nEven... To Read the Full Story Subscribe Sign In\n\n    The day before the article was published, the stock price of General Motors Company was 35.8407096862793 and the day after the article was published, the stock price of General Motors Company was ",
+ "expected": "34.09192657470703",
+ "date": "2018-03-01",
+ "ticker": "GM",
+ "company": "General Motors Company",
+ "url": "https://www.wsj.com/articles/u-s-car-sales-down-in-february-1519915380"
+}

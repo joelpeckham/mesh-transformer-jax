@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'The Top Ten: Today\u2019s Most Important Stocks' was published on 2012-02-22. The body of the article is as follows:\n    \nBloomberg\u2019s  Trish Regan , Adam \nJohnson and Lisa Murphy report on today\u2019s ten most important \nstocks including Toll Brothers, MGM Resorts and \nHewlett-Packard.  (Source: Bloomberg)  Running Time: 04:00\n\n    The day before the article was published, the stock price of MGM Resorts International was 13.407108306884766 and the day after the article was published, the stock price of MGM Resorts International was ",
+ "expected": "13.482697486877441",
+ "date": "2012-02-22",
+ "ticker": "MGM",
+ "company": "MGM Resorts International",
+ "url": "http://www.bloomberg.com/news/2012-02-22/the-top-ten-today-s-most-important-stocks.html"
+}

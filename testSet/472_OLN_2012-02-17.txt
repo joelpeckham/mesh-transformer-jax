@@ -1,0 +1,8 @@
+{
+ "context": "The following article called 'U.S. Chlorine Plants in January Run at Highest Rate Since August' was published on 2012-02-17. The body of the article is as follows:\n    \nThe average operating rate of U.S.\nplants that make chlorine and caustic soda rose to 85 percent in\nJanuary, the highest output level in five months, a trade group\nsaid.  The industry\u2019s average operating rate for plants that make\nthe chemicals known as chlor-alkali rose from 79 percent in\nDecember,  The Chlorine Institute , based in Arlington,  Virginia ,\nsaid today in an e-mail. Plants on average ran at 86 percent of\ncapacity in August.  Chlorine is used to make vinyl products such as siding and\npolyvinyl chloride pipe. Caustic soda, produced in tandem with\nchlorine, is used to make pulp, paper and soap.  Dow Chemical Co. (DOW) \nis the world\u2019s largest maker of chlor-alkali, followed by\n Occidental Petroleum Corp. (OXY) ,  Olin Corp. (OLN)  and  PPG Industries Inc. (PPG)   To contact the reporter on this story:\nJack Kaskey in Houston at \n jkaskey@bloomberg.net   To contact the editor responsible for this story:\nSimon Casey at \n scasey4@bloomberg.net\n\n    The day before the article was published, the stock price of Olin Corporation was 15.123786926269531 and the day after the article was published, the stock price of Olin Corporation was ",
+ "expected": "15.266329765319824",
+ "date": "2012-02-17",
+ "ticker": "OLN",
+ "company": "Olin Corporation",
+ "url": "http://www.bloomberg.com/news/2012-02-17/u-s-chlorine-plants-in-january-run-at-highest-rate-since-august.html"
+}
