@@ -96,8 +96,11 @@ if __name__ == "__main__":
         print(f"Found {len(testFiles)} files in {args.test_files}")
 
         outputdata = []
-        for article in testFiles[:args.limit]:
+        limit = args.limit if args.limit else len(testFiles)
+        for article in testFiles[:limit]:
             context = article['context']
+            if len(context).split() > 1010:
+                print(f"Skipping {article['url']} because it is too long")
             tokens = tokenizer.encode(context)
             start = time.time()
 
