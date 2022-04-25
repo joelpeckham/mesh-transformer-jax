@@ -21,8 +21,8 @@
 
   "tpu_size": 256,
 
-  "bucket": "neo-models",
-  "model_dir": "mesh_jax_pile_6B_rotary",
+  "bucket": "peckham_tpu_europe",
+  "model_dir": "step_383500",
 
   "train_set": "pile.train.index",
   "val_set": {
