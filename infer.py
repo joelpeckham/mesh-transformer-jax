@@ -66,10 +66,11 @@ if __name__ == "__main__":
     mesh_shape = (jax.device_count() // cores_per_replica, cores_per_replica)
     devices = np.array(jax.devices()).reshape(mesh_shape)
 
-    with open(f"gs://{bucket}/{model_dir}/meta.json", "r") as f:
-        meta = json.load(f)
+    # with open(f"gs://{bucket}/{model_dir}/meta.json", "r") as f:
+    #     meta = json.load(f)
 
-    ckpt_step = meta["checkpoints"][-1]
+    # ckpt_step = meta["checkpoints"][-1]
+    ckpt_step = 383500
     print(f"using checkpoint {ckpt_step}")
 
     total_batch = per_replica_batch * jax.device_count() // cores_per_replica

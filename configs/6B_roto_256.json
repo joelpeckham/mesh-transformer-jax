@@ -22,7 +22,7 @@
   "tpu_size": 256,
 
   "bucket": "peckham_tpu_europe",
-  "model_dir": "step_383500",
+  "model_dir": "",
 
   "train_set": "pile.train.index",
   "val_set": {
