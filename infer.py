@@ -100,7 +100,7 @@ if __name__ == "__main__":
         for article in testFiles[:limit]:
             context = article['context']
             if len(context.split()) > 1010:
-                print(f"Skipping {article['url']} because it is too long")
+                print(f"Skipping {article['title']} because it is too long")
                 continue
             tokens = tokenizer.encode(context)
             start = time.time()
